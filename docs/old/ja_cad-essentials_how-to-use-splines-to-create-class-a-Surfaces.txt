@@ -1,9 +1,0 @@
-CADの基本
-スプラインを使用してクラスAサーフェスを作成する方法
-スプラインを使用してクラスAサーフェスを作成する方法
-参考動画
-これらの動画は、Plasticity以外のアプリケーションを使用してデモンストレーションを行っていますが、Plasticityの操作にも適用可能なコンセプトが含まれているため、参考としてこちらで提供します。
-Siemens NX Freeform Pro Tutorial - how to use Splines to create Class-A Surfaces (Part 1/2) - Bizlearn
-Siemens NX Freeform Pro Tutorial - how to use Splines to create Class-A Surfaces (Part 2/2) - Bizlearn
-カーブとサーフェスの連続性
-フィレットの操作順序

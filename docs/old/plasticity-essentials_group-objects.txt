@@ -1,9 +1,0 @@
-Plasticity Essentials
-Group Objects
-Group Objects
-You can organize objects by grouping them in the Outliner.
-see
-Group Objects
-section in the Outliner.
-Assets
-Toggle Object States

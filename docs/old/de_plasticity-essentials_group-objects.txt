@@ -1,9 +1,0 @@
-Plasticity Grundlagen
-Objekte gruppieren
-Group Objects
-Sie können Objekte organisieren, indem Sie sie im Gliederung gruppieren.
-siehe den Abschnitt
-Group Objects
-im Gliederung.
-Assets
-Objektzustände umschalten
