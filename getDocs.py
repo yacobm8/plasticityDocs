@@ -13,12 +13,16 @@ PAUSE_FLAG = threading.Event()
 PAUSE_FLAG.set()  # Start unpaused
 VISITED = set()
 
-def save_text(url, text):
+def url_to_filename(url):
     parsed = urlparse(url)
     path = parsed.path.strip("/")
     if not path:
         path = "index"
     filename = path.replace("/", "_") + ".txt"
+    return filename
+
+def save_text(url, text):
+    filename = url_to_filename(url)
     os.makedirs(DOCS_DIR, exist_ok=True)
     with open(os.path.join(DOCS_DIR, filename), "w", encoding="utf-8") as f:
         f.write(text)
@@ -44,8 +48,30 @@ def extract_and_save(url):
         print(f"Skipping non-English page: {url}")
         VISITED.add(url)
         return
-    print(f"Downloading: {url}")
+    filename = url_to_filename(url)
+    filepath = os.path.join(DOCS_DIR, filename)
     VISITED.add(url)
+    if os.path.exists(filepath):
+        print(f"Already downloaded: {url}")
+        # Still parse the page to follow links
+        try:
+            resp = requests.get(url)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"Failed to fetch {url}: {e}")
+            log_failed_url(url)
+            return
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for a in soup.find_all("a", href=True):
+            link = urljoin(url, a['href'])
+            if link.startswith(BASE_URL) and not any(x in link for x in ["#", ".pdf", ".png", ".jpg", ".jpeg", ".svg"]):
+                extract_and_save(link)
+        while not PAUSE_FLAG.is_set():
+            print("Paused. Press spacebar to resume...")
+            time.sleep(0.5)
+        time.sleep(0.5)
+        return
+    print(f"Downloading: {url}")
     try:
         resp = requests.get(url)
         resp.raise_for_status()

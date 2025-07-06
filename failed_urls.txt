@@ -10,3 +10,16 @@ https://doc.plasticity.xyz/sketch/rebuild-face
 https://doc.plasticity.xyz/sketch/deform-sketch
 https://doc.plasticity.xyz/tool/measure
 https://doc.plasticity.xyz/construction-plane
+https://doc.plasticity.xyz/plasticity-essentials/grid-and-snap
+https://doc.plasticity.xyz/plasticity-essential/construction-plane
+https://doc.plasticity.xyz/release-notes/whats-new-1-4
+https://doc.plasticity.xyz/solid/unjoin-curve
+https://doc.plasticity.xyz/solid/refillet-face
+https://doc.plasticity.xyz/solid/rebuild-curve
+https://doc.plasticity.xyz/solid/join-curves
+https://doc.plasticity.xyz/solid/extend-curve
+https://doc.plasticity.xyz/sketch/rebuild-face
+https://doc.plasticity.xyz/sketch/deform-sketch
+https://doc.plasticity.xyz/tool/measure
+https://doc.plasticity.xyz/construction-plane
+https://doc.plasticity.xyz/plasticity-essentials/export-obg
