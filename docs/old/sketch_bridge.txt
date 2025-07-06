@@ -1,0 +1,29 @@
+Sketch
+Bridge
+Bridge
+Command
+Bridge
+Shortcut
+-
+Button
+-
+The Bridge command runs based on the selected object:
+Bridge Curve:
+If two curves are selected or nothing is selected, see
+Bridge Curve
+.
+Bridge Vertex:
+If two vertices are selected, see
+Bridge Vertex
+.
+Bridge Edge:
+If two edges are selected, see
+Bridge Edge
+.
+See also
+Bridge Curve
+Bridge Vertex
+Bridge Edge
+Join
+Alternative Duplicate
+Bridge Curve

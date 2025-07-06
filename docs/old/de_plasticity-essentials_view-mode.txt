@@ -1,0 +1,32 @@
+Plasticity Grundlagen
+Ansichtsmodus
+Ansichtsmodus
+Ansichtsmodus umschalten
+Der Ansichtsmodus kann durch Klicken auf die Schaltfläche oben rechts auf dem Bildschirm oder durch die Verwendung der Tastenkombination umgeschaltet werden.
+Funktion
+Tastenkombination
+Button
+Befehlname
+Schnittanalyse umschalten
+(1)
+Section Analysis
+Orthografische Kamera umschalten
+Num. 5
+(2)
+Viewport: toggle orthographic camera
+Overlay-Anzeige umschalten
+(Schaltet das Raster ein oder aus.)
+Alt+Shift+Z
+(3)
+Viewport: toggle overlays
+X-Ray-Modus umschalten
+(Macht verborgene Linien sichtbar und auswählbar.)
+Alt + Z
+(4)
+Viewport: toggle xray mode
+Render-Modus umschalten
+(Wenn aktiviert, werden die Materialeinstellungen reflektiert.)
+(5)
+Viewport: toggle render mode
+Kameraeinstellungen
+Ansichtswürfel

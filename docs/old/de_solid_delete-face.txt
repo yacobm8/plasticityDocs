@@ -1,0 +1,22 @@
+Fest
+Delete Face
+Delete Face
+Befehl
+Delete
+Tastenkürzel
+Shift + Backspace
+Schaltfläche
+-
+Sie können Faces löschen.
+Grundlegende Nutzung
+Wählen Sie die Faces aus, die Sie löschen möchten.
+Drücken Sie
+Umschalt + Entf
+.
+Die Faces werden gelöscht.
+Siehe auch
+Offset Face
+Draft Face
+Match Face
+Deform Solid and Sheet
+Delete Redundant Topology

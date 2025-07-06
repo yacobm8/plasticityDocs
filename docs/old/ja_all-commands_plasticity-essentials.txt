@@ -1,0 +1,222 @@
+コマンドリスト & ショートカットキー
+Plasticityの基本
+Plasticityの基本
+オブジェクトの種類
+コマンド名
+ショートカット
+機能
+3Dビューポートの操作
+Viewport: navigate to front
+Num.1
+前からのビュー
+Viewport: navigate to right
+Num.3
+右からのビュー
+Viewport: navigate to top
+Num.7
+上からのビュー
+Viewport: navigate to back
+Ctrl+Num.1
+後ろからのビュー
+Viewport: navigate to left
+Ctrl+Num.3
+左からのビュー
+Viewport: navigate to bottom
+Ctrl+Num.7
+下からのビュー
+Viewport: toggle orthographic camera
+Num.5
+透視投影と正投影を切り替える
+Viewport: navigate to selection
+Space
+オブジェクトを画面の中央に表示する
+P-メニュー
+New
+Ctrl+N
+シーンをクリアして、新しいドキュメントを開く
+New Window
+Plasticityを起動して新しいウインドウを開く
+Open
+Ctrl+ O
+Import/Append
+Ctr+ShiftO
+ファイルのインポート
+を参照してください
+Save
+Ctrl+S
+Save as
+Ctrl+Shift+S
+名前を付けて保存する
+Export
+Ctrl+Shift+E
+ファイルのエクスポート
+を参照してください
+Quick save version
+ファイル名の末尾にタイムスタンプを付け加えて別名保存します
+Save as startup scene
+現在のドキュメントを起動時に開くようにします。
+Preferences
+Ctrl+,(Comma)
+環境設定
+を参照してください
+Manage licenses
+ライセンストークンとデバイスの管理をします。
+Plasticity Version
+インストールされているPlasticityのバージョン
+Quit
+Ctrl+Q
+オブジェクトをグループ化する
+Group Selected
+Ctrl+G
+選択オブジェクトをグループ化する
+Group Selected at Root
+Ctrl+G
+Group Selected at Root.
+Ungroup Selected
+Alt+G
+選択オブジェクトをグループから外す
+オブジェクトの状態を切り替える
+Hide Selected
+H
+選択しているオブジェクトを非表示にする
+Hide Unselected
+Shift+H
+選択していないオブジェクトを非表示にする
+Unhide All
+Alt+H
+すべてを表示する
+Invert Hidden
+Ctrl+H
+非表示を反転する
+Lock Selected
+選択不可にする
+オブジェクトにフォーカスする
+Viewport: focus
+/ (Slash)
+オブジェクトを画面全体に表示する
+Isolate
+. (Period)
+他のオブジェクトを隠す
+選択モード
+Selection mode: set Control Point
+1
+コントロールポイント選択モード
+Selection mode: set Edge
+2
+エッジ選択モード
+Selection mode: set Face
+3
+フェイス選択モード
+Selection mode: set Solid
+4
+ボディ選択モード
+Selection mode: set all
+Tab
+全種類選択可能なモード
+Selection: toggle Control Point
+Shift+1
+コントロールポイント選択モードのみを切り替える
+Selection: toggle Edge
+Shift+2
+エッジ選択モードのみを切り替える
+Selection: toggle Face
+Shift+3
+フェイス選択モードのみを切り替える
+Selection: toggle Solid
+Shift+4
+ボディ選択モードのみを切り替える
+オブジェクトを選択する
+Select All
+A
+すべてのオブジェクトを選択する
+Select all Curves
+すべてのカーブを選択する
+Invert Selection
+Alt+A
+選択を反転する
+Select Adjacent
+Ctrl+Shift+=
+隣接オブジェクトを選択に追加する
+Deselect All
+Esc
+すべての選択を解除する
+Selection: convert to Edges
+Ctrl+2
+選択しているオブジェクトに含まれるエッジのみを選択する
+Selection: convert to Faces
+Ctrl+3
+選択しているオブジェクトに含まれるフェイスのみを選択する
+Selection: convert to Solids
+Ctrl+4
+選択しているオブジェクトを含んでいるソリッドのみを選択する
+selection: convert to groups
+Ctrl+5
+選択しているオブジェクトが属するグループのすべてのオブジェクトを選択する
+ビューモード
+Viewport: toggle overlays
+Alt+Shift+Z
+オーバーレイを切り替える
+Viewport: toggle xray mode
+Alt+Z
+X-Rayを切り替える
+Viewport: toggle Edges
+エッジの表示を切り替える
+Viewport: toggle Faces
+フェイスの表示を切り替える
+グリッドとスナップ
+Grid: toggle grid snapping
+グリッドスナップを切り替える
+Viewport: decrease grid size
+グリッドサイズを大きくする
+Viewport: increase grid size
+グリッドサイズを小さくする
+Snaps: toggle snap snapping
+オブジェクトスナップを切り替える
+構築平面
+Space
+選択オブジェクトから構築平面を作成する (カメラを合わせる)
+Viewport: set construction plane to selection
+Shift+Space
+選択オブジェクトから構築平面を作成する (カメラを合わせない)
+Create Viewspace Construction Plane At Origin
+Ctrl+Space
+見えている視線に合わせた構築平面を作成する (ワールド原点を通る)
+Create Viewspace Construction Plane
+Ctrl+Shift+Space
+見えている視線に合わせた構築平面を作成する (選択した点を通る)
+一般機能
+Ctrl+C
+コピー
+Ctrl+V
+貼り付け
+Ctrl+Z
+取り消し
+Ctrl+Shift+Z
+やり直し
+Delete
+Shift+Backspace
+選択したオブジェクトを削除する。グループを削除すると、グループとその中のオブジェクトが削除される。
+Delete Control Point
+選択した頂点、制御点を削除する
+Delete Edge
+選択したエッジを削除する
+Delete Face
+Shift+X
+or
+Shift+Delete
+選択したフェイスを削除する
+Delete Group
+グループを削除して、グループ内のオブジェクトも削除する。
+Dissolve
+Backspace
+選択したオブジェクトを削除する。グループを削除すると、グループが削除されるが、その中のオブジェクトは残る。
+Dissolve Face
+選択した余剰なフェイスを削除する
+Edit: Repeat last command
+Shift+R
+最後のコマンドを繰り返す
+Sidebar: toggle
+Ctrl+B
+サイドバーの表示/非表示を切り替える
+更新情報
+スケッチ＆プリミティブツール

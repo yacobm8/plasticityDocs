@@ -1,0 +1,41 @@
+Sketching & Primitive Tools
+Three Point Arc
+Three-Point Arc
+Command
+Three-Point Arc
+Shortcut
+-
+Button
+Toolbar
+You can create an arc by specifying three points on its circumference.
+Basic Usage
+Click the
+button on the toolbar.
+Click at the first position on the circumference of the arc.
+Move the cursor and click at the second point on the circumference.
+Keyboard Shortcuts
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrains to X, Y, Z axis
+.
+Move the cursor and click at the third point on the circumference.
+Keyboard Shortcuts
+Tab
+: Enables direct input of dimensions. See
+here
+for details.
+The arc is created.
+Your browser does not support video tags.
+See also
+Center Cirvle
+Two-Point Circle
+Three-Point Circle
+Tangent Circle
+Center Point Arc
+Tangent Arc
+Center Point Arc
+Tangent Arc

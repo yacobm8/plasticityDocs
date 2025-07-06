@@ -1,0 +1,44 @@
+Sketching & Primitive Tools
+Spline Curve
+Spline Curve
+Command
+Spline Curve
+Shortcut
+-
+Button
+Toolbar
+You can create a curve by clicking points through which the curve will pass.
+Basic Usage
+Click the
+button on the toolbar.
+Click to set the starting point of the curve.
+Click points through which the curve will pass to create the curve.
+Keyboard Shortcuts
+K
+Knife:
+Refer to
+Using Knife Mode
+.
+Tab
+Control / Through-point:
+Switches to Control Point Curve.
+Ctrl + Z
+Undo:
+Cancels the last click.
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrains to X, Y, Z axis
+.
+After clicking the last point, right-click to confirm.
+The curve is created.
+Your browser does not support video tags.
+💡
+Difference between two types of curves
+Spline Curve: Click points through which the curve will pass to create it.
+Control Point Curve: Click on the control points of the curve to create it.
+Line
+Control Point Curve

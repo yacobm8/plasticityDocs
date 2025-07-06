@@ -1,0 +1,24 @@
+スケッチ
+Rebuild
+Rebuild（再構築する）
+コマンド
+Rebuild
+ショートカット
+-
+ボタン
+推奨コマンドメニューで
+Rebuild コマンドは選択されたオブジェクトに基づいて実行されます：
+Rebuild カーブ:
+カーブが選択されている場合は、
+Rebuild カーブ
+を参照してください。
+Rebuild 面:
+面が選択されている場合は、
+Rebuild 面
+を参照してください（ソリッドコマンドのセクション）。
+関連項目
+Rebuild Curve
+Rebuild Face
+Delete Redundant Topology
+Raise Degree
+Rebuild Curve

@@ -1,0 +1,35 @@
+ソリッド
+Isoparam
+Isoparam (アイソパラムを加える)
+コマンド
+Isoparam
+ショートカット
+Ctrl + R
+ボタン
+-
+ソリッドとシートのフェイスにアイソパラム（エッジ）を加えることができます。
+基本的な使い方
+Ctrl + R
+を押します。
+アイソパラムを作成する位置にマウスカーソルを合わせます。
+キーボードショートカットでオプションを設定します。
+キーボードショートカット
+Tab
+U/V direction:
+アイソパラムの方向を切り替えます。
+Shift
++ Wheel up
+Add cut:
+アイソパラムの数を増やします。
+Shift
++ Wheel down
+Subtract cut:
+アイソパラムの数を減らします。
+右クリックで確定します。
+Your browser does not support video tags.
+関連項目
+Offset Curve
+Imprint
+Extend Edge
+Imprint Curve Body
+Join

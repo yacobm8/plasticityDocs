@@ -1,0 +1,25 @@
+スケッチ
+Raise Curve Degree
+Raise Curve Degree (曲線の次数を上げる)
+コマンド
+Raise Degree
+ショートカット
+Shift + S
+ボタン
+推奨コマンドメニューで
+Raise a Curve's degree.
+基本的な使い方
+一つ以上の曲線を選択してください。
+Shift + S
+を押すか、コマンドバー右側の
+ボタンをクリックして、曲線の次数を1上げます。
+Your browser does not support video tags.
+💡
+Tip
+選択した曲線の CV を非表示にするには、「トグルポイント」コマンドを使用してください。
+Your browser does not support video tags.
+関連項目
+Subdivide Curve
+Rebuild Curve
+Project Outline
+Raise Degree

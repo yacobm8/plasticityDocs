@@ -1,0 +1,521 @@
+Plasticity Grundlagen
+Radialmenü
+Radialmenü
+Das Radialmenü ist eine kreisförmige Schnittstelle zum Ausführen von Befehlen. Sie können alle in Plasticity verfügbaren Befehle ausführen. Standardmäßig gibt es zwei Radialmenüs: "Selection mode" und "Viewport settings". Zusätzlich können Benutzer ihre eigenen benutzerdefinierten Radialmenüs erstellen.
+Einrichten des Radialmenü
+Um die standardmäßigen Radialmenüs "Selection mode" und "Viewport settings" zu verwenden, ist eine Einrichtung erforderlich.
+Laden Sie die folgenden zwei Textdateien herunter: Wenn Sie klicken, wird der Inhalt des Textes angezeigt. Klicken Sie oben rechts auf "Download".
+selection-mode.radial.json
+(opens in a new tab)
+viewport-settings.radial.json
+(opens in a new tab)
+Ziehen Sie die heruntergeladenen Dateien in Plasticitys 3D-Viewport.
+Obwohl keine sichtbaren Änderungen auf dem Bildschirm erfolgen, ist die Definition des Radialmenüs nun geladen und einsatzbereit.
+Sie müssen Tastenkombinationen zuweisen, um auf die Radialmenüs zuzugreifen.
+Drücken Sie die
+F
+-Taste, um die Command Palette zu öffnen.
+Geben Sie "menu" in die Command Palette ein. Sie sehen Einträge für "Radial Menu: Selection Mode" und "Radial Menu: Viewport Settings".
+Klicken Sie mit der rechten Maustaste auf "Radial Menu: Selection Mode" und weisen Sie eine Tastenkombination zu. Für Anweisungen zum Zuweisen von Tastenkombinationen siehe
+diesen Abschnitt
+.
+Klicken Sie mit der rechten Maustaste auf "Radial Menu: Viewport Settings" und weisen Sie eine Tastenkombination zu.
+Jetzt können Sie das Radialmenü anzeigen, indem Sie die zugewiesene Tastenkombination drücken.
+Verwendung des Radialmenü
+Wie bei anderen Befehlen können Sie das Radialmenü anzeigen, indem Sie seine Tastenkombination drücken.
+Drücken Sie die zuvor eingerichtete Tastenkombination.
+Das Radialmenü wird zentriert zu Ihrem Cursor angezeigt.
+Klicken Sie auf einen Artikel im Menü, um den Befehl auszuführen.
+Alternativ können Sie die Tastenkombination gedrückt halten, über einen Artikel fahren und die Taste loslassen, um den Befehl auszuführen.
+Your browser does not support video tags.
+Erstellen eines neuen Radialmenü
+Sie können ein Radialmenü mit einem gewünschten Befehl erstellen. Der Menüname und seine Befehle werden in einer Textdatei festgelegt.
+Zum Beispiel entwerfen wir ein "My Menu" Radialmenü mit "Spline Curve", "Bridge" und "Lock Selected", zugänglich über die Tastenkombination
+Strg + Umschalt + F
+.
+Öffnen Sie einen Texteditor und erstellen Sie ein neues Dokument.
+Speichern Sie das Dokument mit dem Dateinamen "mymenu.radial.json".
+Geben Sie folgendes ein:
+mymenu.radial.json
+{
+"name"
+:
+"My Menu"
+,
+"command"
+:
+"your-name:mymenu"
+,
+"items"
+:
+[
+{
+"command"
+:
+"command:curve"
+,
+"icon"
+:
+"curve"
+,
+"label"
+:
+"Curve"
+}
+,
+{
+"command"
+:
+"command:bridge"
+,
+"icon"
+:
+"bridge"
+,
+"label"
+:
+"Bridge"
+}
+,
+{
+"command"
+:
+"command:lock-selected"
+,
+"icon"
+:
+"lock-selected"
+,
+"label"
+:
+"Lock Selected"
+}
+]
+}
+Erklärung: (Bitte beachten Sie, dass die Erklärungen, die mit // beginnen, nur zur Referenz dienen und nicht in die tatsächliche Datei aufgenommen werden sollten.)
+name:
+Stellt den Titel des Radialmenüs dar. Sie können einen beliebigen Namen wählen. Er wird in der Befehlspalette angezeigt und nimmt das Format "Radial Menu: (name)" an.
+command:
+Ein eindeutiger Bezeichner für das Radialmenü. Um Konflikte mit vorhandenen Befehlen zu vermeiden, ziehen Sie in Betracht, den Namen des Autors oder andere einzigartige Elemente einzubeziehen.
+items:
+Listet die in das Radialmenü integrierten Befehle auf. Sie können mehrere Befehle einfügen.
+command:
+Die interne Bezeichnung für den zu integrierenden Befehl. Eine Liste dieser Bezeichnungen finden Sie
+hier
+.
+icon:
+Gibt das Symbol an, das im Radialmenü erscheint. Beachten Sie, dass einige Befehle möglicherweise kein voreingestelltes Symbol haben.
+label:
+Das zentrale Label im Radialmenü. Wenn es kein entsprechendes Symbol gibt, werden die ersten beiden Zeichen des Labels angezeigt.
+{
+"name"
+:
+"My Menu"
+,
+// Stellt den Titel des Radialmenüs dar
+"command"
+:
+"your-name:mymenu"
+,
+// Ein eindeutiger Bezeichner für das Radialmenü
+"items"
+:
+[
+{
+"command"
+:
+"command:curve"
+,
+// Die interne Bezeichnung für den zu integrierenden Befehl
+"icon"
+:
+"curve"
+,
+// Bezeichnet das Symbol, das im Radialmenü erscheint
+"label"
+:
+"Curve"
+// Das zentrale Label im Radialmenü
+}
+,
+...
+]
+}
+Speichern Sie die Datei.
+Ziehen Sie die erstellte Datei per Drag & Drop in die 3D-Ansicht von Plasticity.
+Auch wenn keine sichtbaren Änderungen auf dem Bildschirm auftreten, ist die Definition des Radialmenüs jetzt geladen und einsatzbereit.
+Drücken Sie die
+F
+Taste, um die Befehlspalette zu öffnen.
+Geben Sie "menu" in die Befehlspalette ein, um eine Liste aller geladenen Radialmenüs anzuzeigen.
+Klicken Sie mit der rechten Maustaste auf "Radial Menu: My Menu" und weisen Sie eine Verknüpfung
+Strg + Umschalt + F
+zu. Anweisungen zum Zuweisen von Verknüpfungen finden Sie in
+diesem Abschnitt
+.
+Jetzt können Sie das von Ihnen erstellte Radialmenü anzeigen, indem Sie die Verknüpfung
+Strg + Umschalt + F
+drücken.
+Ein Radialmenü bearbeiten
+Die von Ihnen für die Konfiguration erstellten Dateien werden im Plasticity-Einstellungsordner gespeichert. Durch das Bearbeiten dieser Dateien können Sie das Radialmenü ändern.
+Öffnen Sie den Einstellungsordner:
+Windows
+macOS
+Linux
+Navigieren Sie zu
+C:\Users\<user name>\.plasticity\radials
+.
+Suchen Sie die Konfigurationsdatei im Ordner und öffnen Sie diese Datei mit einem Texteditor.
+Bearbeiten Sie die Datei gemäß den gleichen Schritten, mit denen Sie sie erstellt haben.
+Speichern Sie die Datei.
+Ziehen Sie die gespeicherte Datei per Drag & Drop in die 3D-Ansicht von Plasticity.
+Jetzt können Sie das aktualisierte Radialmenü verwenden.
+Ein Radialmenü entfernen
+Sie können ein Radialmenü entfernen, indem Sie eine bestimmte Datei in einem bestimmten Ordner löschen.
+Öffnen Sie den angegebenen Ordner:
+Windows
+macOS
+Linux
+Navigieren Sie zu
+C:\Users\<user name>\.plasticity\radials
+.
+Im Ordner finden Sie Konfigurationsdateien. Entfernen Sie die Datei, die Sie aus dem Ordner löschen möchten, und das Radialmenü wird entfernt.
+Wie man ein Radialmenü aus einem Radialmenü aufruft
+Erstellen Sie das Radialmenü, das aufgerufen werden soll. In diesem Fall wurde ein Radialmenü wie folgt definiert:
+2nd-my-menu.radial.json
+{
+"name"
+:
+"2nd My Menu"
+,
+"command"
+:
+"2nd-my-menu"
+,
+"items"
+:
+[
+{
+"command"
+:
+"command:center-box"
+,
+"icon"
+:
+"center-box"
+,
+"label"
+:
+"Center Box"
+}
+,
+{
+"command"
+:
+"command:cylinder"
+,
+"icon"
+:
+"cylinder"
+,
+"label"
+:
+"Cylinder"
+}
+,
+{
+"command"
+:
+"command:sphere"
+,
+"icon"
+:
+"sphere"
+,
+"label"
+:
+"Sphere"
+}
+]
+}
+Um dieses Radialmenü aus dem Radialmenü "Selection mode" aufzurufen, fügen Sie das folgende Element am Ende der Elemente hinzu. Im Befehl dieses Elements geben Sie das Wort an, indem Sie "view:radial:" vor den Befehl des aufzurufenden Radialmenüs setzen.
+{
+"command"
+:
+"view:radial:2nd-my-menu"
+,
+"icon"
+:
+"2nd"
+,
+"label"
+:
+"2nd"
+}
+Als Ergebnis wird die Datei selection-mode.radial.json folgendermaßen aussehen:
+selection-mode.radial.json
+{
+"name"
+:
+"Selection mode"
+,
+"command"
+:
+"selection:mode"
+,
+"items"
+:
+[
+{
+"command"
+:
+"selection:mode:set:control-point"
+,
+"icon"
+:
+"control-point"
+,
+"label"
+:
+"Control Point"
+}
+,
+{
+"command"
+:
+"selection:mode:set:solid"
+,
+"icon"
+:
+"solid"
+,
+"label"
+:
+"Solid"
+}
+,
+{
+"command"
+:
+"selection:mode:set:edge"
+,
+"icon"
+:
+"edge"
+,
+"label"
+:
+"Edge"
+}
+,
+{
+"command"
+:
+"selection:mode:set:face"
+,
+"icon"
+:
+"face"
+,
+"label"
+:
+"Face"
+}
+,
+{
+"command"
+:
+"view:radial:2nd-my-menu"
+,
+"icon"
+:
+"2nd"
+,
+"label"
+:
+"2nd"
+}
+]
+}
+Nun können Sie aus dem "Selection mode" Radialmenü das "2nd My Menu" Radialmenü aufrufen.
+Interne Bezeichnung für den Befehl
+1. Commands
+command:alternative-duplicate
+command:boolean
+command:bridge
+command:bridge-curve
+command:bridge-surface
+command:center-box
+command:center-circle
+command:center-point-arc
+command:center-rectangle
+command:check
+command:complete-edge
+command:constrained-surface
+command:control-point-curve
+command:convert-vertex
+command:copy-with-placement
+command:corner-box
+command:corner-rectangle
+command:create-outline
+command:create-viewspace-construction-plane
+command:create-viewspace-construction-plane-at-origin
+command:curve
+command:curve-array
+command:cut
+command:cut-curve
+command:cylinder
+command:deform
+command:delete
+command:delete-redundant-topology
+command:deselect-all
+command:dimension
+command:dissolve
+command:draft-face
+command:duplicate
+command:export-obj
+command:export-stl
+command:export3mf
+command:extend
+command:extrude
+command:fillet
+command:fillet-shell
+command:find-boundary-edges
+command:freestyle-mirror
+command:freestyle-move
+command:freestyle-offset-planar-curve
+command:freestyle-rotate
+command:freestyle-scale
+command:group-selected
+command:hide-selected
+command:hide-unselected
+command:hollow
+command:imprint
+command:insert-knot
+command:invert-hidden
+command:invert-selection
+command:isolate
+command:isoparam
+command:join
+command:line
+command:lock-selected
+command:loft
+command:loft-guide
+command:match-face
+command:measure
+command:mirror
+command:move
+command:offset-curve
+command:paste-with-placement
+command:patch
+command:pipe
+command:place
+command:polygon
+command:project
+command:push-face
+command:radial-array
+command:raise-degree
+command:rebuild
+command:rectangular-array
+command:remove-fillets-from-shell
+command:remove-material
+command:remove-nominal-surface
+command:reverse
+command:revolve
+command:rotate
+command:scale
+command:section-analysis
+command:select-adjacent
+command:select-all
+command:select-all-curves
+command:select-next-entity-collection
+command:select-previous-entity-collection
+command:set-material
+command:slide
+command:smart-command
+command:sphere
+command:spiral
+command:split-segment
+command:square
+command:subdivide
+command:sweep
+command:sweep-tool
+command:tangent-arc
+command:tangent-circle
+command:text
+command:thicken
+command:three-point-arc
+command:three-point-box
+command:three-point-circle
+command:three-point-rectangle
+command:toggle-points
+command:trim
+command:two-point-circle
+command:ungroup-selected
+command:unhide-all
+command:unisolate
+command:unjoin
+command:untrim
+command:unwrap-face
+command:xnurbs
+2. Construction Plane
+command:create-viewspace-construction-plane
+command:create-viewspace-construction-plane-at-origin
+viewport:cplane:reset
+viewport:cplane:selection
+3. File
+file:export
+file:import
+file:new
+file:open
+file:save-version
+file:save
+file:save-as
+file:save-as-startup
+4. Snaps
+viewport:grid:decr
+viewport:grid:incr
+snaps:toggle-grid
+snaps:toggle-snap
+5. Misc.
+app:new-window
+app:quit
+edit:repeat-last-command
+view:sidebar:toggle-left
+view:sidebar:toggle-right
+6. Radial Menus
+view:radial:radial:cplanes
+view:radial:viewport:points
+view:radial:viewport:settings
+7. Selection
+selection:mode:set:all
+selection:mode:set:control-point
+selection:mode:set:edge
+selection:mode:set:face
+selection:mode:set:solid
+selection:convert:control-point
+selection:convert:edge
+selection:convert:face
+selection:convert:group-children
+selection:convert:solid
+selection:toggle:control-point
+selection:toggle:edge
+selection:toggle:face
+selection:toggle:solid
+8. Viewport
+viewport:focus
+viewport:navigate:back
+viewport:navigate:bottom
+viewport:navigate:front
+viewport:navigate:left
+viewport:navigate:right
+viewport:navigate:selection
+viewport:navigate:top
+viewport:toggle-edges
+viewport:toggle-faces
+viewport:toggle-orthographic
+viewport:toggle-overlays
+viewport:toggle-render-mode
+viewport:toggle-x-ray
+Befehlspalette
+Allgemeine Funktionen

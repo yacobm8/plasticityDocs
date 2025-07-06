@@ -1,0 +1,64 @@
+Plasticity Grundlagen
+Befehlspalette
+Befehlsübersicht
+Befehle, die keine Schaltflächen oder Tastenkombinationen haben, können über die Befehlsübersicht ausgeführt werden. Drücken Sie die Taste
+F
+im Arbeitsbereich, um die Befehlsübersicht zu öffnen. Geben Sie den Namen des Befehls ein, um ihn auszuführen.
+Außerdem können Sie jedem Befehl eine Tastenkombination zuweisen oder Ihre bevorzugten Befehle anheften.
+Einen Befehl ausführen
+Drücken Sie die Taste
+F
+.
+Die Befehlsübersicht wird angezeigt.
+Geben Sie den Befehl im Eingabefeld ein.
+Befehle, die mit den eingegebenen Wörtern übereinstimmen, werden angezeigt. Die Optionen werden beim Tippen eingegrenzt.
+Verwenden Sie die Pfeiltasten
+Up
+und
+Down
+oder das Mausrad, um den gewünschten Befehl auszuwählen, und drücken Sie die Taste
+Enter
+.
+Der ausgewählte Befehl wird ausgeführt.
+Your browser does not support video tags.
+Eine Tastenkombination zuweisen
+Drücken Sie die Taste
+F
+.
+Die Befehlsübersicht wird angezeigt.
+Geben Sie den Befehl im Eingabefeld ein.
+Befehle, die mit den eingegebenen Wörtern übereinstimmen, werden angezeigt. Die Optionen werden beim Tippen eingegrenzt.
+Klicken Sie mit der rechten Maustaste auf den gewünschten Befehl und wählen Sie
+Tastenkombination zuweisen
+.
+Wenn
+"Drücken Sie eine Taste, um die Tastenkombination zuzuweisen..."
+angezeigt wird, drücken Sie die Taste, die Sie zuweisen möchten.
+Damit wird die Tastenkombination zugewiesen.
+Um eine Tastenkombination zu entfernen, klicken Sie mit der rechten Maustaste auf den Befehl in der Befehlsübersicht und wählen Sie
+Tastenkombination entfernen
+.
+⚠️
+Wenn Sie eine Tastenkombination zuweisen, die bereits verwendet wird, wird die kollidierende Tastenkombination rot hervorgehoben. Um Duplikate zu vermeiden, können Sie Tasten wie
+Alt
+,
+Strg
+,
+Umschalt
+usw. kombinieren.
+Zu Favoriten hinzufügen
+Drücken Sie die Taste
+F
+.
+Die Befehlsübersicht wird angezeigt.
+Geben Sie den Befehl im Eingabefeld ein.
+Befehle, die mit den eingegebenen Wörtern übereinstimmen, werden angezeigt. Die Optionen werden beim Tippen eingegrenzt.
+Klicken Sie mit der rechten Maustaste auf den gewünschten Befehl und wählen Sie
+Zu Favoriten hinzufügen
+.
+Dadurch wird der Befehl zu Ihren Favoriten hinzugefügt. Ein Button wird unter dem Eingabefeld angezeigt.
+Um einen Befehl aus den Favoriten zu entfernen, klicken Sie auf das Favoriten-Symbol oder den Befehl in der Befehlsübersicht mit der rechten Maustaste und wählen Sie
+Aus Favoriten entfernen
+.
+Befehlsleiste
+Radialmenü

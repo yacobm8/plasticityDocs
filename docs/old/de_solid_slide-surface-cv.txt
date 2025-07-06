@@ -1,0 +1,50 @@
+Fest
+Slide Surface Cv
+Slide Surface CVs
+Befehl
+Slide
+Tastenkürzel
+Shift + G
+Schaltfläche
+-
+Bewege CVs entlang der tangentialen Richtung des CV-Hulls, wobei der Oberflächenfluss beibehalten wird, während die Punktpositionen angepasst werden.
+Grundlegende Verwendung
+Wählen Sie ein CV oder mehrere CVs aus, die Sie verschieben möchten.
+Drücken Sie
+Shift + G
+, um den Verschieben-Befehl zu aktivieren.
+Stellen Sie die Optionen im Befehlsdialog und den Tastenkombinationen ein.
+Befehlsdialog
+Entfernung:
+Geben Sie die Verschiebungsdistanz der CVs an.
+Tastenkombinationen
+Ctrl + Z
+Rückgängig:
+Setzt die letzte Befehlsausführung zurück und stellt den vorherigen Zustand wieder her.
+U
+Positives U:
+Verschieben in eine positive U-Richtung.
+Shift + U
+Negatives U:
+Verschieben in eine negative U-Richtung.
+N
+Normal:
+Verschieben in eine normale Richtung.
+V
+Positives V:
+Verschieben in eine positive V-Richtung.
+Shift + V
+Negatives V:
+Verschieben in eine negative V-Richtung.
+Gizmo-Steuerelemente erscheinen mit spezifischen Richtungssteuerungen. Verwenden Sie diese, um CVs zu verschieben und ihre Positionen präzise anzupassen.
+Bestätigen Sie mit OK im Befehlsdialog oder mit der rechten Maustaste.
+Your browser does not support video tags.
+💡
+Tipp
+Der Verschieben-Befehl enthält eine Umschaltfunktion, mit der Sie zwischen Vorschau- und Aktivmodus wechseln können, indem Sie
+Ctrl
+gedrückt halten. So können Sie die Ergebnisse des Befehls vor und nach der Ausführung vergleichen.
+Siehe auch
+Steuerelementpunkt verschieben
+Slide
+Square

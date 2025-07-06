@@ -1,0 +1,51 @@
+Plasticity Grundlagen
+P-Menü
+P-Menü
+Das P-Menü kann durch Klicken auf das "P" in der oberen linken Ecke geöffnet werden.
+Befehlsname
+Tastenkombination
+Funktion
+Letzte Dateien
+Zeigt zuletzt gespeicherte Dateien an. Beim Darüberfahren wird eine Vorschau mit Miniaturansichten der Dateien und deren Inhalt angezeigt. Dateien können per Drag & Drop in die aktuelle Plasticity-Sitzung gezogen werden.
+Neue Datei
+Ctrl+N
+Löscht die Szene und öffnet ein neues Dokument.
+Neues Fenster
+Startet Plasticity und öffnet ein neues Fenster. Die Akzentfarbe des neuen Fensters wird zufällig geändert, um es vom Hauptfenster zu unterscheiden. Kopieren und Einfügen zwischen Fenstern ist möglich.
+Öffnen
+Ctrl+O
+Öffnet eine Plasticity-Datei.
+Import/Anhängen
+Ctrl+Shift+O
+Importiert Dateien. Siehe
+hier
+für importierbare Formate.
+Speichern
+Ctrl+S
+Speichert das aktuelle Dokument.
+Speichern unter
+Ctrl+Shift+S
+Speichert das Dokument unter einem neuen Namen.
+Exportieren
+Ctrl+Shift+E
+Exportiert Dateien. Siehe
+hier
+für exportierbare Formate.
+Schnellversion speichern
+Speichert eine Kopie der Datei mit einem Zeitstempel im Dateinamen.
+Als Startszene speichern
+Speichert das aktuelle Dokument als Startszene, die beim nächsten Start automatisch geöffnet wird.
+Einstellungen
+Ctrl+,(Komma)
+Siehe
+Einstellungen
+.
+Lizenzen verwalten
+Verwalten von Lizenz-Token und Geräten.
+Plasticity-Version
+Zeigt die installierte Version von Plasticity an.
+Beenden
+Ctrl+Q
+Beendet Plasticity.
+Benutzeroberflächenübersicht
+Einstellungen

@@ -1,0 +1,66 @@
+スケッチ & プリミティブ ツール
+Center Box
+Center Box
+コマンド
+Center Box
+ショートカット
+-
+ボタン
+ツールバー
+中心を指定した四角形と高さを指定して直方体を作成できます。
+基本的な使い方
+ツールバーのボタン
+をクリックします。
+底面の中心点をクリックします。
+カーソルを動かして底面の大きさを調整し、クリックして確定します。
+キーボードショートカット
+Tab
+: 寸法値に直接入力できるようになります。詳細は
+こちら
+を参照してください。
+C
+Center/Corner:
+Corner Boxに切り替えます。
+S
+Square:
+正方形に限定します。
+カーソルを動かして高さを調整し、クリックして確定します。
+コマンドダイアログ
+Select target bodies
+:
+Booleanコマンドと同じ機能です。詳細は
+Boolean
+コマンドを参照してください。
+Width:
+幅を指定します。
+Length:
+長さを指定します。
+Height:
+高さを指定します。
+キーボードショートカット
+Shift + Q
+,
+Q
+,
+W
+,
+Shift + E
+,
+B
+,
+T
+Booleanコマンドと同じ機能です。詳細は
+Boolean
+コマンドを参照してください。
+H
+Height:
+カーソルを動かして高さを指定します。
+黄色のドットを動かして形状を調整することもできます。
+コマンドダイアログのOKをクリックするか、右クリックで確定します。
+直方体が作成されます。
+Your browser does not support video tags.
+関連項目
+Corner Box
+Three-Point Box
+Corner Box
+Three Point Box

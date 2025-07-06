@@ -1,0 +1,82 @@
+Sketch
+Alternative Duplicate
+Alternative Duplicate
+Command
+Alternative Duplicate
+Shortcut
+Alt + D
+Button
+-
+Project the Curves onto the current construction plane along the normal direction, thereby generating a Curves.
+Basic Usage
+Set the desired construction plane for projection.
+Select the Curves to project onto.
+Press
+Alt + D
+to execute the command.
+The projected Curves will be created on the current construction plane.
+Optionally, you can move the Curves using the Move Gizmo.
+You can also limit the direction of movement.
+Command Dialog
+XYZ:
+Specify the amount of movement of the X, Y, and Z axes.
+Orientation:
+Set the orientation of the move gizmo.
+Normal:
+Sets the orientation to align with the object's surface normal.
+Pivot:
+Sets the orientation to match the previously defined pivot orientation.
+Construction Plane:
+Sets the orientation to align with the active construction plane.
+World:
+Sets the orientation to align with the global (world) axis.
+Pivot:
+Set the position of the pivot point.
+Bbox:
+Positions the pivot at the center of the bounding box enclosing the selected objects.
+Median:
+Positions the pivot at the average location of the pivots of the selected objects.
+Active:
+Positions the pivot at the last selected (active) object's pivot.
+Keyboard Shortcuts
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrain to the X, Y, or Z-axis
+.
+Shift + X
+/
+Shift + Y
+/
+Shift + Z
+X, Y, Z plane:
+Constrain to the X, Y, or Z-plane.
+G
+Screen space:
+Limit to the visible plane.
+F
+Freestyle:
+Click to specify the starting point and endpoint, which will determine the direction and distance of movement.
+V
+Pivot:
+Click to specify the position of the Gizmo.
+Alt + V
+Remove pivot:
+Remove the configured pivots.
+W
+Orientation:
+Change the Gizmo's coordinate axis to different orientations.
+Right-click or click OK in the Command Dialog to confirm.
+See also
+Duplicate Curve and Project
+Project Outline
+Create Outline
+Project Curve Body
+Project Curve Curve
+Project Body Body
+Offset Curve
+Sketch
+Bridge

@@ -1,0 +1,57 @@
+Solid
+Offset Face
+Offset Face
+Command
+Push Face
+Shortcut
+-
+Button
+-
+Offset the selected Faces by specifying the distance. Optional adjacent angle specification available.
+Basic Usage
+Select the Faces you want to offset.
+When a Face is selected, the default command,
+Push Face
+, is automatically executed.
+Move the yellow dot to specify the distance.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Distance:
+Specify the distance.
+Angle Adjacent:
+Specify the Angle.
+Grow:
+When the concave inner Face is offseted.
+Moving:
+Move the whole wall when the offset gets to the outer wall.
+Fixed:
+Stop at the outer wall.
+None:
+Keep going by itself neither affecting or affected by the outer wall.
+Keyboard Shortcuts
+D
+Distance
+Specify the distance by moving the cursor.
+A
+Angle adjacent
+Specify the angle by moving the cursor.
+Tab
+Grow mode
+Switches the grow mode.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+Dependant Offset
+Alternate the distance and surface area of Faces to match and intersect with another Face.
+Select the Faces you want to offset.
+When a Face is selected, the default command,
+Push Face
+, is automatically executed.
+When offsetting the Face, select a secondary face you want to match with.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+See also
+Draft Face
+Match Face
+Delete Face
+Offset Edge
+Offset Face Loop

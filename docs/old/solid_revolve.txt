@@ -1,0 +1,25 @@
+Solid
+Revolve
+Revolve
+Command
+Revolve
+Shortcut
+-
+Button
+In Suggested Commands Menu
+Revolving Regions generates Solids, while revolving Curves produces either Solids or Sheets. Options include Normal, Binormal, and Tangent.
+Basic Usage
+Select the Region or Curve to revolve.
+Click the button
+on the Right of Command Bar.
+Specify the revolution axis.
+Revolve along the axis defined by the first click as the start point and the second click as the endpoint.
+Keyboard Shortcuts
+Shift + T
+Thickness:
+A
+Angle:
+Move the mouse to specify the rotation angle.
+Confirm with OK in the Command Dialog or right-click.
+Reverse Sheet
+Slide

@@ -1,0 +1,45 @@
+Sketching & Primitive Tools
+Three Point Circle
+Three-Point Circle
+Command
+Three-Point Circle
+Shortcut
+-
+Button
+Toolbar
+You can create a circle by specifying three points on its circumference.
+Basic Usage
+Click the
+button on the toolbar.
+Click a point on the circumference of the circle.
+Move the cursor and click a second point on the circumference.
+Keyboard Shortcuts
+Tab
+: Enables direct input of dimensions. See
+here
+for details.
+K
+Knife:
+Refer to
+Using Knife Mode
+.
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrains to X, Y, Z axis
+.
+Move the cursor to adjust the size, and click to confirm.
+The circle is created.
+Your browser does not support video tags.
+See also
+Center Cirvle
+Two-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Tangent Arc
+Two Point Circle
+Tangent Circle

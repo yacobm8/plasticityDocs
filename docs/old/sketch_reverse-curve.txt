@@ -1,0 +1,21 @@
+Sketch
+Reverse Curve
+Reverse Curve
+Command
+Reverse
+Shortcut
+-
+Button
+-
+Inverse the direction of a curve.
+Basic Usage
+Select the curve to reverse its direction.
+Type
+Reverse
+in the Command Palette.
+Now the direction of the curve has been reversed.
+Your browser does not support video tags.
+See also
+Reverse Sheet
+Reverse
+Slide

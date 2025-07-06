@@ -1,0 +1,80 @@
+Plasticityの基本
+インポート/エクスポート
+インポート/エクスポート
+「インポート/追加」
+と
+「エクスポート」
+オプションを使用して、Pメニューからインポートおよびエクスポート操作を行うことができます。3Dビューポートにファイルをドラッグ＆ドロップすることも可能です。
+次のファイル形式をサポートしています。
+インポート
+ファイル形式
+Indieライセンス
+Studioライセンス
+plasticity (*.plasticity)
+✓
+✓
+STEP (*.stp; *.step)
+✓
+✓
+ParaSolid (*.x_t; *.x_b)
+✓
+✓
+Wavefront OBJ (*.obj)
+✓
+✓
+FBX (*.FBX)
+✓
+✓
+STL (*.stl)
+✓
+✓
+Vector Image (*.SVG)
+✓
+✓
+Image (*.png; *.jpg; *.jpeg)
+✓
+✓
+詳細は
+こちら
+を参照してください。
+3MF (*.3mf)
+✓
+IGES (*.igs; *.iges)
+✓
+SAT (*sat)
+✓
+Rhino (*.3dm)
+✓
+DXF/DWG (*.dxf; *.dwg)
+✓
+Windowsのみサポート
+エクスポート
+ファイル形式
+Indieライセンス
+Studioライセンス
+Plasticity  (*.plasticity)
+✓
+✓
+STEP  (*.stp; *.step)
+✓
+✓
+ParaSolid  (*.x_t; *.x_b)
+✓
+✓
+Wavefront OBJ  (*.obj)
+✓
+✓
+詳細は
+こちら
+を参照してください。
+STL  (*.stl)
+✓
+✓
+3MF (*.3mf)
+✓
+IGES  (*.igs; *.iges)
+✓
+SAT  (*sat)
+✓
+一般機能
+参照画像のインポート

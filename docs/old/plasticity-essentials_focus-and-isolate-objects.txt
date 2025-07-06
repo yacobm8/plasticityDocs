@@ -1,0 +1,67 @@
+Plasticity Essentials
+Focus and Isolate Objects
+Focus and Isolate Objects
+Focus Objects
+This command enlarges the selected object to fill the entire viewport.
+Command
+Viewport: Focus
+Shortcut
+/ (Slash)
+Button
+-
+How to Use
+Select the objects you wish to focus on.
+Press
+/
+to execute the command.
+The selected objects will be enlarged to fill the entire viewport.
+Isolate Objects
+This command focuses on the selected object by displaying it exclusively on the screen, while temporarily hiding all other objects. This command also supports hierarchical isolation.
+Command
+Isolate
+Shortcut
+. (Period)
+Button
+-
+How to Use
+Select the objects you wish to focus on.
+Open the Command Palette and type "Isolate", or press
+.
+to execute the command.
+Only the selected objects will be displayed on the screen.
+Hierarchical Isolation
+After executing the Isolate command, you can select additional objects to focus on.
+Execute the Isolate command again, and the display will be narrowed down to only the newly selected objects.
+You can repeat this process through multiple layers of isolation.
+Indicator and Layer Count
+An indicator at the top of the screen signifies that the Isolate mode is active. A number next to the indicator shows how many layers of isolation have been applied. For example, if "2 Isolated" is displayed, it indicates that you are in the second layer of isolation.
+Unisolate Objects
+This command will reveal all previously isolated objects in the viewport. It will not return to the previous hierarchical isolation layer, so all objects will be visible instead.
+Command
+Unisolate
+Shortcut
+Alt + . (Period)
+Button
+-
+How to Use
+Open the Command Palette and type "Unisolate", or press
+Alt + .
+to execute the command.
+After executing the Unisolate command, you can see all visible objects on the viewport.
+Your browser does not support video tags.
+Center Objects
+This command centers a specific object in the middle of the screen.
+Command
+Viewport: navigate to selection
+Shortcut
+Space
+Button
+-
+How to Use
+Select the object you wish to center.
+Press
+Space
+to execute the command.
+The selected object will be displayed in the center of the screen.
+Toggle Object States
+Selection Mode

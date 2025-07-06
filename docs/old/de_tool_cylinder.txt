@@ -1,0 +1,68 @@
+Skizzieren & Primitive Werkzeuge
+Cylinder
+Cylinder
+Befehl
+Cylinder
+Tastenkürzel
+Umschalt + C
+Schaltfläche
+Werkzeugleiste
+Sie können einen Zylinder erstellen, indem Sie seinen Grundkreis und die Höhe angeben.
+Grundlegende Nutzung
+Klicken Sie auf den
+Knopf in der Werkzeugleiste.
+Klicken Sie, um die Mittelposition des Kreises festzulegen.
+Bewegen Sie den Cursor, um die Größe des Grundkreises anzupassen, und klicken Sie zur Bestätigung.
+Tastenkombinationen
+Tab
+: Ermöglicht direkte Eingabe von Abmessungen. Weitere Details finden Sie
+hier
+.
+V
+Vertical/ Horizontal:
+Ändert die Neigung relativ zur Konstruktionsebene.
+X
+/
+Y
+/
+Z
+X/Y/Z-Axis:
+Beschränkt auf X, Y, Z Achse
+.
+Bewegen Sie den Cursor, um die Höhe anzupassen, und klicken Sie zur Bestätigung.
+Befehlsdialog
+Select target bodies
+Funktioniert wie der Befehl Boolean. Weitere Informationen finden Sie unter dem
+Boolean
+Befehl.
+Radius:
+Durchmesser angeben.
+Height:
+Höhe angeben.
+Tastenkombinationen
+Umschalt + Q
+,
+Q
+,
+W
+,
+Umschalt + E
+,
+B
+,
+T
+Funktioniert wie der Befehl Boolean. Weitere Informationen finden Sie unter dem
+Boolean
+Befehl.
+F
+Radius:
+Durchmesser durch Bewegen des Cursors anpassen.
+D
+Height:
+Höhe durch Bewegen des Cursors anpassen.
+Sie können auch die Form anpassen, indem Sie die gelben Punkte bewegen.
+Klicken Sie im Befehlsdialog auf OK oder rechtsklick zur Bestätigung.
+Der Zylinder wird erstellt.
+Your browser does not support video tags.
+Three Point Box
+Allgemein

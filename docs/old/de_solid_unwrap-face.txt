@@ -1,0 +1,19 @@
+Fest
+Unwrap Face
+Unwrap Face
+Befehl
+Unwrap
+Tastenkürzel
+-
+Schaltfläche
+-
+⚠️
+Unwrap Face
+und
+Wrap Face
+sind noch im Experimentierstadium. Sie sind noch nicht für den Produktiveinsatz bereit.
+Siehe auch
+Festkörper und Blech verformen
+Kurve verformen
+Untrim
+Xnurbs

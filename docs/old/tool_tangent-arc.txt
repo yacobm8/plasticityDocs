@@ -1,0 +1,47 @@
+Sketching & Primitive Tools
+Tangent Arc
+Tangent Arc
+Command
+Tangent Arc
+Shortcut
+-
+Button
+Toolbar
+You can create an arc tangent to a curve.
+Basic Usage
+Click the
+button on the toolbar.
+Click the curve that the arc will be tangent to. Optionally, you can click on a second curve with a tangent snap.
+Move the cursor to adjust the size of the arc, and click to confirm.
+Keyboard Shortcuts
+D
+Flip direction:
+Reverses the direction of the arc.
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrains to X, Y, Z axis
+.
+N
+Normal:
+Move the arc perpendicularly along the normal direction constrain.
+B
+Binormal:
+Move the arc perpendicularly along the opposite normal direction constrain.
+The arc is created.
+Your browser does not support video tags.
+💡
+Tip
+The tangent arc algorithm is sensitive when detecting tangent points on curves. Move your cursor carefully near the point of interest without crossing over it, as crossing may prevent the tangent point from displaying.
+See also
+Center Cirvle
+Two-Point Circle
+Three-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Three Point Arc
+Regular Polygon

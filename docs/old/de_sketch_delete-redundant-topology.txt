@@ -1,0 +1,28 @@
+Skizze
+Delete Redundant Topology
+Überflüssige Topologie löschen
+Befehl
+Delete Redundant Topology
+Tastenkürzel
+-
+Schaltfläche
+-
+Dieser Befehl ruft automatisch den folgenden Befehl auf, abhängig vom ausgewählten Objekt:
+Wenn Curves ausgewählt sind:
+Delete Redundant Topology (Curve)
+, unten beschrieben.
+Wenn Solids oder Sheets ausgewählt sind: siehe
+Delete Redundant Topology (Solid)
+im Abschnitt Solid-Befehle.
+Überflüssige Topologie löschen (Curve)
+Sie können überflüssige Control Vertices(CVs) von Curves löschen.
+Wählen Sie die Curves aus, um überflüssige CVs zu löschen.
+Verwenden Sie den
+Delete Redundant Topology
+Befehl in der Befehlspalette.
+Die überflüssigen CVs werden gelöscht.
+Your browser does not support video tags.
+Siehe auch
+Rebuild
+Deform Curve
+Duplicate Curve and Project

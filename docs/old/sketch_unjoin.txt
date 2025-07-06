@@ -1,0 +1,29 @@
+Sketch
+Unjoin
+Unjoin
+Command
+Unjoin
+Shortcut
+Alt + J
+Button
+Right of Command Bar
+The Unjoin command runs based on the selected object:
+Unjoin Curves:
+If Curves are selected, see
+Unjoin Curves
+.
+Unjoin Faces:
+If Faces are selected, see
+Unjoin Faces
+in the Solid Commands section.
+Unjoin Shells:
+If Solids or Sheets are selected, see
+Unjoin Shells
+in the Solid Commands section.
+See also
+Unjoin Curves
+Cut Curve
+Split Segment
+Trim
+Trim
+Unjoin Curve

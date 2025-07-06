@@ -1,0 +1,43 @@
+Plasticity Essentials
+Importing Reference Images
+How to Import Reference Images
+Choose the plane where you want to display the image.
+In addition to the XY, YX, and XZ planes, you can also choose a construction plane.
+Click on
+Import/Append
+from the top-left menu or press
+Ctrl + Shift + O
+.
+A file selection dialog will be displayed.
+Select an image file.
+The system supports PNG and JPEG formats.
+The image is imported and categorized as an "Image" in the Outliner.
+Adjusting Appearance of Reference Images
+You can set things like the transparency of reference images.
+Click on the reference image to select it.
+Press the
+M
+shortcut.
+An image material setting dialog will be displayed.
+Depth
+:
+Normal
+: It is hidden by objects in front of the plane and hides objects behind.
+Front
+: Always visible, regardless of other objects. (
+Opacity
+needs to be less than 1.)
+Behind
+: No matter where positioned, objects will always be displayed upfront.
+Opacity
+:
+Specify transparency numerically. The checkbox must be checked.
+Culling
+:
+Front only
+: Only displayed when viewed from the front.
+Double sided
+: Displayed whether viewed from the front or the back.
+Confirm with OK in the dialog or by right-clicking.
+Import/Export
+Export OBJ

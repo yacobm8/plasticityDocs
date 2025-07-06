@@ -1,0 +1,19 @@
+Fest
+Untrim
+Untrim
+Befehl
+Untrim
+Tastenkürzel
+Alt + T
+Schaltfläche
+-
+Erstellen Sie ein Sheet basierend auf der ursprünglichen Form des ausgewählten Face.
+Grundlegende Nutzung
+Wählen Sie das Face aus, das Sie rückschneiden möchten.
+Drücken Sie
+Alt + T
+.
+Ein Sheet basierend auf der ursprünglichen Form wird erstellt.
+Your browser does not support video tags.
+Unjoin Shells
+Unwrap Face

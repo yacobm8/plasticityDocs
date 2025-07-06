@@ -1,0 +1,48 @@
+Plasticity Essentials
+Snap
+Snap
+Mesh and Image Snap
+You can use limited snapping features on respective Meshes and Images.
+Type
+Snap target
+Tip help
+Mesh (OBJ, STL, FBX, 3MF)
+Vertex/Face
+Vertex/Face
+Image (.PNG, .JPG, .JPEG)
+Corner
+Corner
+Object Snap
+You can use snapping to snap your cursor to features while drawing or moving objects.
+To toggle the object snapping, click the toggle button in the "Snapping" window located on the right sidebar. To toggle different types of snapping, click on "Object Snaps" section window and adjust the options.
+To temporarily enable snapping, hold the
+Ctrl
+key. Snapping is automatically enabled when drawing Curves.
+To temporarily disable snapping, press
+Shift + X
+key. This will allow you to temporarily disable different types of snaps if you are currently locked onto one. You can repeatedly press the button until you reached the desired snap type.
+You can snap to points on various types of objects: Control-Vertex, Curve, Region, Edge, Face, and Measurement. A snap target appears as a small black dot.
+Tip help appears when you point to a snap target. Click when the tip help is visible to snap accurately.
+Snap target
+Tip help
+Control-Vertex
+CV
+Curve
+Curve, Beginning, End, Middle, Closest, Intersection, X, Y, Z, XY, YZ, ZX, Center, 1/4, 3/4, Perpendicular, Tangent, Tan/Tan
+Region
+Region, Center
+Edge
+Edge, End, Middle
+Face
+Face, Center
+Measurement Point
+Measurement
+You can execute the object snapping in the Command Palette;
+Snaps: toggle snap snapping
+.
+Sketch Tips
+To draw a sketch accurately, please refer to
+Sketching Tips
+.
+Grid and Units
+Construction Plane

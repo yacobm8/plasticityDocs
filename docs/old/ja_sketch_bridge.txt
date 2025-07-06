@@ -1,0 +1,29 @@
+スケッチ
+Bridge
+Bridge
+コマンド
+Bridge
+ショートカット
+-
+ボタン
+-
+Bridge コマンドは選択されたオブジェクトに基づいて実行されます：
+Bridge カーブ:
+2 つのカーブが選択されている、または何も選択されていない場合は、
+Bridge カーブ
+.
+Bridge 頂点:
+2 つの頂点が選択されている場合は、
+Bridge 頂点
+を参照してください。
+Bridge エッジ:
+2 つのエッジが選択されている場合は、
+Bridge エッジ
+を参照してください。
+関連項目
+Bridge Curve
+Bridge Vertex
+Bridge Edge
+Join
+Alternative Duplicate
+Bridge Curve

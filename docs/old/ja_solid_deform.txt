@@ -1,0 +1,23 @@
+ソリッド
+Deform
+Deform
+コマンド
+Deform
+ショートカット
+-
+ボタン
+-
+Deform Curve
+と
+Deform Solid and Sheet
+の統合コマンド。コマンドは選択されたオブジェクトに基づいて実行されます。
+曲線が選択されている場合:
+Deform Curve
+を参照してください。
+シートまたはソリッドが選択されている場合:
+Deform Solid and Sheet
+を参照してください。
+関連項目
+Unwrap Face
+Cut
+Deform Solid and Sheet

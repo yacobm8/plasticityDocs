@@ -1,0 +1,26 @@
+ソリッド
+Raise Degree
+Raise Degree
+コマンド
+Raise Degree
+ショートカット
+Shift + S
+ボタン
+Right of Command Bar
+Unified command for
+Raise Curve Degree
+,
+Raise Surface Degree
+. The command is run based on the selected object.
+When Curves are selected: see
+Raise Curve Degree
+.
+When Faces are selected: see
+Raise Surface Degree
+.
+See also
+Rebuild Curve
+Rebuild Face
+Delete Redundant Topology
+Pipe
+Raise Surface Degree

@@ -1,0 +1,45 @@
+Solid
+Offset Face Loop
+Offset Face Loop
+Command
+Offset Curve
+Shortcut
+O
+Button
+In Suggested Commands Menu
+Offset the outline edges of selected Faces by specifying the distance to create new Edges. Multiple Faces create new Individual Edges or a combined Edge.
+Basic Usage
+Select the Faces you want to offset.
+Press
+O
+.
+Move the mouse to specify the distance.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Distance:
+Specify the distance.
+Keyboard Shortcuts
+V
+Gap fill:
+Round:
+Rounds convex corners.
+Linear:
+Connects convex corners with straight lines.
+Natural:
+Natural
+I
+Individual:
+When multiple Faces are selected, turning on this option offsets the Faces in a combined form.
+D
+Distance:
+Specify the distance with mouse movement.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+See also
+Offset Curve
+Offset Edge
+isoparam
+Imprint
+Extend Edge
+Offset Face
+Patch

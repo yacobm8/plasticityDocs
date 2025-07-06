@@ -1,0 +1,46 @@
+共通
+Dimension
+Dimension
+コマンド
+Dimension
+ショートカット
+= (等号)
+ボタン
+-
+カーブの四角形の大きさや、円柱の直径などの寸法値を変更することができます。
+基本的な使い方
+寸法値を変更したいオブジェクトを選択します。
+寸法変更の対象
+Selection Mode
+カーブの四角形の2辺の長さ
+Edge
+カーブの円、円弧の直径
+Edge
+円柱の直径
+Face
+球の直径
+Solid
+立方体の3辺の長さ
+Solid
+ソリッドのフィレットの大きさ
+Face
+ソリッドの平面間の距離
+Face
+=
+を押すか、コマンドパレットから
+Dimension
+コマンドを選択します。
+寸法値が表示されます。
+Tab
+を押して、寸法入力モードに入ります。
+寸法値を入力します。
+複数の寸法値があるときは、
+Tab
+を押して切り替え、寸法値を入力します。
+Enter
+を押して確定します。
+Your browser does not support video tags.
+関連項目
+Measure
+Curve Array
+Duplicate

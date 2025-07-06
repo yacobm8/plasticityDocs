@@ -1,0 +1,87 @@
+Skizze
+Duplicate Curve and Project
+Duplicate Curve and Project
+Befehl
+Alternative Duplicate
+Tastenkürzel
+Alt + D
+Schaltfläche
+-
+Erstellt eine Kurve, die auf die Konstruktionsebene von einer Kurve oder Kante projiziert wird.
+Sie hat die gleiche Funktionalität wie
+Alternative Duplizieren
+.
+Grundlegende Verwendung
+Wählen Sie die Kurven oder Kanten aus, die Sie projizieren möchten.
+Richten Sie die Konstruktionsebene ein, auf die die Kurven projiziert werden sollen.
+Drücken Sie
+Alt + D
+, um den Befehl auszuführen, oder geben Sie
+Alternative Duplizieren
+in die Befehlsleiste ein.
+Die Kurve wird erstellt. Verwenden Sie das angezeigte Verschiebungs-Gizmo, um sie zu bewegen.
+Legen Sie die Optionen im Befehlsdialog und die Tastenkombinationen fest.
+Befehlsdialog
+XYZ:
+Geben Sie die Verschiebung der X-, Y- und Z-Achsen an.
+Ausrichtung:
+Legen Sie die Ausrichtung des Verschiebe-Gizmos fest.
+Normal:
+Richtet die Ausrichtung an der Oberflächennormalen des Objekts aus.
+Pivot:
+Setzt die Ausrichtung auf die zuvor definierte Pivot-Ausrichtung.
+Konstruktions-Ebene:
+Richtet die Ausrichtung an der aktiven Konstruktions-Ebene aus.
+Welt:
+Richtet die Ausrichtung an den globalen (Welt-) Achsen aus.
+Pivot:
+Legen Sie die Position des Pivot-Punkts fest.
+Bbox:
+Positioniert den Pivot in der Mitte des Begrenzungsrahmens der ausgewählten Objekte.
+Median:
+Positioniert den Pivot an der durchschnittlichen Position der Pivots der ausgewählten Objekte.
+Aktiv:
+Positioniert den Pivot am Pivot des zuletzt ausgewählten (aktiven) Objekts.
+Tastenkombinationen
+X
+/
+Y
+/
+Z
+X/Y/Z-Achse:
+Auf die X-, Y- oder Z-Achse beschränken
+.
+Shift + X
+/
+Shift + Y
+/
+Shift + Z
+X-, Y-, Z-Ebene:
+Auf die X-, Y- oder Z-Ebene beschränken.
+G
+Bildschirmraum:
+Auf die sichtbare Ebene beschränken.
+F
+Freistil:
+Klicken Sie, um den Start- und Endpunkt festzulegen, um Richtung und Distanz der Bewegung zu bestimmen.
+V
+Pivot:
+Klicken Sie, um die Position des Gizmos festzulegen.
+Alt + V
+Pivot entfernen:
+Entfernt die konfigurierten Pivots.
+W
+Ausrichtung:
+Ändert die Koordinatenachsen des Gizmos auf verschiedene Ausrichtungen.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Alternative Duplicate
+Project Outline
+Create Outline
+Project Curve Body
+Project Curve Curve
+Project Body Body
+Offset Curve
+Delete Redundant Topology
+Extend

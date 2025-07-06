@@ -1,0 +1,61 @@
+Fest
+Imprint Curve Body
+Imprint Curve Body
+Befehl
+Imprint
+Tastenkürzel
+Umschalt + I
+Schaltfläche
+Im Menü Vorgeschlagene Befehle
+Erstellen Sie Kanten am Zielsolid oder Sheet, wo es auf eine Werkzeug-Curve projiziert wird. Optional kann die Projektionsrichtung angegeben werden; auch eine bidirektionale Projektion ist verfügbar.
+Grundlegende Nutzung
+Wenn Curves ausgewählt sind
+Drücken Sie
+Umschalt + I
+.
+Wählen Sie einen Solid oder Sheet, auf den die Curves projiziert werden sollen.
+Fahren Sie mit Schritt 4 fort.
+Wenn Solid oder Sheet ausgewählt sind
+Drücken Sie
+Umschalt + I
+.
+Wählen Sie Curves, die auf den Solid oder Sheet projiziert werden sollen.
+Fahren Sie mit Schritt 4 fort.
+Wenn nichts ausgewählt ist
+Drücken Sie
+Umschalt + I
+.
+Wählen Sie einen Solid oder Sheet, auf den die Curves projiziert werden sollen.
+Wählen Sie Curves, die auf den Solid oder Sheet projiziert werden sollen.
+Legen Sie die Optionen im Befehlsdialog und den Tastaturkürzeln fest.
+Befehlsdialog
+Method:
+Normal:
+Projiziert mit der Standardmethode.
+Vector:
+Projiziert in eine lineare Richtung.
+Bidirectional
+und
+Hide occlusion
+werden aktiviert.
+Bidirectional:
+Führt die Projektion in beide Richtungen durch.
+Hide occlusion:
+Wenn aktiviert, wird nicht auf Oberflächen hinter dem Objekt projiziert.
+Completion:
+Geben Sie die Erweiterung der projizierten Kanten an.
+None:
+Erweitert die projizierten Kanten nicht.
+Edge:
+Erweitert die projizierten Kanten bis sie andere Kanten schneiden.
+Boundary:
+Erweitert die projizierten Kanten bis sie andere Kanten schneiden und verbindet sie.
+Bestätigen Sie mit OK im Befehlsdialog oder mit Rechtsklick.
+Siehe auch
+Imprint
+Imprint Body Body
+isoparam
+Offset Curve
+Extend Edge
+Imprint Body Body
+Isoparam

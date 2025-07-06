@@ -1,0 +1,71 @@
+Allgemein
+Paste with Placement
+Paste with Placement
+Befehl
+Paste With Placement
+Tastenkürzel
+Strg + Umschalt + V
+Schaltfläche
+-
+Fügen Sie Objekte mit einem Referenzpunkt ein. Verwenden Sie es zusammen mit dem
+Copy with Placement
+Befehl, um eine ähnliche Funktionalität wie beim
+Place
+Befehl zu erreichen. Dies ist besonders nützlich, um Objekte in verschiedenen Fenstern zu platzieren.
+Grundlegende Nutzung
+Copy with Placement
+Befehl
+Wählen Sie die Objekte aus, die Sie kopieren möchten.
+Drücken Sie
+Strg + Umschalt + C
+.
+Klicken Sie auf den Referenzpunkt des zu kopierenden Objekts.
+Um in einem anderen Fenster einzufügen, wechseln Sie zu diesem Ziel-Fenster.
+Paste with Placement
+Befehl
+Drücken Sie
+Strg + Umschalt + V
+.
+Klicken Sie auf den Ziel-Referenzpunkt im Ziel-Fenster.
+Tastenkombinationen
+F
+Flip:
+Erlaubt das Spiegeln der Duplikationsachse.
+X
+/
+Y
+/
+Z
+x/y/z-up:
+Legt die Duplikationsachse auf die X/Y/Z-Achse fest.
+S
+Scale:
+Erlaubt das Skalieren.
+A
+Angle:
+Erlaubt das Drehen.
+D
+Offset:
+Erlaubt aufeinanderfolgende Duplikation.
+Umschalt + Q
+Slice:
+Erstellt einen Solid an den Schnittstellen mit dem Boolean-Ziel und bewahrt die verbleibenden Solids.
+Q
+Union:
+Verbindet das Boolean-Ziel und das Werkzeug.
+W
+Difference:
+Entfernt das Werkzeug vom Boolean-Ziel.
+Umschalt + E
+Intersect:
+Erstellt einen Solid an der Schnittstelle des Boolean-Ziels und des Werkzeugs.
+B
+New Body:
+Erstellt einen neuen Solid ohne Boolean-Operationen auszuführen.
+Klicken Sie mit der rechten Maustaste, um zu bestätigen.
+Um zusätzliche Objekte zu kopieren, wiederholen Sie die Schritte 3-2 und 3-3.
+Drücken Sie
+Esc
+, um den Befehl zu beenden.
+Move
+Place

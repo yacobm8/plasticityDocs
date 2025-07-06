@@ -1,0 +1,145 @@
+Solid
+Solid Commands
+Command Name
+Shortcut
+Note
+Boolean
+Q
+Boolean Solids and/or Sheets.
+Cut
+C
+Cut Solid and Sheet.
+Solid and Sheet Commands
+Alternative Duplicate
+Alt+D
+Alternative Duplicate.
+Constrained Surface
+Create a constrained surface.
+Deform
+Unified command for Deform Curve, Deform Solid and Sheet.
+Deform Solid and Sheet
+Wrap objects on irregular and regular surfaces.
+Extrude
+E
+Extrude Faces, Regions and Curves.
+Fillet
+B
+Unified command for Fillet Curve, Fillet Vertex, Fillet Shell.
+Fillet Shell
+B
+Fillet or chamfer the Edges.
+Hollow
+Hollow out a Solid.
+Loft
+L
+Loft Face, Edge and Curve.
+Patch
+Fill Sheet holes / Closed Curves to a Sheet.
+Pipe
+P
+Create a Pipe from Edge and Curve.
+Raise Degree
+Shift+S
+Unified command for Raise Curve Degree, Raise Surface Degree.
+Raise Surface Degree
+Shift+S
+Increase surface Control-Vertices.
+Remove Fillets from Shell
+Remove Solid and Sheet fillets.
+Revolve
+Revolve Region or Curve.
+Sweep
+Shift+P
+Sweep Region or Curve.
+Square
+Create surfaces with explicit control of degrees and spans.
+Slide
+Unified command for Slide Curve CV, Slide Surface CV.
+Slide Surface CV
+Shift+G
+Slide a CV on a Surface along the CV Hull.
+Thicken
+Add thickness to a selected Sheet.
+Thicken Face
+Add thickness to a selected Face.
+XNurbs
+Create high-quality and complex surfaces.
+Sheet Commands
+Bridge Surface
+Bridge two Sheets.
+Extend
+Unified command for Extend Curve, Extend Sheet.
+Extend Sheet
+Extend one or more outside Edges of the Sheet.
+Find Boundary Edges
+Select Edges of a Sheet opening.
+Join
+J
+Unified command for Join Curves, Join Sheets.
+Join Sheets
+J
+Join Sheets with matching Edges.
+Reverse
+Unified command for Reverse Curve, Reverse Sheet.
+Reverse Sheet
+Reverse the direction of normal on a sheet.
+Unjoin
+Alt+J
+Unified command for Unjoin Curves, Unjoin Faces, Unjoin Shells.
+Unjoin Faces
+Alt+J
+Separate selected Faces from Solid or Sheet.
+Unjoin Shells
+Alt+J
+Separate all Faces from selected Solids or Sheets into individual Faces.
+Untrim
+Alt+T
+Create a Sheet based on the original shape.
+Face Commands
+Delete Face
+Shift+Backspace
+or
+Shift+Delete
+or
+Shift+X
+Delete Face.
+Draft Face
+Tilt Face.
+Match Face
+Match Faces to another Face.
+Offset Face
+Offset the selected Faces.
+Rebuild
+Unified command for Rebuild Curve, Rebuild Face.
+Rebuild Face
+Rebuild Face.
+Unwrap Face
+Unwrap Face.
+Edge Commands
+Delete Redundant Topology
+Remove excess Edges.
+Extend Edge
+Extend Edges.
+Imprint
+Shift+I
+Unified command for Imprint Body Body, Imprint Curve Body.
+Imprint Body Body
+Shift+I
+Create Edges on the target Solid or Sheet where it intersects with a tool Solid or Sheet.
+Imprint Curve Body
+Shift+I
+Create Edges on the target Solid or Sheet where it projects onto a tool Curve.
+Isoparam
+Ctrl+R
+Add isoparams.
+Offset Curve
+O
+Unified command for Offset Planar Curve, Offset Region, Offset Face Loop, Offset Edge.
+Offset Edge
+O
+Offset the selected Edges.
+Offset Face Loop
+O
+Offset the outline edges of selected Faces.
+Unjoin Curve
+Alternative Duplicate

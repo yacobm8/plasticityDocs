@@ -1,0 +1,105 @@
+Plasticity Essentials
+Selecting Objects
+Selecting Objects
+Choose the desired objects using the mouse or keyboard.
+Selecting with the mouse
+Target
+Mouse Operation
+Selection
+All object
+Click
+Select the object.
+All object
+Drag from right to left
+Select objects that touch the green selection.
+All object
+Drag from left to right
+Select objects completely contained in the purple selection.
+Your browser does not support video tags.
+Object specific selection
+Mouse Operation
+Target
+Selection
+Alt
++ click
+Edge
+Select Edge loops.
+Ctrl + Alt
++ click
+Edge
+Select Edge rings.
+Alt
++ click
+Curve
+Select all Curves on the same plane.
+Alt
++ click
+Region
+Select all Regions on the same plane.
+Alt
++ click
+Face
+Select all related Faces.
+Ctrl + Alt
++ click
+Face
+Select all parallel Faces.
+Ctrl + Alt
++ click
+Cylindercal Face
+Select all parallel cylindrical Faces.
+Alt
++ click
+Solid/Sheet/Empty
+Select all Solid/Sheet/Empty in the group.
+Selecting with Shortcuts
+Command Name
+Shortcut
+Note
+Select all
+A
+Select all objects.
+Select all Curves
+Select all curves.
+Deselect all
+Escape
+Deselect all.
+Invert Selection
+Alt + A
+Invert selection.
+Select Adjacent
+Ctrl + Shift + =
+Select adjacent objects to the currently selected ones.
+Select from the currently selected objects
+Command Name
+Shortcut
+Note
+Selection: Convert to points
+Ctrl + 1
+Select only the Points of the currently selected Curves.
+Selection: Convert to edges
+Ctrl + 2
+Select only the Edges of the currently selected Solids, Sheets, Faces, and Regions.
+Selection: Convert to faces
+Ctrl + 3
+Select only the Faces of the currently selected Solids and Sheets.
+Selection: Convert to solids
+Ctrl + 4
+Select only the Solids or Sheets of the currently selected Faces and Edges.
+Selection: Convert to groups
+Ctrl + 5
+Select all objects within the group of the selected objects.
+Your browser does not support video tags.
+Select the source objects used in the last operation
+Command Name
+Shortcut
+Note
+Select Previous Entity Collection
+Ctrl + T
+Select the source objects used in the last operation. Using this feature multiple times selects sources from earlier operations sequentially.
+Select Next Entity Collection
+Ctrl+Shift+T
+A counterpart to "Select Previous Entity Collection". Allows for the sequential selection of subsequent source objects.
+Your browser does not support video tags.
+Selection Mode
+Shader Mode

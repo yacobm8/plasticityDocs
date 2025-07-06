@@ -1,0 +1,99 @@
+Plasticity Grundlagen
+Objekttypen
+Objekttypen
+Objekte werden in Skizze, Solid, Bild und Mesh kategorisiert, jeweils mit weiteren Unterteilungen.
+Sketch
+Curve
+Vertex
+Control Vertex
+Region
+Solid
+Solid
+Sheet
+Face
+Edge
+Image and Mesh
+Image
+Mesh
+1. Sketch
+1. Curve
+Eine aus Vertices und Steuerungspunkten bestehende Linie oder Kurve wird als Curve bezeichnet.
+Zum Auswählen wechseln Sie in den
+Kanten-Auswahlmodus
+.
+Mehrere Kurven können verbunden und als eine einzige Kurve behandelt werden.
+Angezeigt in Blau und wird gelb, wenn sie ausgewählt ist.
+2. Vertex
+Die Punkte an beiden Enden einer Curve werden als Vertices bezeichnet.
+Zum Auswählen wechseln Sie in den
+Steuerungspunkt-Auswahlmodus
+.
+Angezeigt als lila Punkte, die weiß werden, wenn sie ausgewählt sind.
+Wenn sich mehrere Vertices überlappen, wird der Punkt türkis.
+3. Control Vertex
+Punkte, die die Form einer Curve definieren, werden als Control Vertices bezeichnet.
+Zum Auswählen wechseln Sie in den
+Steuerungspunkt-Auswahlmodus
+.
+Kleiner als Vertices, angezeigt als lila Punkte, die weiß werden, wenn sie ausgewählt sind.
+Vertices und Steuerungsvertices sind durch weiße Linien verbunden.
+Das Hinzufügen von Steuerungsvertices ermöglicht komplexere Kurven.
+4. Region
+Ein von Curves umschlossener Bereich wird als Region bezeichnet.
+Zum Auswählen wechseln Sie in den
+Flächen-Auswahlmodus
+.
+Angezeigt als dunkelblau, wird hellblau, wenn sie ausgewählt ist.
+Das Auswählen einer Region aktiviert automatisch den
+Extrudieren
+Befehl.
+Das Löschen von Regionen löscht die Kurven, die die Region begrenzen.
+2. Solid
+1. Solid
+Ein geschlossener fester Körper, der aus mehreren Flächen ohne Löcher besteht, wird als Solid bezeichnet.
+Zum Auswählen wechseln Sie in den
+Körper-Auswahlmodus
+.
+Angezeigt als grau, mit Konturen, die gelb werden, wenn sie ausgewählt sind.
+2. Shhet
+Ein offener Körper, der aus Flächen mit Löchern besteht, wird als Sheet bezeichnet.
+Das Entfernen eines Teils einer Festkörperfläche verwandelt ihn in einen offenen Körper, ein Blatt.
+Zum Auswählen wechseln Sie in den
+Körper-Auswahlmodus
+.
+Angezeigt als grau, mit Konturen, die gelb werden, wenn sie ausgewählt sind.
+3. Face
+Jede ebene oder gekrümmte Oberfläche, die Solids und Sheets bildet, wird als Face bezeichnet.
+Zum Auswählen wechseln Sie in den
+Flächen-Auswahlmodus
+.
+Angezeigt als grau, wird hellgelb, wenn sie ausgewählt ist.
+Das Auswählen einer Fläche aktiviert automatisch den
+Offset Face
+Befehl.
+4. Edge
+Die Randlinien, die Faces umgeben, werden als Edges bezeichnet.
+Zum Auswählen wechseln Sie in den
+Kanten-Auswahlmodus
+.
+Angezeigt als schwarze Linien, die gelb werden, wenn sie ausgewählt sind.
+Das Auswählen einer Kante, an der zwei Flächen zusammentreffen, aktiviert automatisch den Befehl
+Fillet
+. Das Auswählen einer offenen Kante an einem Blatt aktiviert automatisch den Befehl
+Extend Sheet
+.
+3. Image and Mesh
+1. Image
+Bilder, die mit der Import-Funktion importiert wurden, werden als Images bezeichnet.
+Zum Auswählen wechseln Sie in den
+Körper-Auswahlmodus
+.
+Umrisse werden gelb, wenn sie ausgewählt sind.
+2. Mesh
+3D-Daten wie STL und FBX, die mit der Import-Funktion importiert wurden, werden als Meshes bezeichnet.
+Zum Auswählen wechseln Sie in den
+Körper-Auswahlmodus
+.
+Umrisse werden gelb, wenn sie ausgewählt sind.
+Plasticity Grundlagen
+Bedienung des 3D-Ansichtsfensters

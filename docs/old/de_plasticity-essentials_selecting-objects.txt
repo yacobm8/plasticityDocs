@@ -1,0 +1,105 @@
+Plasticity Grundlagen
+Objekte auswählen
+Objekte auswählen
+Wählen Sie die gewünschten Objekte mit der Maus oder Tastatur aus.
+Auswahl mit der Maus
+Ziel
+Mausaktion
+Auswahl
+Alle Objekte
+Klick
+Das Objekt auswählen.
+Alle Objekte
+Ziehen von rechts nach links
+Wählt Objekte aus, die die grüne Auswahl berühren.
+Alle Objekte
+Ziehen von links nach rechts
+Wählt Objekte vollständig aus, die in der violetten Auswahl enthalten sind.
+Your browser does not support video tags.
+Objektspezifische Auswahl
+Mausaktion
+Ziel
+Auswahl
+Alt
++ Klick
+Edge
+Edge-Schleifen auswählen.
+Strg + Alt
++ Klick
+Edge
+Edge-Ringe auswählen.
+Alt
++ Klick
+Curve
+Alle Curves auf der gleichen Ebene auswählen.
+Alt
++ Klick
+Region
+Alle Regions auf der gleichen Ebene auswählen.
+Alt
++ Klick
+Face
+Alle zugehörigen Faces auswählen.
+Strg + Alt
++ Klick
+Face
+Alle parallelen Faces auswählen.
+Strg + Alt
++ Klick
+Cylindercal Face
+Alle parallelen zylindrischen Faces auswählen.
+Alt
++ Klick
+Solid/Sheet/Empty
+Alle Solid/Sheet/Empty in der Gruppe auswählen.
+Auswahl mit Tastenkombinationen
+Befehlsname
+Tastenkombination
+Hinweis
+Select all
+A
+Alle Objekte auswählen.
+Select all Curves
+Alle Curves auswählen.
+Deselect all
+Escape
+Auswahl aufheben.
+Invert Selection
+Alt + A
+Auswahl umkehren.
+Select Adjacent
+Strg + Umschalt + =
+Angrenzende Objekte zu den aktuell ausgewählten auswählen.
+Auswahl aus den aktuell ausgewählten Objekten
+Befehlname
+Tastenkürzel
+Hinweis
+Auswahl: In Punkte umwandeln
+Ctrl + 1
+Wählt nur die Punkte der derzeit ausgewählten Kurven aus.
+Auswahl: In Kanten umwandeln
+Ctrl + 2
+Wählt nur die Kanten der derzeit ausgewählten Soliden, Blätter, Flächen und Regionen aus.
+Auswahl: In Flächen umwandeln
+Ctrl + 3
+Wählt nur die Flächen der derzeit ausgewählten Soliden und Blätter aus.
+Auswahl: In Solide umwandeln
+Ctrl + 4
+Wählt nur die Soliden oder Blätter der derzeit ausgewählten Flächen und Kanten aus.
+Auswahl: In Gruppen umwandeln
+Ctrl + 5
+Wählt alle Objekte innerhalb der Gruppe der ausgewählten Objekte aus.
+Your browser does not support video tags.
+Quellobjekte auswählen, die im letzten Vorgang verwendet wurden
+Befehlsname
+Tastenkombination
+Hinweis
+Select Previous Entity Collection
+Strg + T
+Quellobjekte auswählen, die im letzten Vorgang verwendet wurden. Dieses Feature mehrfach verwenden, um Quellen aus früheren Vorgängen sequenziell auszuwählen.
+Select Next Entity Collection
+Strg+Umschalt+T
+Ein Gegenstück zu "Select Previous Entity Collection". Ermöglicht die sequenzielle Auswahl von nachfolgenden Quellobjekten.
+Your browser does not support video tags.
+Auswahlmodus
+Shader-Modus

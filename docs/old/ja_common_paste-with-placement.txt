@@ -1,0 +1,71 @@
+共通
+Paste with Placement
+Paste with Placement
+コマンド
+Paste With Placement
+ショートカット
+Ctrl + Shift + V
+ボタン
+-
+参照点を用いてオブジェクトを貼り付けます。
+Copy with Placement
+コマンドと併用することで、
+Place
+コマンドと同等の機能が得られます。特に、別のウィンドウにオブジェクトを配置する際に便利です。
+基本的な使い方
+Copy with Placement
+コマンド
+コピーしたいオブジェクトを選択します。
+Ctrl + Shift + C
+を押します。
+コピーするオブジェクトの参照点をクリックします。
+別のウィンドウにペーストする場合、そのターゲットウィンドウに切り替えます。
+Paste with Placement
+コマンド
+Ctrl + Shift + V
+を押します。
+ターゲットウィンドウ内での配置先の参照点をクリックします。
+キーボードショートカット
+F
+Flip:
+Allows flipping the duplication axis.
+X
+/
+Y
+/
+Z
+x/y/z-up:
+Sets the duplication axis to the X/Y/Z-axis.
+S
+Scale:
+Allows scaling.
+A
+Angle:
+Allows rotation.
+D
+Offset:
+Allows consecutive duplication.
+Shift + Q
+Slice:
+Creates a Solid at the intersections with the Boolean target and preserves the remaining Solids.
+Q
+Union:
+Joins the Boolean target and tool together.
+W
+Difference:
+Removes the tool from the Boolean target.
+Shift + E
+Intersect:
+Creates a Solid at the intersection of the Boolean target and tool.
+B
+New Body:
+Creates a new Solid without performing Boolean operations.
+T
+Keep Tool:
+Preserves the tool after performing a Boolean operation.
+右クリックで確定します。
+追加のオブジェクトをコピーする場合、手順3-2と3-3を繰り返します。
+Esc
+を押してコマンドを終了します。
+Move
+Place

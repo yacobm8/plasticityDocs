@@ -1,0 +1,23 @@
+Solid
+Extend
+Extend
+Command
+Extend
+Shortcut
+-
+Button
+-
+The Extend command runs based on the selected object:
+Extend Curve:
+If Curves are selected, see
+Extend Curve
+in the Sketch Commands section.
+Extend Sheet:
+If outside Edges of the Sheet are selected, see
+Extend Sheet
+in the Solid Commands section.
+See also
+Extend Curve
+Extend Sheet
+Draft Face
+Extend Edge

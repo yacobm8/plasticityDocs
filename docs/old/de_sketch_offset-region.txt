@@ -1,0 +1,47 @@
+Skizze
+Offset Region
+Offset Region
+Befehl
+Offset Curve
+Tastenkürzel
+O
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Versetzen Sie die Konturlinien einer ausgewählten Region, indem Sie die Entfernung angeben, um neue Regionen zu erstellen. Mehrere Regionen erstellen neue einzelne Regionen oder eine kombinierte Region.
+Grundlegende Nutzung
+Wählen Sie die Regionen aus, die Sie versetzen möchten.
+Drücken Sie
+O
+.
+Ziehen Sie den gelben Pfeil, um die Entfernung festzulegen.
+Legen Sie die Optionen im Befehlsdialog und den Tastaturkürzeln fest.
+Befehlsdialog
+Distance:
+Geben Sie die Entfernung an.
+Gap fill:
+Round:
+Rundet konvexe Ecken.
+Linear:
+Verbindet konvexe Ecken mit geraden Linien.
+Natural:
+Natürlich
+Tastenkombinationen
+Tab
+Lock distances:
+Versetzen mit gleichem Abstand auf beiden Seiten.
+I
+Individual:
+Wenn mehrere Regionen ausgewählt sind, versetzt das Einschalten dieser Option die Regionen in kombinierter Form.
+V
+Gap fill:
+D
+Distance:
+Geben Sie die Entfernung mit der Mausbewegung an.
+Bestätigen Sie mit OK im Befehlsdialog oder mit Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Offset Curve
+Offset Vertex
+Offset Planar Curve
+Offset Planar Curve
+Offset Vertex

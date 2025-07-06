@@ -1,0 +1,45 @@
+Fest
+Offset Edge
+Offset Edge
+Befehl
+Offset Curve
+Tastenkürzel
+O
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Verschieben Sie die ausgewählten Kanten, indem Sie den Abstand angeben, um neue Kanten zu erstellen. Die Option für symmetrisches Versetzen auf beiden Seiten ist verfügbar.
+Grundlegende Nutzung
+Wählen Sie die Kanten aus, die Sie versetzen möchten.
+Drücken Sie
+O
+.
+Bewegen Sie die Maus nach links und rechts, um die Richtung und den Abstand anzugeben.
+Legen Sie die Optionen im Befehlsdialog und den Tastaturkürzeln fest.
+Befehlsdialog
+Distance:
+Geben Sie den Abstand an.
+Tastenkombinationen
+V
+Gap fill:
+Round:
+Rundet konvexe Ecken.
+Linear:
+Verbindet konvexe Ecken mit geraden Linien.
+Natural:
+Natürlich
+Tab
+Lock distances:
+Versetzen Sie mit gleichem Abstand auf beiden Seiten.
+D
+Distance:
+Geben Sie den Abstand mit der Mausbewegung an.
+Bestätigen Sie mit OK im Befehlsdialog oder mit Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Offset Curve
+Offset Face Loop
+isoparam
+Imprint
+Extend Edge
+Offset Curve
+Offset Face

@@ -1,0 +1,26 @@
+Sketch
+Subdivide Curve
+Subdivide Curve
+Command
+Subdivide
+Shortcut
+Alt + S
+Button
+-
+Increase the number of Control Vertices(CVs) by doubling its count on selected curves each time its being ran.
+Basic Usage
+Select one or more Curves.
+Press
+Alt + S
+or type
+Subdivide
+in the Command Palette.
+The number of CVs is increased, and they are selected.
+💡
+Tip
+Using the Raise Degree command on a single-span curve adds one control vertex (CV) per execution, whereas the Subdivide command doubles the number of CVs each time it is applied.
+See also
+Raise Curve Degree
+Rebuild Curve
+Split Segment
+Text

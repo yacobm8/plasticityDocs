@@ -1,0 +1,36 @@
+Sketch
+Cut Curve
+Cut Curve
+Command
+Cut Curve
+Shortcut
+C
+Button
+In Suggested Commands Menu
+Cut the target Curve using a cutter Curve or Face. When a Curve is the cutter, the cut is made based on a surface generated from that Curve.
+Basic Usage
+Press
+C
+.
+Press
+C
+again to switch to
+Cut Curve
+command.
+Specify the target and cutter.
+Command Dialog
+Select target bodies
+: Select the  Curve to be cut.
+Select cutters
+: Select the  Curve or Face to be used as the cutter.
+Keyboard Shortcuts
+S
+Screen space
+: Sets the cutting direction to align with the visible direction.
+Confirm with OK in the Command Dialog or right-click.
+See also
+Unjoin
+Split Segment
+Trim
+Create Outline
+Deform

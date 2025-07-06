@@ -1,0 +1,116 @@
+Plasticity Grundlagen
+Outliner
+Outliner
+Der Outliner zeigt alle Objekte an, die du erstellt hast. Im Outliner kannst du Objekte organisieren, gruppieren, ihre Zustände umschalten und Materialien konfigurieren.
+Angezeigte Objekte
+Die erstellten Objekte sind in verschiedene Abschnitte unterteilt: "Körper", "Flächen", "Kurven", "Meshes", "Bilder" und "Messungen".
+Angezeigte Konstruktions-Ebenen
+Gespeicherte
+Konstruktions-Ebenen
+sind als "Ebenen" klassifiziert und im "Hinzugefügte Ebenen"-Menü auf der rechten Seite des Bildschirms aufgelistet.
+Objekte organisieren
+Klicke mit der rechten Maustaste auf eine Abschnittsüberschrift ("Körper", "Flächen", "Kurven", "Meshes", "Bilder" und "Messungen") und wähle "Alle auswählen", um alle Objekte in diesem Abschnitt auszuwählen.
+Du kannst den Outliner durch Ziehen und Ablegen von Objekten neu anordnen.
+Objekte gruppieren
+Gruppierung ermöglicht eine bessere Organisation deiner Objekte.
+Aktion
+Shortcut
+Befehl
+Erstelle eine Gruppe und verschiebe das ausgewählte Objekt in die neue Gruppe.
+Ctrl + G
+oder
+Gruppe erstellen
+Entferne das ausgewählte Objekt aus der Gruppe.
+Alt + G
+Gruppe auflösen
+Rechtsklick auf einen Gruppenordner, um zugehörige Befehle aufzurufen.
+Menü
+Beschreibung
+Auswahl zur Gruppe hinzufügen
+Fügt das ausgewählte Objekt zur Gruppe hinzu.
+Alle auswählen
+Wählt alle Objekte in der Gruppe aus.
+Neue Untergruppe mit Auswahl
+Erstellt eine neue Untergruppe mit der Auswahl.
+Auswahl in die Hauptstruktur verschieben
+Verschiebt das ausgewählte Objekt aus einer Gruppe in die Hauptstruktur.
+Alle erweitern
+Erweitert alle Gruppen.
+Alle reduzieren
+Reduziert alle Gruppen.
+Material hinzufügen
+Weist der Gruppe ein Material zu. Siehe
+Materialfarbe
+.
+Material entfernen
+Entfernt das Material aus der Gruppe. Siehe
+Materialfarbe
+.
+Auflösen
+Löscht die Gruppe, behält aber die enthaltenen Objekte bei.
+Rekursiv löschen
+Löscht die Gruppe und alle darin enthaltenen Objekte.
+Alt-Klick auf einen Ordner im Outliner, um alle Objekte in diesem Abschnitt auszuwählen.
+Gruppen reduzieren und erweitern
+Um alle Gruppen zu reduzieren, klicke auf (1) oder bewege den Cursor über den Outliner und drücke
+C
+.
+Um alle Gruppen zu erweitern, klicke auf (2) und wähle "Alle erweitern".
+Objekte umbenennen
+Um ein Objekt umzubenennen, doppelklicke auf seinen Namen.
+Um mehrere Objekte gleichzeitig umzubenennen, halte die Shift-Taste gedrückt, wähle die Objekte aus und doppelklicke dann auf einen ihrer Namen.
+Objekte im Outliner finden
+Ein ausgewähltes Objekt im Outliner nach oben bringen
+Wähle das Objekt im 3D-Viewport aus, bewege den Cursor über den Outliner und drücke
+/
+.
+Alternativ kannst du das Objekt auswählen, auf (2) klicken und "Zur Auswahl scrollen" wählen.
+Ein ausgewähltes Objekt im Outliner isolieren
+Wähle das Objekt im Outliner und drücke
+.
+. Dadurch werden alle Gruppen und Abschnitte ausgeblendet, außer der mit dem gewählten Objekt.
+Alternativ kannst du das Objekt auswählen, auf (2) klicken und "Auswahl isolieren" wählen.
+Objektzustände umschalten
+Du kannst die Zustände von Objekten oder Gruppen umschalten, z. B. sie vorübergehend ausblenden, deaktivieren oder sperren.
+Aktionen im Outliner
+Klicke auf die Symbole neben Objekten oder Gruppen, um deren Zustand zu ändern. Du kannst auch mehrere Objekte auswählen und ihre Zustände gleichzeitig ändern.
+: Verstecken umschalten
+: Deaktivieren umschalten
+: Sperren umschalten
+Aktionen per Shortcut
+Aktion
+Shortcut
+Befehl
+Ausgewählte Objekte ausblenden
+H
+Verstecken
+Nicht ausgewählte Objekte ausblenden
+Shift + H
+Nicht ausgewählte verstecken
+Alle wieder einblenden
+Alt + H
+Alle einblenden
+Versteckten Zustand umkehren
+Ctrl + H
+Versteck umkehren
+Alle Kurven auf derselben Ebene ausblenden
+Region auswählen ->
+H
+Ausgewählte Objekte sperren
+Sperren
+Materialfarbe
+Du kannst Materialien Körpern, Flächen und Kurven zuweisen. Materialien, die für eine Gruppe festgelegt wurden, gelten auch für die darin enthaltenen Objekte.
+Seitenleisten-Sichtbarkeit umschalten
+Aktion
+Shortcut
+Befehl
+Linke Seitenleiste umschalten
+Ctrl + B
+oder
+Seitenleiste: Links umschalten
+Rechte Seitenleiste umschalten
+Ctrl + Shift + B
+oder
+Seitenleiste: Rechts umschalten
+Einstellungen
+Assets

@@ -1,0 +1,27 @@
+Sketch
+Project
+Project
+Command
+Project
+Shortcut
+I
+Button
+In Suggested Commands Menu
+The Project command runs based on the selected object:
+Project Curve Curve:
+If two Curves are selected, see
+Project Curve Curve
+.
+Project Body Body:
+If two Solids or Sheets are selected, see
+Project Body Body
+.
+Otherwise: see
+Project Curve Body
+.
+See also
+Project Curve Curve
+Project Body Body
+Project Curve Body
+Offset Vertex
+Project Body Body

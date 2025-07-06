@@ -1,0 +1,28 @@
+Skizze
+Fillet
+Fillet
+Befehl
+Fillet
+Tastenkürzel
+B
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Der Fillet-Befehl wird basierend auf dem ausgewählten Objekt ausgeführt:
+Fillet-Kurve:
+Wenn Kurven ausgewählt sind, siehe
+Fillet-Kurve
+.
+Fillet-Scheitelpunkt:
+Wenn Scheitelpunkte ausgewählt sind, siehe
+Fillet-Scheitelpunkt
+.
+Fillet-Fläche:
+Wenn Kanten ausgewählt sind, siehe
+Fillet-Fläche
+im Abschnitt „Solid-Befehle“.
+Siehe auch
+Fillet Curve
+Fillet Vertex
+Fillet Shell
+Extend Curve
+Fillet Curve

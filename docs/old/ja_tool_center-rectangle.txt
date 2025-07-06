@@ -1,0 +1,38 @@
+スケッチ & プリミティブ ツール
+Center Rectangle
+Center Rectangle
+コマンド
+Center Rectangle
+ショートカット
+-
+ボタン
+ツールバー
+中心点を指定して長方形を作成できます。
+基本的な使い方
+ツールバーのボタン
+をクリックします。
+四角形の中心点をクリックします。
+カーソルを動かして大きさを調整し、クリックして確定します。
+キーボードショートカット
+Tab
+: 寸法値に直接入力できるようになります。詳細は
+こちら
+を参照してください。
+K
+Knife:
+ナイフモードを使う
+を参照してください。
+C
+Center / Corner:
+Corner Rectangleに切り替えます。
+S
+Square:
+正方形に限定します。
+右クリックで確定します。
+四角形が作成されます。
+Your browser does not support video tags.
+関連項目
+Corner Rectangle
+Three Point Rectangle
+Corner Rectangle
+Three Point Rectangle

@@ -1,0 +1,41 @@
+Plasticity Grundlagen
+Referenzbilder importieren
+Wie man Referenzbilder importiert
+Wählen Sie die Ebene aus, auf der Sie das Bild anzeigen möchten.
+Neben den XY-, YX- und XZ-Ebenen können Sie auch eine Konstruktionsebene auswählen.
+Klicken Sie oben links im Menü auf
+Import/Append
+.
+Ein Dateiauswahldialog wird angezeigt.
+Wählen Sie eine Bilddatei aus.
+Das System unterstützt die Formate PNG und JPEG.
+Das Bild wird importiert und im Outliner als „Bild“ kategorisiert.
+Anpassen des Erscheinungsbilds von Referenzbildern
+Sie können Dinge wie die Transparenz von Referenzbildern einstellen.
+Klicken Sie auf das Referenzbild, um es auszuwählen.
+Drücken Sie die Tastenkombination
+M
+.
+Ein Dialog zur Einstellung des Bildmaterials wird angezeigt.
+Depth
+:
+Normal
+: Es wird von Objekten vor der Ebene verdeckt und verdeckt Objekte dahinter.
+Front
+: Es ist immer sichtbar, unabhängig von anderen Objekten. (
+Opacity
+muss kleiner als 1 sein.)
+Behind
+: Egal wo sie positioniert sind, Objekte werden immer im Vordergrund angezeigt.
+Opacity
+:
+Geben Sie die Transparenz numerisch an. Das Kontrollkästchen muss aktiviert sein.
+Culling
+:
+Front only
+: Es wird nur angezeigt, wenn es von vorne betrachtet wird.
+Double sided
+: Es wird angezeigt, ob es von vorne oder von hinten betrachtet wird.
+Bestätigen Sie im Dialog mit OK oder durch Rechtsklick.
+Import/Export
+OBJ exportieren

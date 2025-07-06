@@ -1,0 +1,45 @@
+Skizzieren & Primitive Werkzeuge
+Three Point Circle
+Three-Point Circle
+Befehl
+Three-Point Circle
+Tastenkürzel
+-
+Schaltfläche
+Werkzeugleiste
+Sie können einen Kreis erstellen, indem Sie drei Punkte auf seinem Umfang angeben.
+Grundlegende Nutzung
+Klicken Sie auf den
+Knopf in der Werkzeugleiste.
+Klicken Sie auf einen Punkt auf dem Umfang des Kreises.
+Bewegen Sie den Cursor und klicken Sie auf einen zweiten Punkt auf dem Umfang.
+Tastenkombinationen
+Tab
+: Länge numerisch angeben. Weitere Informationen finden Sie
+hier
+.
+K
+Knife:
+Siehe
+Messermodus verwenden
+.
+X
+/
+Y
+/
+Z
+X/Y/Z-Axis:
+Beschränkt auf X, Y, Z Achse
+.
+Bewegen Sie den Cursor, um die Größe anzupassen, und klicken Sie zur Bestätigung.
+Der Kreis wird erstellt.
+Your browser does not support video tags.
+Siehe auch
+Center Cirvle
+Two-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Tangent Arc
+Two Point Circle
+Tangent Circle

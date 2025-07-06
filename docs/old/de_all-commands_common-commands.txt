@@ -1,0 +1,54 @@
+Befehlsliste & Tastenkombinationen
+Allgemein
+Allgemeine Befehle für Skizze und Festkörper
+Befehlsname
+Tastenkombination
+Anmerkung
+Complete Edge
+Erweitert die ausgewählte Kante, bis sie eine andere Kante schneidet.
+Copy with Placement
+Ctrl+Shift+C
+Objekte mit einem Referenzpunkt kopieren.
+Curve Array
+Objekte entlang einer Kurve duplizieren.
+Dimension
+=
+Dimensionswerte ändern.
+Duplicate
+Shift+D
+Objekte duplizieren.
+Measure
+Ctrl+=
+Dimensionswerte messen.
+Mirror
+Alt+X
+Objekte spiegeln.
+Move
+G
+Objekte verschieben.
+Paste with Placement
+Ctrl+Shift+V
+Objekte mit einem Referenzpunkt einfügen.
+Place
+Ctrl+D
+Objekte entlang einer angegebenen Achse duplizieren.
+Radial Array
+Objekte in einem radialen Muster duplizieren.
+Rectangular Array
+Objekte in einem rechteckigen Muster duplizieren.
+Remove Material
+Alt+M
+Material entfernen.
+Rotate
+R
+Objekte drehen.
+Scale
+S
+Objekte skalieren.
+Section Analysis
+Erstelle eine virtuelle Schnittfläche durch ein Objekt.
+Set Material
+M
+Material festlegen.
+Skizzieren & Primitive Werkzeuge
+Skizze

@@ -1,0 +1,68 @@
+Allgemein
+Set Material
+Set Material
+Befehl
+Set Material
+Tastenkürzel
+M
+Schaltfläche
+-
+Weisen Sie Material Solids und Sheets zu. Gruppenmaterial beeinflusst enthaltene Objekte. Kurven werden durch Farbe und Deckkraft beeinflusst. Bildtiefe und Deckkraft können über das Material angepasst werden.
+Material für Objekte festlegen
+Wählen Sie die Solids, Sheets und Kurven aus, denen Sie das Material zuweisen möchten.
+Drücken Sie
+M
+.
+Legen Sie die Optionen im Befehlsdialog fest.
+Befehlsdialog
+Color:
+Legen Sie die Grundfarbe des Materials fest.
+Metalness:
+Steuert, wie metallisch das Material erscheint. Ein Wert von 0 bedeutet, dass das Material nicht metallisch ist, während ein Wert von 1 bedeutet, dass das Material vollständig metallisch ist.
+Roughness:
+Legen Sie die Rauheit der Materialoberfläche fest. Ein Wert von 0 bedeutet, dass die Oberfläche perfekt glatt ist, während ein Wert von 1 bedeutet, dass die Oberfläche sehr rau ist.
+Clearcoat:
+Fügt dem Grundmaterial eine zusätzliche Schicht von spiegelnden Reflexionen hinzu. Nützlich für Materialien wie Autolack.
+Clearcoat roughness:
+Legen Sie die Rauheit der Clearcoat-Schicht fest.
+Sheen:
+Fügt eine weiche, samtartige Reflexion nahe den Kanten des Materials hinzu und simuliert Materialien wie Stoff.
+Sheen roughness:
+Legen Sie die Rauheit der Sheen-Schicht fest.
+Sheen color:
+Legen Sie die Farbe der Sheen-Schicht fest.
+Specular intensity:
+Steuert die Intensität der spiegelnden Reflexion.
+Specular color:
+Legen Sie die Farbe der spiegelnden Reflexion fest.
+Transmission:
+Steuert den Grad, zu dem das Material Licht durchlässt.
+Thickness:
+Legen Sie die Dicke des Materials fest.
+Opacity:
+Legen Sie den Grad fest, zu dem das Material transparent oder undurchsichtig ist.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+🗒️
+Note
+Transparente Materialien werden nun mit 50% Transparenz angezeigt, selbst wenn Standard- und benutzerdefinierte
+matcaps
+im Nicht-Render-Modus verwendet werden.
+Material für Gruppen festlegen
+Wenn Sie einem Material für eine Gruppe zuweisen, wird das Material für alle Objekte in der Gruppe festgelegt.
+Wählen Sie die Gruppe aus, der Sie das Material im Gliederung zuweisen möchten.
+Drücken Sie
+M
+.
+Legen Sie die Optionen im Befehlsdialog fest.
+Die Optionen sind die gleichen wie beim Festlegen eines Materials für Objekte.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Material für Referenzbilder festlegen
+Siehe
+"Wie man Referenzbilder importiert"
+.
+Siehe auch
+Remove Material
+Outliner/Material color
+View Mode/Toggle View Mode
+Section Analysis
+Skizze

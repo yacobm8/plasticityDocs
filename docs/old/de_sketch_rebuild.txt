@@ -1,0 +1,24 @@
+Skizze
+Rebuild
+Rebuild
+Befehl
+Rebuild
+Tastenkürzel
+-
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Der Rebuild-Befehl wird basierend auf dem ausgewählten Objekt ausgeführt:
+Rebuild-Kurve:
+Wenn Kurven ausgewählt sind, siehe
+Rebuild-Kurve
+.
+Rebuild-Fläche:
+Wenn Flächen ausgewählt sind, siehe
+Rebuild-Fläche
+im Abschnitt „Solid-Befehle“.
+See also
+Rebuild Curve
+Rebuild Face
+Delete Redundant Topology
+Raise Degree
+Rebuild Curve

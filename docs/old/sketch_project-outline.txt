@@ -1,0 +1,28 @@
+Sketch
+Project Outline
+Project Outline
+Command
+Alternative Duplicate
+Shortcut
+Alt + D
+Button
+-
+Project the outline of the Solids or Sheets onto the current construction plane along the normal direction, thereby generating a Curves.
+Basic Usage
+Set the desired construction plane for projection.
+Select the Solids or Sheets to project onto.
+Press
+Alt + D
+to excute the command.
+The projected Curves will be created on the current construction plane.
+Optionally, you can move the Curves using the Move Gizmo.
+Right-click or click OK in the Command Dialog to confirm.
+Your browser does not support video tags.
+See also
+Alternative Duplicate
+Create Outline
+Project Curve Body
+Project Curve Curve
+Project Body Body
+Project Curve Curve
+Raise Curve Degree

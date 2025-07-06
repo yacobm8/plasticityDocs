@@ -1,0 +1,43 @@
+Common
+Curve Array
+Curve Array
+Command
+Curve Array
+Shortcut
+-
+Button
+-
+Duplicate objects along a Curve by specifying the number of duplicates. Twist, scale, alignment options are possible to use.
+Basic Usage
+Select the object you want to duplicate.
+Use the
+Curve Array
+command in the Command Palette.
+Select the  Curve to use as the path.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Number:
+Specify the number of duplications.
+Twist:
+Specify the angle of twist along the  Curve in degrees.
+Scale:
+Specify the scaling factor along the  Curve.
+Alignment:
+Parallel:
+Duplicate the Curves in parallel, regardless of the path.
+Normal:
+Duplicate the Curves with angles aligned to the path.
+Keyboard Shortcuts
+Shift + Wheel up
+Add copy:
+Increases the number of duplications.
+Shift + Wheel down
+Subtract copy:
+Reduces the number of duplications.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+See also
+Rectangular Array
+Radial Array
+Copy with Placement
+Dimension

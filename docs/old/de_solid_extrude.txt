@@ -1,0 +1,72 @@
+Fest
+Extrude
+Extrude
+Befehl
+Extrude
+Tastenkürzel
+E
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Das Herausziehen von Faces oder Regions erzeugt Solids, während das Herausziehen von Curves Sheets produziert. Geben Sie die Entfernung an, setzen Sie den Extrusionswinkel und definieren Sie die Wandstärke. Boolean-Optionen verfügbar.
+Grundlegende Nutzung
+Drücken Sie
+E
+oder klicken Sie auf den Button
+.
+Wählen Sie die Faces, Regions oder Curves aus, die Sie extrudieren möchten.
+Bewegen Sie den gelben Punkt, um die Entfernung anzugeben.
+Legen Sie die Optionen im Befehlsdialog und den Tastenkombinationen fest.
+Befehlsdialog
+Select target bodies:
+,
+Umschalt + Q
+,
+Q
+,
+W
+,
+B
+,
+T
+Diese Boolean-Optionen funktionieren genauso wie der
+Boolean
+Befehl. Beziehen Sie sich auf den
+Boolean
+Befehl.
+Distance:
+Geben Sie die Entfernung und die gegenüberliegende Entfernung an.
+Degrees:
+Geben Sie den Extrusionswinkel an.
+Thickness:
+Geben Sie die Wandstärke an.
+Keep tools:
+Gleich wie
+T
+Tastenkombinationen
+F
+Freestyle
+Geben Sie den Startpunkt und den Endpunkt an, um die Richtung und Entfernung von
+Extrude
+zu bestimmen.
+V
+Pivot
+Geben Sie die Position des Gizmo an.
+D
+Distance 1
+Geben Sie die Entfernung mit dem Cursor an.
+A
+Angle 1
+Geben Sie den Extrusionswinkel mit dem Cursor an.
+Umschalt + T
+Thickness
+Geben Sie die Wandstärke mit dem Cursor an.
+Tab
+Lock distances
+Extrudieren Sie mit gleichem Abstand auf beiden Seiten.
+Bestätigen Sie mit OK im Befehlsdialog oder Rechtsklick.
+Siehe auch
+Boolean
+Cut
+Pipe
+Extend Sheet
+Fillet

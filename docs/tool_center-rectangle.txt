@@ -1,0 +1,39 @@
+Sketching & Primitive Tools
+Center Rectangle
+Center Rectangle
+Command
+Center Rectangle
+Shortcut
+-
+Button
+Toolbar
+You can create a rectangle by specifying its center point.
+Basic Usage
+Click the
+button on the toolbar.
+Click to specify the center point of the rectangle.
+Move the cursor to adjust the size, and click to confirm.
+Keyboard Shortcuts
+Tab
+: Allows direct input of dimensions. See
+here
+for details.
+K
+Knife:
+Refer to
+Using Knife Mode
+.
+C
+Center / Corner:
+Switches to Corner Rectangle.
+S
+Square:
+Restricts to a square shape.
+Right-click to confirm.
+The rectangle is created.
+Your browser does not support video tags.
+See also
+Corner Rectangle
+Three Point Rectangle
+Corner Rectangle
+Three Point Rectangle

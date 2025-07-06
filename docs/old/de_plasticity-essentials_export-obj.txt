@@ -1,0 +1,79 @@
+Plasticity Grundlagen
+OBJ exportieren
+OBJ exportieren
+Wählen Sie den Festkörper oder das Blatt aus, den/das Sie exportieren möchten.
+Wenn nichts ausgewählt ist, werden alle angezeigten Festkörper und Blätter exportiert.
+Klicken Sie auf
+P-Menü
+>
+Export/Save as...
+.
+Ein Dialogfeld "Speichern unter" wird angezeigt.
+Geben Sie den Dateinamen ein.
+Wählen Sie
+Wavefront OBJ (*.obj)
+als Dateityp.
+Das Dialogfeld "OBJ exportieren" wird angezeigt.
+Konfigurieren Sie die Optionen.
+Option
+Übersicht
+Detail
+Empfohlener Wert
+Topology
+Die Form der umzuwandelnden Polygone
+Tris (nur dreieckige Polygone)
+Quads (viereckige und dreieckige Polygone)
+Ngons (Polygone mit mehreren Seiten, viereckige, dreieckige Polygone)
+Density
+Dieser Wert legt automatisch andere Werte fest, sodass mit diesem Wert allein gute Ergebnisse erzielt werden können.
+Wert verringern: weniger Polygone, grobe Formumwandlung.
+Wert erhöhen: mehr Polygone, detaillierte Formumwandlung.
+Min width
+Minimale Größe
+Geben Sie die Mindestgröße der Polygone an.
+Um eine Überlastung von kleinen Polygonen, wie z.B. kleinen Rundungen, zu vermeiden, erhöhen Sie diesen Wert.
+Max width
+Maximale Größe
+Geben Sie die maximale Größe der Polygone an.
+Um extrem lange oder große Polygone zu vermeiden, verringern Sie diesen Wert.
+Um die Größe der Polygone einheitlicher zu gestalten, verringern Sie diesen Wert.
+Surface plane tolerance
+Maximale zulässige Abweichung
+(in cm)
+Geben Sie die Genauigkeit der Umwandlung an.
+Wert verringern: mehr Polygone, detaillierte Formumwandlung.
+Wert erhöhen: weniger Polygone, grobe Formumwandlung.
+Dies ist weniger intuitiv als "Max width", aber es ist eine der häufigsten Methoden, um die Anzahl der Polygone zu erhöhen oder zu verringern.
+Ein geeigneter Wert für Low-Poly ist 0,01 und für High-Poly 0,0001.
+Wenn Sie einen Wert kleiner als 0,001 verwenden möchten, könnte es besser sein, den Wert "Max width" zu verringern.
+Surface angle tolerance
+Maximale zulässige Winkelabweichung
+(in Rad)
+Geben Sie die Genauigkeit der Oberflächenumwandlung an.
+Wert verringern: die gekrümmte Oberfläche wird genau umgewandelt, und die Anzahl der Polygone nimmt zu.
+Wert erhöhen: die gekrümmte Oberfläche wird grob umgewandelt, und die Anzahl der Polygone nimmt ab.
+Dies kann als die Mindestanzahl von Segmenten oder Elementen pro Kreis oder Zylinder betrachtet werden.
+Ein geeigneter Wert liegt zwischen 0,35 (für Low-Poly) und 0,15 (für High-Poly).
+Curve plane tolerance
+Maximale zulässige Abweichung der Kante
+(in cm)
+Geben Sie die Genauigkeit der Umwandlung der Kanten und Gesichtsgrenzen an.
+Dies ähnelt der "Surface plane tolerance", betrifft aber die Umwandlung von Kanten und Gesichtsgrenzen mehr als die Mitte des Gesichts.
+Curve angle tolerance
+Maximale zulässige Winkelabweichung der Kante
+(in Rad)
+Geben Sie die Genauigkeit der Umwandlung der Kanten von gekrümmten Oberflächen (Gesichtsgrenzen) an.
+Dies ähnelt der "Surface angle tolerance", betrifft aber die Umwandlung von Kanten (Gesichtsgrenzen) mehr als die Mitte des Gesichts.
+Ein geeigneter Wert liegt zwischen 0,35 (für Low-Poly) und 0,15 (für High-Poly).
+Curve max length
+Maximale zulässige Länge des Kurvensegments
+Plane angle
+Maximales zulässiges Verhältnis zwischen Plane Tolerance und Max Width
+Nützlich, um mehr Vierecke oder Polygone zu erhalten.
+Inflect
+Oberflächenqualität bewahren
+Zusätzliche Details in Bereichen hinzufügen, in denen gekrümmte Oberflächen von konvex zu konkav übergehen.
+Klicken Sie auf OK.
+Die OBJ-Datei wird exportiert.
+Referenzbilder importieren
+Skizzieren & Primitive Werkzeuge

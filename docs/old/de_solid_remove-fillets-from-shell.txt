@@ -1,0 +1,34 @@
+Fest
+Remove Fillets from Shell
+Rundungen vom Gehäuse entfernen
+Befehl
+Remove Fillets From Shell
+Tastenkürzel
+-
+Schaltfläche
+-
+Entfernen von Rundungen aus Solid oder Sheet mit möglichen Einschränkungen für den maximalen Radius und die Konvexität.
+Grundlegende Nutzung
+Wählen Sie das Solid oder Sheet aus, von dem Sie die Rundungen entfernen möchten.
+Verwenden Sie den Befehl
+Remove Fillets From Shell
+in der Befehlspalette.
+Legen Sie die Optionen im Befehlsdialog fest.
+Befehlsdialog
+Max Radius:
+Geben Sie den maximalen Radius der zu entfernenden Rundungen an.
+Convexity:
+Spezifizieren Sie die Konvexität der zu entfernenden Rundungen.
+Any:
+Entfernen Sie Rundungen jeder Konvexität.
+Convex:
+Entfernen Sie konvexe Rundungen.
+Concave:
+Entfernen Sie konkave Rundungen.
+Bestätigen Sie mit OK im Befehlsdialog oder mit Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Fillet
+Refillet Face
+Rebuild Face
+Remove Nominal Surface

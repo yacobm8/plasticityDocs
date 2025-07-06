@@ -1,0 +1,28 @@
+Skizze
+Project Outline
+Project Outline
+Befehl
+Alternative Duplicate
+Tastenkürzel
+Alt + D
+Schaltfläche
+-
+Projizieren Sie die Kontur der Solids oder Sheets auf die aktuelle Bauebene entlang der normalen Richtung, wodurch eine Kurve entsteht.
+Grundlegende Nutzung
+Legen Sie die gewünschte Bauebene für die Projektion fest.
+Wählen Sie die Solids oder Sheets aus, die projiziert werden sollen.
+Drücken Sie
+Alt + D
+, um den Befehl auszuführen.
+Die projizierten Kurven werden auf der aktuellen Bauebene erstellt.
+Optional können Sie die Kurven mit dem Move Gizmo verschieben.
+Klicken Sie mit der rechten Maustaste oder klicken Sie im Befehlsdialog auf OK, um zu bestätigen.
+Your browser does not support video tags.
+See also
+Alternative Duplicate
+Create Outline
+Project Curve Body
+Project Curve Curve
+Project Body Body
+Project Curve Curve
+Raise Curve Degree

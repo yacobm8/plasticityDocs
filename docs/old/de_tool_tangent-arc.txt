@@ -1,0 +1,46 @@
+Skizzieren & Primitive Werkzeuge
+Tangent Arc
+Tangent Arc
+Befehl
+Tangent Arc
+Tastenkürzel
+-
+Schaltfläche
+Toolbar
+Sie können einen Bogen erstellen, der tangential zu einer Kurve verläuft.
+Grundlegende Nutzung
+Klicken Sie auf den
+Knopf in der Werkzeugleiste.
+Klicken Sie auf die Kurve, an die der Bogen tangential verlaufen wird.
+Bewegen Sie den Cursor, um die Größe des Bogens anzupassen, und klicken Sie zur Bestätigung.
+Tastenkombinationen
+D
+Flip direction:
+Kehrt die Richtung des Bogens um.
+X
+/
+Y
+/
+Z
+X/Y/Z-Axis:
+Beschränkt auf X, Y, Z Achse
+.
+N
+Normal:
+Bewegen Sie den Bogen senkrecht entlang der Normalrichtungsbeschränkung.
+B
+Binormal:
+Bewegen Sie den Bogen senkrecht entlang der entgegengesetzten Normalrichtungsbeschränkung.
+Der Bogen wird erstellt.
+Your browser does not support video tags.
+💡
+Tipp
+Der Tangentenbogen-Algorithmus ist empfindlich bei der Erkennung von Tangentenpunkten auf Kurven. Bewegen Sie den Cursor vorsichtig in die Nähe des gewünschten Punktes, ohne ihn zu überschreiten, da das Überschreiten verhindern kann, dass der Tangentenpunkt angezeigt wird.
+Center Cirvle
+Two-Point Circle
+Three-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Three Point Arc
+Regular Polygon

@@ -1,0 +1,47 @@
+Solid
+Draft Face
+Draft Face
+Command
+Draft Face
+Shortcut
+-
+Button
+In Suggested Commands Menu
+Apply a draft angle to the selected Face.
+Basic Usage
+Select the face to use as a reference plane.
+Click the button
+in the
+Suggested Commands
+menu.
+Select Face or Faces with
+Ctrl
+button to draft.
+Drag the white circle to specify the angle of draft or Gizmo to adjust the position of the reference plane.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Degrees:
+Specify the angle of draft.
+Grow:
+When the concave inner Face is drafted.
+Moving:
+Extend the outer wall when the drafted Face gets to the outer wall.
+Fixed:
+Stop at the outer wall.
+None:
+Keep going by itself neither affecting or affected by the outer wall.
+Keyboard Shortcuts
+A
+Angle adjacent:
+Specify the angle by moving the cursor.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+🗒️
+Note
+Applying Draft Command on a non-uniform surface is possible, however, with certain limitations. You can specify the draft angle but cannot move the reference plane.
+See also
+Offset Face
+Match Face
+Delete Face
+Delete Redundant Topology
+Extend

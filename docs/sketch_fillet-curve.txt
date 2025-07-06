@@ -1,0 +1,36 @@
+Sketch
+Fillet Curve
+Fillet Curve
+Command
+Fillet
+Shortcut
+B
+Button
+In Suggested Commands Menu
+Fillet or chamfer between two Curve segments.
+Basic Usage
+Select the Curves where you want to apply fillet or chamfer.
+Press
+B
+or click the button
+in the Suggested Commands menu.
+Move the yellow dot to specify the radius of the fillet or chamfer. Depending on the direction of movement, it will either be filleted or chamfered.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Distance:
+Specify the Distance.
+Keyboard Shortcuts
+D
+Fillet Distance:
+Specify the fillet distance by moving the cursor.
+C
+Chamfer Distance:
+Specify the Chamfer distance by moving the cursor.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+See also
+Fillet
+Fillet Vertex
+Fillet Shell
+Fillet
+Fillet Vertex

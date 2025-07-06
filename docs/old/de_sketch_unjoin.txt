@@ -1,0 +1,29 @@
+Skizze
+Unjoin
+Unjoin
+Befehl
+Unjoin
+Tastenkürzel
+Alt + J
+Schaltfläche
+Rechts von der Befehlsleiste
+Der Unjoin-Befehl wird basierend auf dem ausgewählten Objekt ausgeführt:
+Unjoin-Kurven:
+Wenn Kurven ausgewählt sind, siehe
+Unjoin-Kurven
+.
+Unjoin-Flächen:
+Wenn Flächen ausgewählt sind, siehe
+Unjoin-Flächen
+im Abschnitt „Solid-Befehle“.
+Unjoin-Schalen:
+Wenn Festkörper oder Flächen ausgewählt sind, siehe
+Unjoin-Schalen
+im Abschnitt „Solid-Befehle“.
+See also
+Unjoin Curves
+Cut Curve
+Split Segment
+Trim
+Trim
+Unjoin Curve

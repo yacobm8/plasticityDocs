@@ -1,0 +1,24 @@
+Sketch
+Project Curve Curve
+Project Curve Curve
+Command
+Project
+Shortcut
+I
+Button
+In Suggested Commands Menu
+Create a new Curve by projecting the intersection points of surfaces generated from two independent Curves.
+Basic Usage
+Select the two Curves to be projected.
+Press
+I
+or click the button.
+The projected intersection Curve will be created.
+See also
+Alternative Duplicate
+Project Outline
+Create Outline
+Project Curve Body
+Project Body Body
+Project Curve Body
+Project Outline

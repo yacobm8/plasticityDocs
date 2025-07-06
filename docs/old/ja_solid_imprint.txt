@@ -1,0 +1,26 @@
+ソリッド
+Imprint
+Imprint
+コマンド
+Imprint
+ショートカット
+Shift + I
+ボタン
+Im vorgeschlagenen Befehlsmenü
+Imprint コマンドは選択されたオブジェクトに基づいて実行されます：
+Imprint カーブ ボディ:
+カーブ、ソリッド、またはシートが選択されているか、何も選択されていない場合は、
+Imprint カーブ ボディ
+を参照してください。
+Imprint ボディ ボディ:
+2 つのソリッドまたはシートが選択されている場合は、
+Imprint ボディ ボディ
+を参照してください。
+関連項目
+Imprint Curve Body
+Imprint Body Body
+isoparam
+Offset Curve
+Extend Edge
+Hollow
+Imprint Body Body

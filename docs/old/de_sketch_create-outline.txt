@@ -1,0 +1,29 @@
+Skizze
+Create Outline
+Create Outline
+Befehl
+Create Outline
+Tastenkürzel
+-
+Schaltfläche
+-
+Projektiert die Kontur der Soliden oder Blätter auf die aktuelle Konstruktionsfläche in Richtung der Normalen, wodurch eine Kurve erzeugt wird.
+Während der „Projektumriss“-Befehl projizierte Kurven in 2D erzeugt, erstellt dieser Befehl eine 3D-Kurve. Die Kurven werden genau an der ursprünglichen Grenze des Objekts positioniert.
+Grundlegende Nutzung
+Legen Sie die gewünschte Konstruktionsebene für die Projektion fest.
+Wählen Sie die Solids oder Sheets aus, die Sie projizieren möchten.
+Verwenden Sie den
+Create Outline
+Befehl in der Befehlspalette.
+Die projizierten Curves werden erstellt.
+Optional können Sie die Curves mit dem Move Gizmo verschieben.
+Klicken Sie mit der rechten Maustaste oder auf OK im Befehlsdialog, um zu bestätigen.
+Siehe auch
+Alternative Duplicate
+Project Outline
+Project Curve Body
+Project Curve Curve
+Project Body Body
+Offset Curve
+Convert Vertex
+Cut Curve

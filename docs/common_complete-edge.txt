@@ -1,0 +1,22 @@
+Common
+Complete Edge
+Complete Edge
+Command
+Complete Edge
+Shortcut
+-
+Button
+In Suggested Commands Menu
+Extend the selected Edge until it intersects with another Edge.
+Basic Usage
+Select Edges you want to extend.
+Use the
+"Complete Edge"
+command in the Command Palette or click the
+button in the
+Suggested Commands
+menu.
+The Edge is extended.
+Your browser does not support video tags.
+Common
+Copy with Placement

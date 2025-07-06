@@ -1,0 +1,30 @@
+Allgemein
+Measure
+Measure
+Befehl
+Measure
+Tastenkürzel
+Ctrl + =
+Schaltfläche
+Toolbar
+Messen Sie Dimensionen wie die Größe einer rechteckigen Curve oder den Durchmesser eines Zylinders.
+Die Maßwerte aktualisieren sich entsprechend der Verformung des gemessenen Objekts.
+Grundlegende Verwendung
+Drücken Sie
+Strg + =
+oder verwenden Sie den
+Measure
+-Befehl in der Befehlspalette.
+Wählen Sie die Curve, Edge oder den Schnapp-Punkt, den Sie messen möchten.
+Bewegen Sie den Cursor zur gewünschten Achse und klicken Sie, um die Platzierung der Dimension zu bestätigen.
+Maßwerte werden angezeigt, entsprechend den Koordinatenachsen der Konstruktionsebene. Zusätzlich wird 'Measurements' im Outliner hinzugefügt.
+Sie können auch Maßwerte basierend auf einer benutzerdefinierten Konstruktionsebene anzeigen. Anweisungen zur Erstellung einer Konstruktionsebene finden Sie
+hier
+.
+Messen des geradlinigen Abstands zwischen zwei Punkten
+Durch Rechtsklick beim Bestätigen des Maßwerts können Sie den geradlinigen Abstand zwischen zwei Punkten messen.
+Your browser does not support video tags.
+Siehe auch
+Dimension
+Duplicate
+Mirror

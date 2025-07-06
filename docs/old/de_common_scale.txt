@@ -1,0 +1,93 @@
+Allgemein
+Scale
+Scale
+Befehl
+Scale
+Tastenkürzel
+S
+Schaltfläche
+In der Befehlsleiste
+Objekte mithilfe des Skalierungs-Gizmo skalieren. Optionen für die Einschränkung auf einer einzelnen Achse oder
+freestyle scale
+sind verfügbar. Der Drehpunkt ist ebenfalls einstellbar.
+Grundlegende Nutzung
+Wählen Sie die Objekte aus, die Sie skalieren möchten.
+Drücken Sie
+S
+.
+Verwenden Sie den angezeigten Skalierungs-Gizmo zum Größenändern.
+Legen Sie die Optionen im Befehlsdialog und den Tastaturkürzeln fest.
+Befehlsdialog
+XYZ:
+Geben Sie die Skalierung der X-, Y- und Z-Achsen an.
+Orientation:
+Legt die Ausrichtung des Skalierungs-Gizmos fest
+Normal:
+Richtet die Ausrichtung an der Oberflächennormalen des Objekts aus.
+Pivot:
+Setzt die Ausrichtung auf die zuvor definierte Pivot-Ausrichtung.
+Konstruktions-Ebene:
+Richtet die Ausrichtung an der aktiven Konstruktions-Ebene aus.
+Welt:
+Richtet die Ausrichtung an den globalen (Welt-) Achsen aus.
+Pivot:
+Legen Sie die Position des Pivot-Punkts fest.
+Bbox:
+Positioniert den Pivot in der Mitte des Begrenzungsrahmens der ausgewählten Objekte.
+Median:
+Positioniert den Pivot an der durchschnittlichen Position der Pivots der ausgewählten Objekte.
+Aktiv:
+Positioniert den Pivot am Pivot des zuletzt ausgewählten (aktiven) Objekts.
+Tastenkombinationen
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Binden Sie an die X-, Y- oder Z-Achse
+.
+Shift + X
+/
+Shift + Y
+/
+Shift + Z
+X, Y, Z plane:
+Binden Sie an die X-, Y- oder Z-Ebene.
+S
+Uniform:
+Skaliert gleichmäßig in den X-, Y- und Z-Richtungen.
+F
+Freestyle:
+Geben Sie die Skalierungsachse durch Klicken auf den Anfangs- und Endpunkt an und klicken Sie dann mit dem gewünschten Skalierungsverhältnis.
+V
+Pivot:
+Klicken Sie, um die Position des Gizmo anzugeben.
+W
+Worldspace:
+Ändern Sie die Koordinatenachse des Gizmo in Weltkoordinaten.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Freestyle Scale
+Dieser Befehl entspricht der Option
+F
+des Befehls
+Scale
+.
+Wählen Sie die Objekte aus, die Sie skalieren möchten.
+Verwenden Sie den Befehl
+Freestyle Scale
+in der Befehlspalette.
+Geben Sie die Skalierungsachse durch Klicken auf den Anfangs- und Endpunkt an.
+Bewegen Sie den Cursor, um das Objekt zu skalieren, und klicken Sie dann auf das gewünschte Skalierungsverhältnis.
+Legen Sie die Optionen im Befehlsdialog und den Tastaturkürzeln fest.
+Die Option entspricht dem Befehl
+Scale
+.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Mirror
+Move
+Rotate
+Rotate
+Section Analysis

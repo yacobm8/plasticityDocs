@@ -1,0 +1,51 @@
+Plasticity Essentials
+Selection Mode
+Selection Mode
+Switch the selection mode according to the object you want to select.
+To switch the selection mode, use the buttons in the upper left corner of the screen or keyboard shortcuts.
+Command Name
+Shortcut
+Button
+Note
+Selection mode: set control point
+1
+(1)
+Allows Control-Point selection.
+Selection mode: set edge
+2
+(2)
+Allows Edge or Curve selection.
+Selection mode: set face
+3
+(3)
+Allows Face or Region selection.
+Selection mode: set solid
+4
+(4)
+Allows Solid or Sheet selection.
+Selection mode: set all
+Tab
+(5)
+Allows selection of all types of objects.
+Selection: toggle control point
+Shift + 1
+Shift
++ click(1)
+Toggle Control Point selection mode.
+Selection: toggle edge
+Shift + 2
+Shift
++ click(2)
+Toggle Edge selection mode.
+Selection: toggle face
+Shift + 3
+Shift
++ click(3)
+Toggle Face selection mode.
+Slection: toggle solid
+Shift + 4
+Shift
++ click(4)
+Toggle Body selection mode.
+Focus and Isolate Objects
+Selecting Objects

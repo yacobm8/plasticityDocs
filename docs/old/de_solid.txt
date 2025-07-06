@@ -1,0 +1,145 @@
+Fest
+Befehle für Festkörper
+Befehlsname
+Tastenkombination
+Anmerkung
+Boolean
+Q
+Boolesche Körper und/oder Flächen.
+Cut
+C
+Körper und Fläche schneiden.
+Solid and Sheet Commands
+Alternative Duplicate
+Alt+D
+Alternative Duplikat.
+Constrained Surface
+Eine eingeschränkte Fläche erstellen.
+Deform
+Vereinheitlichter Befehl für Kurve verformen, Körper und Fläche verformen.
+Deform Solid and Sheet
+Objekte auf unregelmäßigen und regelmäßigen Oberflächen wickeln.
+Extrude
+E
+Flächen, Regionen und Kurven extrudieren.
+Fillet
+B
+Vereinheitlichter Befehl für Kante abrunden, Eckpunkt abrunden, Schale abrunden.
+Fillet Shell
+B
+Kanten abrunden oder fasen.
+Hollow
+Einen Körper hohl machen.
+Loft
+L
+Fläche, Kante und Kurve loften.
+Patch
+Löcher in der Fläche / geschlossene Kurven zu einer Fläche füllen.
+Pipe
+P
+Ein Rohr aus Kante und Kurve erstellen.
+Raise Degree
+Shift+S
+Vereinheitlichter Befehl für Grad der Kurve erhöhen, Grad der Fläche erhöhen.
+Raise Surface Degree
+Shift+S
+Kontrollelemente der Fläche erhöhen.
+Remove Fillets from Shell
+Fasen von Körpern und Flächen entfernen.
+Revolve
+Region oder Kurve drehen.
+Sweep
+Shift+P
+Region oder Kurve fegen.
+Square
+Flächen mit expliziter Kontrolle über Grade und Spannweiten erstellen.
+Slide
+Vereinheitlichter Befehl für Slide Curve CV, Slide Surface CV.
+Slide Surface CV
+Shift+G
+Verschieben Sie ein CV auf einer Oberfläche entlang des CV-Hulls.
+Thicken
+Dicke zu einer ausgewählten Fläche hinzufügen.
+Thicken Face
+Dicke zu einer ausgewählten Fläche hinzufügen.
+XNurbs
+Hochwertige und komplexe Oberflächen erstellen.
+Sheet Commands
+Bridge Surface
+Zwei Flächen verbinden.
+Extend
+Vereinheitlichter Befehl für Kurve erweitern, Fläche erweitern.
+Extend Sheet
+Eine oder mehrere Außenkanten der Fläche erweitern.
+Find Boundary Edges
+Kanten einer Öffnung in der Fläche auswählen.
+Join
+J
+Vereinheitlichter Befehl für Kurven verbinden, Flächen verbinden.
+Join Sheets
+J
+Flächen mit passenden Kanten verbinden.
+Reverse
+Vereinheitlichter Befehl für Umkehren von Kurven und Flächen.
+Reverse Sheet
+Die Richtung der Normalen auf einer Fläche umkehren.
+Unjoin
+Alt+J
+Vereinheitlichter Befehl für Kurven trennen, Flächen trennen, Schalen trennen.
+Unjoin Faces
+Alt+J
+Ausgewählte Flächen von Körper oder Fläche trennen.
+Unjoin Shells
+Alt+J
+Alle Flächen von ausgewählten Körpern oder Flächen in einzelne Flächen trennen.
+Untrim
+Alt+T
+Eine Fläche basierend auf der ursprünglichen Form erstellen.
+Face Commands
+Delete Face
+Shift+Backspace
+oder
+Shift+Delete
+oder
+Shift+X
+Fläche löschen.
+Draft Face
+Fläche neigen.
+Match Face
+Flächen an eine andere Fläche anpassen.
+Offset Face
+Ausgewählte Flächen versetzen.
+Rebuild
+Vereinheitlichter Befehl für Kurve neu aufbauen, Fläche neu aufbauen.
+Rebuild Face
+Fläche neu aufbauen.
+Unwrap Face
+Fläche entfalten.
+Edge Commands
+Delete Redundant Topology
+Überflüssige Kanten entfernen.
+Extend Edge
+Kanten erweitern.
+Imprint
+Shift+I
+Vereinheitlichter Befehl für Körper abdrucken, Kurve Körper abdrucken.
+Imprint Body Body
+Shift+I
+Kanten auf dem Zielkörper oder der Fläche erstellen, wo sie mit einem Werkzeugkörper oder einer Fläche schneiden.
+Imprint Curve Body
+Shift+I
+Kanten auf dem Zielkörper oder der Fläche erstellen, wo sie auf eine Werkzeugkurve projizieren.
+Isoparam
+Ctrl+R
+Isoparametern hinzufügen.
+Offset Curve
+O
+Vereinheitlichter Befehl für versetzte ebene Kurve, versetzte Region, versetzte Flächenumrandung, versetzte Kante.
+Offset Edge
+O
+Ausgewählte Kanten versetzen.
+Offset Face Loop
+O
+Die Umrisskanten ausgewählter Flächen versetzen.
+Unjoin Curve
+Alternative Duplicate

@@ -1,0 +1,24 @@
+スケッチ
+Project Curve Curve
+Project Curve Curve（ふたつのカーブを投影）
+コマンド
+Project
+ショートカット
+I
+ボタン
+推奨コマンドメニューで
+ふたつのカーブを投影した交線のカーブを作成できます。
+基本的な使い方
+投影したいカーブをふたつ選択します。
+キーボードショートカット
+I
+またはボタンを押します。
+投影した交線のカーブが作成されます。
+関連項目
+Alternative Duplicate
+Project Outline
+Create Outline
+Project Curve Body
+Project Body Body
+Project Curve Body
+Project Outline

@@ -1,0 +1,45 @@
+ソリッド
+Offset Face Loop
+Offset Face Loop（フェイスの輪郭をオフセットする）
+コマンド
+Offset Curve
+ショートカット
+O
+ボタン
+推奨コマンドメニューで
+選択したフェイスの輪郭をオフセットして、新しいエッジを作成することができます。
+基本的な使い方
+オフセットしたいフェイスを選択します。フェイスは複数を選択できます。
+O
+を押します。
+マウスの動きで距離を指定します。
+コマンドダイアログとキーボードショートカットでオプションを設定します。
+コマンドダイアログ
+Distance:
+距離を指定します。
+キーボードショートカット
+V
+Gap fill:
+Round:
+出っ張った角を丸めます。
+Linear:
+出っ張った角を直線でつなぎます。
+Natural:
+ナチュラル
+I
+Individual:
+複数のフェイスを選択しているとき、このオプションをオンにすると、フェイスを結合した形をオフセットします。
+D
+Distance:
+マウスの動きで距離を指定します。
+コマンドダイアログの OK をクリックするか、右クリックして確定します。
+Your browser does not support video tags.
+[#offset-edge]
+関連項目
+Offset Curve
+Offset Edge
+isoparam
+Imprint
+Extend Edge
+Offset Face
+Patch

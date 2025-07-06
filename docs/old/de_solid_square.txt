@@ -1,0 +1,91 @@
+Fest
+Square
+Square
+Befehl
+Square
+Tastenkürzel
+-
+Schaltfläche
+-
+Square ist ein auf XNurbs basierender Befehl, der hochwertige viereckige Flächen mit der parametrischen Funktion zur expliziten Steuerung von UV-Graden und Spannweiten erstellen kann.
+Grundlegende Nutzung
+Wählen Sie die Randkanten aus, die Sie für den
+Square-Befehl
+verwenden möchten.
+Geben Sie
+Square
+in die Befehls-Palette ein.
+Legen Sie die Optionen im Befehlsdialog fest.
+Befehlsdialog
+Kontinuität (Continuity):
+Frei (Free), G0, G1, G2
+Frei (Free):
+Ignoriert die Randkontinuität, um die Oberflächenqualität zu verbessern. Ideal für erste Oberflächen, die später weiter verfeinert werden.
+G0, G1, G2:
+Geben Sie die
+Oberflächenkontinuität
+an.
+Flachheit (Flatness):
+Ähnlich wie bei XNurbs beeinflusst diese Option die Flachheit und Qualität der erzeugten Oberfläche. Ein höherer Wert erzeugt eine hochwertigere Oberfläche, ein niedrigerer Wert reduziert die Qualität.
+Spannung (Tension):
+Passt den Krümmungsübergang einer Oberfläche an.
+Grad (Degree):
+Legt den UV-Grad fest.
+Spannen (Spans):
+Legt den UV-Span-Wert fest.
+Randbedingung (Boundary condition):
+Bestimmt die UV-Flussbedingungen.
+Natürlich (Natural):
+Keine Anforderungen an den UV-Fluss.
+Normal:
+Hält die UV-Isokurven gegenseitig senkrecht.
+Nächste (Next):
+Erstellt einen senkrechten UV-Fluss, wenn die Randbedingungen relativ flach sind.
+Angrenzend (Adjacent):
+Richtet die V-Isokurven der erzeugten Oberfläche an angrenzenden Kurven aus.
+Gewichtung (Weight):
+Bestimmt, wie streng die Eingabebedingungen für Kurven und Kanten eines Volumenkörpers angewendet werden.
+Niedriger Wert: Lockert die Einschränkungen, verbessert die Oberflächenqualität und Reflexionen.
+Höherer Wert: Erzwingt die Einschränkungen, um sicherzustellen, dass der UV-Fluss mit den angegebenen
+Degree
+- und
+Span
+-Werten übereinstimmt und eine präzise Oberflächenkontinuität gewährleistet wird.
+Skalierung (Scale):
+Ermöglicht die Anpassung der Größe der roten Linien an den Randkanten.
+Diese Linien repräsentieren die
+"Kantenabweichungsdarstellung (Edge Deviation Plot)"
+, die den Abstand zwischen der Randkante der erstellten Oberfläche und der Eingabegeometrie zeigt.
+Die rote Farbe weist auf eine Abweichung von mehr als 0,01 mm (1e-5 m) hin und hebt Bereiche hervor, in denen die Oberfläche nicht genau mit der Eingabe übereinstimmt.
+Bestätigen Sie mit
+OK
+im Befehlsdialog oder durch Rechtsklick.
+Your browser does not support video tags.
+ℹ️
+Lofting mit Square
+Alternativ kann der Square-Befehl als Lofting-Methode verwendet werden, indem zwei nicht miteinander verbundene Kanten ausgewählt werden. Diese Methode bietet eine größere Flexibilität und Kontrolle bei der Oberflächenerzeugung und ermöglicht die Anpassung von Parametern wie Grad- und Spannwerten, Randbedingungen (falls erforderlich), Flachheit und Gewichtseinfluss. Im Gegensatz dazu erzeugt ein Standard-Loft eine feste Oberfläche mit begrenzten Steuerungsoptionen.
+Your browser does not support video tags.
+ℹ️
+Sweeping mit Square
+Ähnlich wie der Sweep-Befehl kann der Square-Befehl vergleichbare Ergebnisse erzielen, bietet jedoch eine größere Flexibilität und Kontrolle über die resultierenden Oberflächen. Dieses Ergebnis kann durch die Auswahl von zwei oder drei miteinander verbundenen Kanten erreicht werden.
+Your browser does not support video tags.
+ℹ️
+Patching mit Square
+Der Square-Befehl kann Löcher in einer Oberfläche mit vierseitigen Begrenzungskanten füllen, ähnlich wie der Patch-Befehl.
+Your browser does not support video tags.
+💡
+Tipp
+Ähnlich wie bei XNurbs können Sie den Befehl im Voraus ausführen und dann Begrenzungskanten, Kurven und Flächen auswählen. Dies beschleunigt den Workflow erheblich und bietet eine Live-Vorschau der Oberflächenerzeugung.
+Your browser does not support video tags.
+💡
+Tipp
+Der Square-Befehl ermöglicht es, zugeschnittene Flächen auf einer Fläche und ihren angrenzenden Flächen selektiv anzupassen und die Orientierung der Splines an den natürlichen Fluss der Fläche anzupassen. Diese Funktion unterscheidet sich deutlich vom
+Rebuild
+-Befehl, der sich auf das Wiederaufbauen einer Fläche konzentriert, ohne die Orientierung der Splines auszurichten.
+Your browser does not support video tags.
+Siehe auch
+XNurbs
+Rebuild Face
+Raise Surface Degree
+Slide Surface Cv
+Sweep

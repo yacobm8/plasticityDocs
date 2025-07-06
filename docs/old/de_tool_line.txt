@@ -1,0 +1,41 @@
+Skizzieren & Primitive Werkzeuge
+Line
+Line
+Befehl
+Line
+Tastenkürzel
+Umschalt + A
+Schaltfläche
+Werkzeugleiste
+Sie können eine Reihe von verbundenen Liniensegmenten erstellen.
+Grundlegende Nutzung
+Klicken Sie auf den
+Knopf in der Werkzeugleiste.
+Klicken Sie, um den Startpunkt des Liniensegments festzulegen.
+Klicken Sie auf den Winkel des Liniensegments, um eine Reihe von Liniensegmenten zu erstellen.
+Tastenkombinationen
+Tab
+: Ermöglicht direkte Eingabe von Abmessungen. Weitere Informationen finden Sie
+hier
+.
+K
+Knife:
+Siehe
+Messermodus verwenden
+.
+Strg + Z
+Undo:
+Hebt den letzten Klick auf.
+X
+/
+Y
+/
+Z
+X/Y/Z-Axis:
+Beschränkt auf X, Y, Z Achse
+.
+Nach dem Klicken auf den letzten Punkt, rechtsklick zur Bestätigung.
+Die Liniensegmente werden erstellt.
+Your browser does not support video tags.
+Skizzier-Grundlagen
+Spline Curve

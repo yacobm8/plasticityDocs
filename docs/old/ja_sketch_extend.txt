@@ -1,0 +1,23 @@
+スケッチ
+Extend
+Extend（延長する）
+コマンド
+Extend
+ショートカット
+-
+ボタン
+-
+Extend コマンドは選択されたオブジェクトに基づいて実行されます：
+Extend カーブ:
+カーブが選択されている場合は、
+Extend カーブ
+を参照してください。
+Extend シート:
+シートの外側エッジが選択されている場合は、ソリッドコマンドのセクションにある
+Extend シート
+を参照してください。
+See also
+Extend Curve
+Extend Sheet
+Duplicate Curve and Project
+Extend Curve

@@ -1,0 +1,45 @@
+スケッチ & プリミティブ ツール
+Control Point Curve
+Control Point Curve
+コマンド
+Control Point Curve
+ショートカット
+-
+ボタン
+ツールバー
+制御点をクリックしてカーブを作成します。
+基本的な使い方
+ツールバーのボタン
+をクリックします。
+カーブの始点でクリックします。
+制御点をクリックしてカーブを作成します。
+キーボードショートカット
+K
+Knife:
+ナイフモードを使う
+を参照してください。
+Tab
+Control / Through-point:
+Spline Curveに切り替えます。
+Ctrl + Z
+Undo:
+直前のクリックを取り消します。
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+X、Y、Z軸に拘束します
+。
+最後の制御点をクリックしたら、右クリックで確定します。
+カーブが作成されます。
+💡
+２つのカーブの違い
+Spline Curve: カーブが通過する点をクリックして、カーブを作成します。
+Control Point Curve: カーブの制御点をクリックして、カーブを作成します。
+Your browser does not support video tags.
+関連項目
+Spline Curve
+Spline Curve
+Center Circle

@@ -1,0 +1,22 @@
+Skizze
+Reverse
+Reverse
+Befehl
+Reverse
+Tastenkürzel
+-
+Schaltfläche
+-
+Einheitlicher Befehl für
+Reverse Curve
+und
+Reverse Shee
+t. Der Befehl wird basierend auf dem ausgewählten Objekt ausgeführt.
+Wenn Kurven ausgewählt sind: siehe
+Reverse Curve
+.
+Wenn ein Blatt ausgewählt ist: siehe
+Reverse Sheet
+.
+Rebuild Curve
+Reverse Curve

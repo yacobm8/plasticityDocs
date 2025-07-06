@@ -1,0 +1,47 @@
+Fest
+Hollow
+Hollow
+Befehl
+Hollow
+Tastenkürzel
+-
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Wenn eine Fläche ausgewählt ist: Höhlt die ausgewählte Fläche aus und schafft eine offene Leere im Solid.
+Wenn ein Solid ausgewählt ist: Verwandelt den ausgewählten Solid in eine geschlossene hohle Form.
+Grundlegende Nutzung
+Einen offenen hohlen Solid erstellen
+Wählen Sie die Flächen des Solids aus, die Sie aushöhlen möchten.
+Klicken Sie auf die Schaltfläche
+Bewegen Sie den gelben Punkt, um die Dicke der Wand anzugeben.
+Legen Sie die Optionen im Befehlsdialog fest:
+Befehlsdialog
+Dicke:
+Geben Sie die Dicke der Wand an.
+Lokal:
+Deaktivieren Sie dies, wenn Sie einen Solid aushöhlen.
+Tastenkombinationen
+D
+Geben Sie die Dicke durch Bewegen des Cursors an.
+Bestätigen Sie mit OK im Befehlsdialog oder mit Rechtsklick.
+Ein geöffneter hohler Solid wird erstellt.
+Your browser does not support video tags.
+Einen geschlossenen hohlen Solid erstellen
+Wählen Sie einen Solid aus, den Sie aushöhlen möchten.
+Verwenden Sie den
+Hohl
+-Befehl in der Befehlspalette.
+Bewegen Sie den gelben Punkt, um die Dicke der Wand anzugeben.
+Befehlsdialog
+Dicke:
+Geben Sie die Dicke der Wand an.
+Lokal:
+Deaktivieren Sie dies, wenn Sie einen Solid aushöhlen.
+Tastenkombinationen
+D
+Geben Sie die Dicke durch Bewegen des Cursors an.
+Bestätigen Sie mit OK im Befehlsdialog oder mit Rechtsklick.
+Ein geschlossener hohler Solid wird erstellt.
+Your browser does not support video tags.
+Find Boundary Edges
+Imprint

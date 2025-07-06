@@ -1,0 +1,22 @@
+ソリッド
+Delete Face
+Delete Face（フェイスを削除する）
+コマンド
+Delete
+ショートカット
+Shift + Backspace
+ボタン
+-
+フェイスを削除できます。
+基本的な使い方
+Select the Faces you want to delete.
+削除したいフェイスを選択します。フェイスは複数選択可能です。
+Shift + Delete
+を押します。
+フェイスが削除されます。
+関連項目
+Offset Face
+Draft Face
+Match Face
+Deform Solid and Sheet
+Delete Redundant Topology

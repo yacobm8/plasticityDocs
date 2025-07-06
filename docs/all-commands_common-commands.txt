@@ -1,0 +1,54 @@
+Command List & Shortcut Keys
+Common Commands
+Common Commands for Sketch and Solid
+Command Name
+Shortcut
+Note
+Complete Edge
+Extend the selected Edge until it intersects with another Edge.
+Copy with Placement
+Ctrl+Shift+C
+Copy objects with a reference point.
+Curve Array
+Duplicate objects along a Curve.
+Dimension
+=
+Modify dimension values.
+Duplicate
+Shift+D
+Duplicate objects.
+Measure
+Ctrl+=
+Measure dimension values.
+Mirror
+Alt+X
+Mirror objects.
+Move
+G
+Move objects.
+Paste with Placement
+Ctrl+Shift+V
+Paste objects with a reference point.
+Place
+Ctrl+D
+Duplicate objects specified axis.
+Radial Array
+Duplicate objects in a radial pattern.
+Rectangular Array
+Duplicate objects in a rectangular pattern.
+Remove Material
+Alt+M
+Remove material.
+Rotate
+R
+Rotate objects.
+Scale
+S
+Scale objects.
+Section Analysis
+Create a virtual slice through an object.
+Set Material
+M
+Set material.
+Sketching & Primitive Tools
+Sketch Commands

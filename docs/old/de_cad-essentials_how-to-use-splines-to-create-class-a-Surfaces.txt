@@ -1,0 +1,9 @@
+CAD Grundlagen
+Wie man Splines verwendet, um Class-A-Oberflächen zu erstellen
+Wie man Splines verwendet, um Class-A Oberflächen zu erstellen
+Referenzvideos
+Diese Videos nutzen Anwendungen, die nicht Plasticity sind, zu Demonstrationszwecken, aber die Konzepte können auch auf die Bedienung von Plasticity angewendet werden, daher werden sie hier als Referenz bereitgestellt.
+Siemens NX Freeform Pro Tutorial - Wie man Splines verwendet, um Class-A Oberflächen zu erstellen (Teil 1/2) - Bizlearn
+Siemens NX Freeform Pro Tutorial - Wie man Splines verwendet, um Class-A Oberflächen zu erstellen (Teil 2/2) - Bizlearn
+Kontinuität von Kurven und Oberflächen
+Reihenfolge der Operationen für Verrundungen

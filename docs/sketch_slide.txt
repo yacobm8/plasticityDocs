@@ -1,0 +1,24 @@
+Sketch
+Slide
+Slide
+Command
+Slide
+Shortcut
+Shift + G
+Button
+-
+Unified command for
+Slide Curve CV
+,
+Slide Surface CV
+. The command is run based on the selected object.
+When CVs on Curves are selected: see
+Slide Curve CV
+.
+When CVs on Solids are selected: see
+Slide Surface CV
+.
+See also
+Move Control Point
+Reverse Curve
+Slide Curve Cv

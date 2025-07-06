@@ -1,0 +1,112 @@
+Plasticity Grundlagen
+Shader-Modus
+Shader-Modus
+Shader-Modus
+Sie können zwischen den integrierten Shadern von Plasticity wechseln, indem Sie darauf klicken. Wenn der
+Render-Modus
+deaktiviert ist, werden die ausgewählten Plasticity-Matcaps auf Objekte angewendet und angezeigt.
+Verfügbare Matcaps:
+Name
+Nummer
+Anwendbarkeit
+Hinweis
+Keramik Dunkel
+1
+Standard-Erscheinungsbild
+-
+Metall Autolack
+2
+Glänzendes Erscheinungsbild
+-
+Dunkel Glänzend
+3
+Glänzendes Erscheinungsbild
+-
+Verlauf
+4
+Umgebungsverlauf-Erscheinungsbild
+-
+Keramik Glühbirne
+5
+Highlight-Checker
+Wenn der
+Render-Modus
+deaktiviert ist, können unterschiedliche Materialfarben in Echtzeit im Ansichtsfenster angezeigt werden.
+Farb-Matcap
+6
+Mattes Erscheinungsbild
+Wenn der
+Render-Modus
+deaktiviert ist, können unterschiedliche Materialfarben in Echtzeit im Ansichtsfenster angezeigt werden.
+Schwarze Silhouette
+7
+Silhouetten-Checker
+-
+Farbige Silhouette
+8
+Silhouetten-Checker mit Farbe
+Wenn der
+Render-Modus
+deaktiviert ist, können unterschiedliche Materialfarben in Echtzeit im Ansichtsfenster angezeigt werden.
+Isophoten/Iso-Winkel
+9
+Statischer Oberflächenkontinuitäts-Checker
+Shader wird basierend auf dem aktuellen Kamerawinkel auf das Objekt angewendet. Passen Sie die Streifendichte im Menü
+"Materialoptionen"
+an.
+Formschrägen-Checker
+10
+Formschrägen-Checker für Entformung
+Der Winkel wird basierend auf der aktuellen Konstruktionsfläche angezeigt. Passen Sie die Schrägwinkel-Schwelle (blau) relativ zur Konstruktionsfläche im Menü
+"Materialoptionen"
+an.
+Horizontale Zebra-Reflexion
+11
+Oberflächenkontinuitäts-Checker
+-
+Vertikale Zebra-Reflexion
+12
+Oberflächenkontinuitäts-Checker
+-
+Alle Matcaps
+Benutzerdefinierte Matcaps erscheinen unter der Kategorie "Alle Matcaps".
+Benutzerdefinierte Matcaps installieren
+Bereiten Sie Ihre Matcap-Dateien vor (EXR und PNG mit identischen Namen).
+Finden Sie das Verzeichnis
+.plasticity
+und erstellen Sie dort einen Ordner namens "matcaps".
+Windows
+macOS
+Linux
+Navigieren Sie zu
+C:/Users/<username>/.plasticity
+.
+Verschieben Sie die Dateien in diesen Ordner und starten Sie Plasticity neu.
+💡
+Tipp
+EXR- und PNG-Dateien sollten 512x512 Pixel groß sein und einen transparenten Hintergrund haben.
+❗
+Note
+Stellen Sie sicher, dass Sie die Option zum Anzeigen versteckter Ordner in Ihrem Betriebssystem aktivieren, um auf das Verzeichnis
+.plasticity
+zuzugreifen.
+Zeige Kanten, Kurven und Flächen ein- oder ausblenden
+Sie können die Sichtbarkeit von Kanten, Kurven und Flächen mit den untenstehenden Schaltflächen umschalten.
+Funktion
+Tastenkürzel
+Schaltfläche
+Befehlsname
+Umschalten der Kanten-Sichtbarkeit
+(Deaktivieren blendet die Kanten aus.)
+(13)
+Viewport: toggle Edges
+Umschalten der Kurven-Sichtbarkeit
+(Deaktivieren blendet die Kurven aus.)
+(14)
+Viewport: toggle Curves
+Umschalten der Flächen-Sichtbarkeit
+(Deaktivieren blendet die Flächen aus.)
+(15)
+Viewport: toggle Faces
+Objekte auswählen
+Kameraeinstellungen

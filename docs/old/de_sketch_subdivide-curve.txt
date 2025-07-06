@@ -1,0 +1,26 @@
+Skizze
+Subdivide Curve
+Subdivide Curve
+Befehl
+Subdivide
+Tastenkürzel
+Alt + S
+Schaltfläche
+-
+Erhöhen Sie die Anzahl der Stützpunkte (CVs) und Kurvensegmente auf den ausgewählten Kurven.
+Grundlegende Nutzung
+Wählen Sie eine oder mehrere Kurven aus.
+Drücken Sie
+Alt + S
+oder geben Sie
+Subdivide
+in die Befehlspalette ein.
+Die Anzahl der CVs wird erhöht, und sie werden ausgewählt.
+💡
+Tipp
+Die Verwendung des Raise Degree-Befehls auf einer einteiligen Kurve fügt pro Ausführung einen Kontrollpunkt (CV) hinzu, während der Subdivide-Befehl die Anzahl der CVs bei jeder Anwendung verdoppelt.
+Siehe auch
+Raise Curve Degree
+Rebuild Curve
+Split Segment
+Text

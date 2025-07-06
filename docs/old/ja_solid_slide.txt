@@ -1,0 +1,23 @@
+ソリッド
+Slide
+Slide
+コマンド
+Slide
+ショートカット
+Shift + G
+ボタン
+-
+Slide Curve CV
+、
+Slide Surface CV
+の統一コマンド。選択したオブジェクトに基づいてコマンドが実行されます。
+曲線のCVが選択されている場合:
+Slide Curve CV
+を参照してください。
+ソリッドのCVが選択されている場合:
+Slide Surface CV
+を参照してください。
+その他
+コントロールポイントを移動
+Revolve
+Slide Surface Cv

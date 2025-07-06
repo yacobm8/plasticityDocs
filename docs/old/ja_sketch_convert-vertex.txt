@@ -1,0 +1,21 @@
+スケッチ
+Convert Vertex
+Convert Vertex（頂点を制御点に変換する）
+コマンド
+Convert Vertex
+ショートカット
+-
+ボタン
+-
+頂点を制御点に変換することができます。
+基本的な使い方
+変換したい頂点を選択します。
+コマンドパレットで
+Convert Vertex
+を選択します。
+頂点が制御点に変換されます。
+ℹ️
+頂点をダブルクリックすることでも変換できます。
+Your browser does not support video tags.
+Bridge Vertex
+Create Outline

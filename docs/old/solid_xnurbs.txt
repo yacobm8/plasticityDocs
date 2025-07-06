@@ -1,0 +1,114 @@
+Solid
+Xnurbs
+XNurbs
+Command
+XNurbs
+Shortcut
+-
+Button
+-
+XNurbs is a tool that can generate N-sided and quad-sided surfaces with high-quality output. It allows you to bridge gaps and close complex holes on a surface. This command is only available on Studio License.
+Basic Usage
+Select your boundary edges you want to frame the surface.
+Use the
+XNurbs
+command in the Command Palette.
+Set the options in the Command Dialog.
+Command Dialog
+Continuity:
+G0, G1, G2
+G0, G1, G2:
+Specify the
+continuity of the Surface
+.
+Quad sided:
+Generate an untrimmed quad-sided surface within a four-edged boundary.
+Flatness:
+Adjust the flatness and quality of generated surfaces. Specifying higher value will generate high quality surfaces and lower value will generate low quality surfaces.
+Tension:
+Adjust the curvature transition of a surface when
+"Quad-sided"
+is enabled.
+Boundary:
+Natural:
+No requirement for UV Flow.
+Normal:
+Maintain UV isocurves mutually perpendicular.
+Next:
+Generate a perpendicular flow of UV if boundary conditions are relatively flat when
+"Quad-sided"
+is enabled.
+Adjacent:
+Align V isocurves of the generated surface to adjacent curves when
+“Quad sided”
+is enabled. Having
+"Quad sided"
+disabled will generate surface results similar to having
+"Normal"
+enabled.
+Quality:
+Determine the quality of the generated surface.
+Auto:
+Automatic quality generation based on surface.
+High:
+High surface quality.
+Max:
+Highest surface quality.
+Satisfy tolerances:
+Specify the tolerance for the generated surface. It is recommended to work with default tolerance values for general surface workflows. (Default:
+Enabled
+)
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+ℹ️
+Note
+Tools like Patch may struggle with complex surfaces. Use XNurbs for generating complex surfaces or as a starting point for  later refinement.
+While XNurbs can bridge gaps even with bad inputs, high-quality surfaces still require proper constraints.
+ℹ️
+Quad sided
+Quad sided
+allows you to create an untrimmed quad-sided spline surface. This is particularly useful when constructing a surface with only 4 boundary edges as this will create high-quality results with correct spline orientation.
+Your browser does not support video tags.
+ℹ️
+Flatness
+Flatness
+determines the output quality of a surface by increasing and decreasing the input value in the Command Dialog. When using the
+Quad sided
+option on a quad-sided surface, the value of flatness needs to be between
+0.95 - 1.00
+for optimum results.
+Your browser does not support video tags.
+ℹ️
+Tension
+Tension
+controls the curvature strength of a surface. A lower value of
+0.1
+results in a more relaxed surface, while a higher value
+1.0
+tightens up the transition, focusing towards the centre of the blend. By default, the value is set
+0.5
+. This feature is similar to Loft and Bridge Surface commands.
+Your browser does not support video tags.
+ℹ️
+Quality
+Auto, High, and Max
+options determine the quality of the generated surface. By default, it is on
+Auto
+but you can select either
+High
+or
+Max
+for higher quality. However, this will generate more splines.
+Your browser does not support video tags.
+ℹ️
+Profile Guides
+Unlike with the Loft and Patch Command, Xnurbs is capable of generating surfaces using open profile guides that don't intersect with boundary guides, this gives the flexibility to generate surfaces easily and have the creative opportunity to explore surfaces.
+Your browser does not support video tags.
+See also
+Square
+Rebuild
+Raise Surface Degree
+Loft
+Patch
+Unwrap Face
+Introduction of Blender Bridge

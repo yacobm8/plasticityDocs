@@ -1,0 +1,21 @@
+Skizze
+Reverse Curve
+Reverse Curve
+Befehl
+Reverse
+Tastenkürzel
+-
+Schaltfläche
+-
+Richten Sie die Richtung einer Kurve um.
+Grundlegende Nutzung
+Wählen Sie die Kurve aus, deren Richtung Sie umkehren möchten.
+Geben Sie
+Reverse
+in die Befehlsleiste ein.
+Jetzt wurde die Richtung der Kurve umgekehrt.
+Your browser does not support video tags.
+Siehe auch
+Reverse Sheet
+Reverse
+Slide

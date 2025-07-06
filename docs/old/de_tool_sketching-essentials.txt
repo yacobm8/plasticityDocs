@@ -1,0 +1,42 @@
+Skizzieren & Primitive Werkzeuge
+Skizzier-Grundlagen
+Skizzier-Grundlagen
+Exaktes Einrasten
+Beim Verwenden von Curves für die Oberflächenmodellierung müssen Curves genau eingerastet werden.
+Wenn ein Vertex an eine Curve oder einen anderen Vertex einrastet, wechselt er von lila zu blau-grün.
+Um genau zu rasten:
+Halten Sie beim Verschieben eines Vertex
+Strg
+gedrückt, um das Einrasten zu aktivieren.
+Beim Zeichnen in einer Skizze können Sie einrasten, ohne
+Strg
+zu halten, wenn
+Object snapping
+aktiviert ist.
+Weitere Informationen finden Sie unter
+Gitter und Fang
+.
+Einrastlinien als Referenz verwenden
+Beim Zeichnen können Sie temporäre Referenzlinien erstellen, um das Einrasten zu unterstützen. Zeigen Sie mit dem Cursor auf ein Objekt und tippen Sie auf
+Umschalt
+. Einrastbare Referenzlinien werden angezeigt.
+Your browser does not support video tags.
+Maße numerisch angeben
+Sie können die Maße und Winkel einer Skizze numerisch angeben: Drücken Sie die
+Tab
+-Taste, und ein numerisches Eingabefeld wird bei den Maßen angezeigt.
+Your browser does not support video tags.
+Auf eine Achse beschränken
+Drücken Sie die
+X
+/
+Y
+oder
+Z
+-Taste, um die Bewegung des Cursors auf eine einzelne Achse zu beschränken.
+Your browser does not support video tags.
+Verwenden Sie den Knife-Modus
+Verwenden Sie den Knife-Modus, um eine oder mehrere Faces zu schneiden, während Sie eine Curve zeichnen. Sie müssen beim Zeichnen an Punkten auf den Ziel-Faces einrasten.
+Your browser does not support video tags.
+Skizzieren & Primitive Werkzeuge
+Line

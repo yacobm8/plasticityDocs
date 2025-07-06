@@ -1,0 +1,21 @@
+ソリッド
+Rebuild
+Rebuild（再構築する）
+コマンド
+Rebuild
+ショートカット
+-
+ボタン
+推奨コマンドメニューで
+このコマンドは、選択されていたオブジェクトに応じて以下のコマンドを自動的に呼び出します。
+カーブが選択されているとき:
+Rebuild Curve
+を参照してください。
+フェイスが選択されているとき:
+Rebuild Face
+関連項目
+Rebuild Curve
+Rebuild Face
+Delete Redundant Topology
+Raise Surface Degree
+Rebuild Face

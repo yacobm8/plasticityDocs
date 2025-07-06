@@ -1,0 +1,20 @@
+Plasticity Grundlagen
+Benutzeroberflächenübersicht
+Benutzeroberflächenübersicht
+P-Menü
+Outliner
+Assets
+Auswahlmodus
+Werkzeuge
+Befehls-Palette
+Ansichtsmodus
+Ansichtswürfel
+Shader-Modus
+Kameraeinstellungen
+Raster und Einheiten
+Snap
+Ebenen
+Auswahl
+Befehlsleiste
+Bedienung des 3D-Ansichtsfensters
+P-Menü

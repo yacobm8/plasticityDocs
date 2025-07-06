@@ -1,0 +1,74 @@
+Skizze
+Bridge Curve
+Bridge Curve
+Befehl
+Bridge Curve
+Tastenkürzel
+-
+Schaltfläche
+Werkzeugleiste
+Verbindet zwei Curves, die G0/G1/G2/G3-kontinuierlich sein können. Die Spannung ist einstellbar. Automatisches Trimmen ist möglich.
+Grundlegende Nutzung
+❗
+Hinweis
+Bevor Sie einen Punkt auswählen, aktivieren Sie
+Rasterfang
+und
+Objektfang
+.
+ℹ️
+Die Start- und Endpunkte können an beliebiger Stelle auf der Curve, Edge, Face oder Bauebene ausgewählt werden.
+Klicken Sie auf die Schaltfläche
+in der Werkzeugleiste.
+Klicken Sie auf den Startpunkt.
+Tastenkombinationen
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Einschränken auf die X-, Y- oder Z-Achse
+.
+N
+Normal
+Begrenzen Sie in die normale Richtung von Face.
+Klicken Sie auf den Endpunkt.
+Legen Sie die Optionen im Befehlsdialog und den Tastaturkürzeln fest.
+Befehlsdialog
+T:
+Value 1/2:
+Die relative Position auf dem Segment des Startpunkts/Endpunkts.
+Direction:
+Direction 1/2:
+Die Richtung des Startpunkts/Endpunkts umkehren.
+Tension 1:
+Value 1/2:
+Der Spannungswert betrifft den 1. Control-Vertex(CV) bis 3. CV des Startpunkts/Endpunkts.
+Tension 2:
+Value 1/2:
+Der Spannungswert betrifft den 2. CV und 3. CV des Startpunkts/Endpunkts.
+Tension 3:
+Value 1/2:
+Der Spannungswert betrifft den 3. CV des Startpunkts/Endpunkts.
+Startkrümmung:
+G0, G1, G2, G3:
+Spezifizieren Sie die
+Kontinuität der Curve
+am Startpunkt.
+Endkrümmung:
+G0, G1, G2, G3:
+Spezifizieren Sie die
+Kontinuität der Curve
+am Endpunkt.
+Trim:
+Wenn aktiviert, wird jede Curve, die über die Brücke hinausgeht, getrimmt.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Bridge
+Bridge Vertex
+Bridge Edge
+Join
+Bridge
+Bridge Edge

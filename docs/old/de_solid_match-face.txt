@@ -1,0 +1,38 @@
+Fest
+Match Face
+Match Face
+Befehl
+Match Face
+Tastenkürzel
+-
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Ersetzen Sie das ausgewählte Face durch ein anderes Face.
+Grundlegende Nutzung
+Wählen Sie Faces zum Angleichen aus.
+Klicken Sie auf die Schaltfläche
+im Menü
+Vorgeschlagene Befehle
+.
+Wählen Sie die Oberfläche zum Ersetzen aus.
+Legen Sie die Optionen im Command Dialog fest.
+Befehlsdialog
+Grow:
+Wenn ein konkaves inneres Face versetzt wird.
+Moving:
+Bewegen Sie die gesamte Wand, wenn der Versatz zur äußeren Wand gelangt.
+Fixed:
+Stoppen Sie an der äußeren Wand.
+None:
+Fahren Sie von selbst fort, ohne die äußere Wand zu beeinflussen oder von ihr beeinflusst zu werden.
+Side:
+Front:
+Wenn aktiviert, wird das Face mit dem vorderen Face der ausgewählten Oberfläche abgeglichen.
+Bestätigen Sie mit OK im Command Dialog oder Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Offset Face
+Draft Face
+Delete Face
+Loft
+Offset Curve

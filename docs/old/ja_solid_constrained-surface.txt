@@ -1,0 +1,33 @@
+ソリッド
+Constrained Surface
+Constrained Surface（拘束サーフェイスを作成）
+コマンド
+Constrained Surface
+ショートカット
+-
+ボタン
+-
+クリックで指定した点を通るサーフェイスを生成することができます。
+基本的な使い方
+コマンドパレットで
+Constrained Surface
+を実行します。
+通したい点をクリックします。
+コマンドダイアログとキーボードショートカットでオプションを設定します。
+コマンドダイアログ
+Tolerance:
+サーフェスの許容差を指定します。
+Angular tolerance:
+サーフェスの角度許容差を指定します。
+Optimize:
+Performance:
+サーフェスを高速に生成します。
+Smoothness:
+サーフェスを滑らかに生成します。
+キーボードショートカット
+Cmd-Z
+: 最後に指定した点を取り消します。
+コマンドダイアログの OK をクリックするか、右クリックで確定します。
+Your browser does not support video tags.
+Bridge Surface
+Cut

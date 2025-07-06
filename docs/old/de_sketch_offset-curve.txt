@@ -1,0 +1,36 @@
+Skizze
+Offset Curve
+Offset Curve
+Befehl
+Offset Curve
+Tastenkürzel
+O
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Der Offset-Kurve-Befehl wird basierend auf dem ausgewählten Objekt ausgeführt:
+Offset-Scheitelpunkt:
+Wenn Scheitelpunkte ausgewählt sind, siehe
+Offset-Scheitelpunkt
+.
+Offset-Planare Kurve:
+Wenn Kurven ausgewählt sind, siehe
+Offset-Planare Kurve
+.
+Offset-Region:
+Wenn Regionen ausgewählt sind, siehe
+Offset-Region
+.
+Offset-Flächen-Schleife:
+Wenn Flächen ausgewählt sind, siehe
+Offset-Flächen-Schleife
+im Abschnitt „Solid-Befehle“.
+Offset-Kante:
+Wenn Kanten ausgewählt sind, siehe
+Offset-Kante
+im Abschnitt „Solid-Befehle“.
+Siehe auch
+Offset Vertex
+Offset Planar Curve
+Offset Region
+Join Curves
+Offset Planar Curve

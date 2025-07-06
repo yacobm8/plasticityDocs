@@ -1,0 +1,27 @@
+スケッチ
+Project Outline
+Project Outline
+コマンド
+Alternative Duplicate
+ショートカット
+Alt + D
+ボタン
+-
+ソリッドまたはシートの外形を現在の構築平面に法線の方向に投影し、カーブを生成します。
+基本的な使い方
+投影したい構築平面をセットします。
+投影するソリッドまたはシートを選択します。
+Alt + D
+を押してコマンドを実行します。
+投影された曲線が現在の構築平面に作成されます。
+移動ギズモを使用して曲線を移動することもできます。
+コマンドダイアログのOKをクリックするか、右クリックで確定します。
+Your browser does not support video tags.
+関連項目
+Alternative Duplicate
+Create Outline
+Project Curve Body
+Project Curve Curve
+Project Body Body
+Project Curve Curve
+Raise Curve Degree

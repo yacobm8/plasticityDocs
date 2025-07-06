@@ -1,0 +1,51 @@
+Sketch
+Extend Curve
+Extend Curve
+Command
+Extend Curve
+Shortcut
+-
+Button
+-
+Extend a Curve by specifying the distance. Choose from extension shapes like Natural, Linear, Soft, Reflective, and Arc.
+Basic Usage
+Select the end Point of the Curve you wish to extend.
+Use the
+Extend
+command in the Command Palette.
+Press
+D
+, move the cursor, and click at the endpoint.
+Set the options in the Command Dialog.
+Command Dialog
+Shape:
+Specify the shape of the extended curve. Options
+Natural
+,
+Linear
+,
+Soft
+,
+Reflective
+, and
+Arc
+will directly influence the shape and curvature of the extended curve during extrusion.
+Natural:
+Extends the curve "naturally" by continuing the curve described by the original curve just before the start of the extension.
+Linear:
+Extends the curve in a flat, straight line from the boundary point, maintaining the current tangent direction without altering curvature.
+Soft:
+Gradually blends the extension with the existing curve for a smooth transition, preserving both tangent and curvature.
+Reflective:
+Mirrors the curvature and tangency of the curve for a symmetrical and seamless continuation, ideal for maintaining curve symmetry.
+Arc:
+Extends the curve in a circular arc from the boundary point.
+Distance:
+Specify the distance.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+See also
+Extend
+Extend Sheet
+Extend
+Fillet

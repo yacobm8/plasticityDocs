@@ -1,0 +1,24 @@
+Skizze
+Slide
+Slide
+Befehl
+Slide
+Tastenkürzel
+Shift + G
+Schaltfläche
+-
+Einheitlicher Befehl für
+Slide Curve CV
+,
+Slide Surface CV
+. Der Befehl wird basierend auf dem ausgewählten Objekt ausgeführt.
+Wenn CVs auf Kurven ausgewählt sind: siehe
+Slide Curve CV
+.
+Wenn CVs auf Festkörpern ausgewählt sind: siehe
+Slide Surface CV
+.
+Siehe auch
+Steuerelementpunkt verschieben
+Reverse Curve
+Slide Curve Cv

@@ -1,0 +1,22 @@
+ソリッド
+Unjoin Shells
+Unjoin Shells（ソリッド、シートを切り離す）
+コマンド
+Unjoin
+ショートカット
+Alt + J
+ボタン
+推奨コマンドメニューで
+選択したソリッド、シートからすべてのフェイスを切り離すことができます。
+基本的な使い方
+切り離したいソリッド、シートを選択します。
+Alt + J
+を押します。
+すべてのフェイスが切り離されます。
+関連項目
+Unjoin
+Unjoin Faces
+Join
+Bridge Surface
+Unjoin Faces
+Untrim

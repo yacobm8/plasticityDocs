@@ -1,0 +1,24 @@
+スケッチ
+Project Body Body
+Project Body Body（ソリッドの交線のカーブを作成）
+コマンド
+Project
+ショートカット
+I
+ボタン
+推奨コマンドメニューで
+2つのソリッドまたはシートの交差線からカーブを作成できます。
+基本的な使い方
+ソリッドまたはシートをふたつ選択します。
+キーボードショートカット
+I
+またはボタンを押します。
+交線のカーブが作成されます。
+関連項目
+Alternative Duplicate
+Project Outline
+Create Outline
+Project Curve Body
+Project Curve Curve
+Project
+Project Curve Body

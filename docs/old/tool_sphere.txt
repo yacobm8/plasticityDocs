@@ -1,0 +1,59 @@
+Sketching & Primitive Tools
+Sphere
+Sphere
+Command
+Sphere
+Shortcut
+-
+Button
+Toolbar
+You can create a sphere by specifying its center and diameter.
+Basic Usage
+Click the
+button on the toolbar.
+Click to set the center of the sphere.
+Move the cursor to adjust the size of the sphere, and click to confirm.
+Command Dialog
+Select target bodies:
+Functions the same as the Boolean command. Refer to
+Boolean
+command for details.
+Radius:
+Specify the diameter.
+Keyboard Shortcuts
+Tab
+: Enables direct input of dimensions. See
+here
+for details.
+Shift + Q
+,
+Q
+,
+W
+,
+Shift + E
+,
+B
+,
+T
+:
+Functions the same as the Boolean command. Refer to
+Boolean
+command for details.
+D
+Radius:
+Adjust the diameter by moving the cursor.
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrains to X, Y, Z axis
+.
+You can also adjust the shape by moving the yellow dot.
+Click OK in the command dialog or right-click to confirm.
+The sphere is created.
+Your browser does not support video tags.
+Insert CV At Point
+Corner Box

@@ -1,0 +1,41 @@
+Skizzieren & Primitive Werkzeuge
+Three Point Arc
+Three-Point Arc
+Befehl
+Three-Point Arc
+Tastenkürzel
+-
+Schaltfläche
+Werkzeugleiste
+Sie können einen Bogen erstellen, indem Sie drei Punkte auf seinem Umfang angeben.
+Grundlegende Nutzung
+Klicken Sie auf den
+Knopf in der Werkzeugleiste.
+Klicken Sie auf die erste Position auf dem Umfang des Bogens.
+Bewegen Sie den Cursor und klicken Sie auf den zweiten Punkt auf dem Umfang.
+Tastenkombinationen
+X
+/
+Y
+/
+Z
+X/Y/Z-Axis:
+Beschränkt auf X, Y, Z Achse
+.
+Bewegen Sie den Cursor und klicken Sie auf den dritten Punkt auf dem Umfang.
+Tastenkombinationen
+Tab
+: Ermöglicht direkte Eingabe von Abmessungen. Weitere Informationen finden Sie
+hier
+.
+Der Bogen wird erstellt.
+Your browser does not support video tags.
+Siehe auch
+Center Cirvle
+Two-Point Circle
+Three-Point Circle
+Tangent Circle
+Center Point Arc
+Tangent Arc
+Center Point Arc
+Tangent Arc

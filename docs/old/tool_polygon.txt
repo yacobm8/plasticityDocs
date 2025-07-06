@@ -1,0 +1,55 @@
+Sketching & Primitive Tools
+Regular Polygon
+Regular Polygon
+Command
+Polygon
+Shortcut
+-
+Button
+Toolbar
+You can create a polygon.
+Basic Usage
+Click the
+button on the toolbar.
+Click at the center of the polygon.
+Move the cursor to adjust the size, and click to confirm.
+Keyboard Shortcuts
+Tab
+: Enables direct input of dimensions. See
+here
+for details.
+Shift + Scroll Up
+Add a Vertex:
+Increases the number of vertices of the polygon.
+Shift + Scroll Down
+Subtract a Vertex:
+Decreases the number of vertices of the polygon.
+Up Arrow Key
+Increases the number of vertices of the polygon.
+Down Arrow Key
+Decreases the number of vertices of the polygon.
+V
+Toggle vertical / horizontal:
+Changes the inclination relative to the construction plane.
+C
+Toggle circumscribed:
+Switches between circumscribed and inscribed.
+K
+Knife:
+Refer to
+Using Knife Mode
+.
+X
+/
+Y
+X/Y-axis:
+Constrains to X, Y axis
+.
+Right-click to confirm.
+The polygon is created.
+🗒️
+Note
+The Polygon Command remembers last used number of vertices, which can efficiently speed up your work.
+Your browser does not support video tags.
+Tangent Arc
+Spiral

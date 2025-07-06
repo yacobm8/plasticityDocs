@@ -1,0 +1,46 @@
+Sketching & Primitive Tools
+Center Circle
+Center Circle
+Command
+Center Circle
+Shortcut
+-
+Button
+Toolbar
+You can create a circle by specifying the center and diameter.
+Basic Usage
+Click the
+button on the toolbar.
+Click at the center of the circle.
+Move the cursor to adjust the size of the circle and click to confirm.
+Keyboard Shortcuts
+Tab
+: Allows direct input of dimensions. For details, see
+here
+.
+K
+Knife:
+Please refer to
+Using Knife Mode
+.
+V
+Vertical/Horizontal:
+Changes the tilt relative to the construction plane.
+X
+/
+Y
+X/Y-axis:
+Constrain to X, Y axis
+.
+Click OK in the command dialog or right-click to confirm.
+The circle is created.
+Your browser does not support video tags.
+See also
+Two-Point Circle
+Three-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Tangent Arc
+Control Point Curve
+Two Point Circle

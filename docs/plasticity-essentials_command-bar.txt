@@ -1,0 +1,34 @@
+Plasticity Essentials
+Command Bar
+Command Bar
+Command Bar
+The command bar is located at the bottom of the screen and contains common commands such as:
+Command
+Shortcut
+Search Commands
+F
+Move
+G
+Rotate
+R
+Scale
+S
+Duplicate Object
+Shift + D
+Boolean
+Q
+Rectangular Array
+-
+Radial Array
+-
+Suggested Commands
+Shift + F
+Suggested Commands
+The command bar includes
+Suggested Commands
+, a window that highlights commands and tools based on your selection - whether it's a Solid, Sheet, Curve, Region, or Point. To expand the window, click the
+button or press
+Shift + F
+.
+Construction Plane
+Command Palette

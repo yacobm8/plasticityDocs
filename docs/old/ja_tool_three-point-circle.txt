@@ -1,0 +1,44 @@
+スケッチ & プリミティブ ツール
+Three Point Circle
+Three-Point Circle（3点指定の円）
+コマンド
+Three-Point Circle
+ショートカット
+-
+ボタン
+ツールバー
+円周上の3点を指定して円を作成できます。
+基本的な使い方
+ツールバーのボタン
+をクリックします。
+円周上の1点をクリックします。
+カーソルを動かして円周上の2点目をクリックします。
+キーボードショートカット
+Tab
+: 寸法値に直接入力できるようになります。詳細は
+こちら
+を参照してください。
+K
+Knife:
+ナイフモードを使う
+を参照してください。
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+X、Y、Z軸に拘束します
+。
+カーソルを動かして大きさを調整し、クリックして確定します。
+円が作成されます。
+Your browser does not support video tags.
+関連項目
+Center Cirvle
+Two-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Tangent Arc
+Two Point Circle
+Tangent Circle

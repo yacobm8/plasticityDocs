@@ -1,0 +1,28 @@
+Sketch
+Fillet
+Fillet
+Command
+Fillet
+Shortcut
+B
+Button
+In Suggested Commands Menu
+The Fillet command runs based on the selected object:
+Fillet Curve:
+If Curves are selected, see
+Fillet Curve
+.
+Fillet Vertex:
+If verticies are selected, see
+Fillet Vertex
+.
+Fillet Shell:
+If Edges are selected, see
+Fillet Shell
+in the Solid Commands section.
+See also
+Fillet Curve
+Fillet Vertex
+Fillet Shell
+Extend Curve
+Fillet Curve

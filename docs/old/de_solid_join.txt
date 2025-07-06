@@ -1,0 +1,24 @@
+Fest
+Join
+Join
+Befehl
+Join
+Tastenkürzel
+J
+Schaltfläche
+-
+Der Join-Befehl wird basierend auf dem ausgewählten Objekt ausgeführt:
+Kurven verbinden:
+Wenn Kurven ausgewählt sind, siehe
+Kurven verbinden
+im Abschnitt „Sketch-Befehle“.
+Flächen verbinden:
+Wenn Flächen ausgewählt sind, siehe
+Flächen verbinden
+.
+Siehe auch
+Join Sheets
+Bridge Surface
+Unjoin
+Isoparam
+Join Sheets

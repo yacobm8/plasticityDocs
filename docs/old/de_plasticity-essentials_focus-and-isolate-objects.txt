@@ -1,0 +1,67 @@
+Plasticity Grundlagen
+Objekte fokussieren und isolieren
+Objekte fokussieren und isolieren
+Objekte fokussieren
+Dieser Befehl vergrößert das ausgewählte Objekt, sodass es den gesamten Ansichtsbereich ausfüllt.
+Befehl
+Viewport: Focus
+Tastenkürzel
+/ (Schrägstrich)
+Schaltfläche
+-
+Verwendung
+Wählen Sie die Objekte aus, auf die Sie fokussieren möchten.
+Drücken Sie
+/
+, um den Befehl auszuführen.
+Die ausgewählten Objekte werden vergrößert und füllen den gesamten Ansichtsbereich.
+Objekte isolieren
+Dieser Befehl fokussiert das ausgewählte Objekt, indem es es exklusiv auf dem Bildschirm anzeigt und alle anderen Objekte vorübergehend ausblendet. Dieser Befehl unterstützt auch hierarchische Isolierung.
+Befehl
+Isolate
+Tastenkürzel
+. (Punkt)
+Schaltfläche
+-
+Verwendung
+Wählen Sie die Objekte aus, auf die Sie fokussieren möchten.
+Öffnen Sie die Befehlsleiste und geben Sie „Isolate“ ein oder drücken Sie
+.
+, um den Befehl auszuführen.
+Nur die ausgewählten Objekte werden auf dem Bildschirm angezeigt.
+Hierarchische Isolierung
+Nach der Ausführung des Isolate-Befehls können Sie zusätzliche Objekte auswählen, auf die Sie fokussieren möchten.
+Führen Sie den Isolate-Befehl erneut aus, und der Bildschirm wird auf die neu ausgewählten Objekte eingegrenzt.
+Dieser Prozess kann wiederholt werden, um mehrere Isolationsschichten zu erstellen.
+Anzeige und Schichtenzähler
+Ein Indikator oben auf dem Bildschirm zeigt an, dass der Isoliermodus aktiv ist. Eine Zahl neben dem Indikator zeigt an, wie viele Isolationsschichten angewendet wurden. Wenn beispielsweise „2 Isolated“ angezeigt wird, bedeutet dies, dass Sie sich in der zweiten Schicht der Isolierung befinden.
+Objekte entisolieren
+Dieser Befehl zeigt alle zuvor isolierten Objekte im Ansichtsbereich an. Es wird nicht zur vorherigen hierarchischen Isolierungsschicht zurückgekehrt, sodass alle Objekte sichtbar werden.
+Befehl
+Unisolate
+Tastenkürzel
+Alt + . (Punkt)
+Schaltfläche
+-
+Verwendung
+Öffnen Sie die Befehlsleiste und geben Sie „Unisolate“ ein oder drücken Sie
+Alt + .
+, um den Befehl auszuführen.
+Nach der Ausführung des Unisolate-Befehls können Sie alle sichtbaren Objekte im Ansichtsbereich sehen.
+Your browser does not support video tags.
+Objekte zentrieren
+Dieser Befehl zentriert ein bestimmtes Objekt in der Mitte des Bildschirms.
+Befehl
+Viewport: navigate to selection
+Tastenkürzel
+Space
+Schaltfläche
+-
+Verwendung
+Wählen Sie das Objekt aus, das Sie zentrieren möchten.
+Drücken Sie
+Space
+, um den Befehl auszuführen.
+Das ausgewählte Objekt wird in der Mitte des Bildschirms angezeigt.
+Objektzustände umschalten
+Auswahlmodus

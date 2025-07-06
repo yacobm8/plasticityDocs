@@ -1,0 +1,67 @@
+Sketching & Primitive Tools
+Center Box
+Center Box
+Command
+Center Box
+Shortcut
+-
+Button
+Toolbar
+You can create a rectangular box by specifying the center of the base and the height.
+Basic Usage
+Click the
+button on the toolbar.
+Click the center point of the base.
+Move the cursor to adjust the size of the base and click to confirm.
+Keyboard Shortcuts
+Tab
+: Allows direct input of dimensions. For details, see
+here
+.
+C
+Center/Corner:
+Switches to Corner Box.
+S
+Square:
+Restricts to a square shape.
+Move the cursor to adjust the height and click to confirm.
+Command Dialog
+Select target bodies
+:
+Same functionality as the Boolean command. For details, see the
+Boolean
+command.
+Width:
+Specify the width.
+Length:
+Specify the length.
+Height:
+Specify the height.
+Keyboard Shortcuts
+Shift + Q
+,
+Q
+,
+W
+,
+Shift + E
+,
+B
+,
+T
+:
+Same functionality as the Boolean command. For details, see the
+Boolean
+command.
+H
+Height:
+Specify the height by moving the cursor.
+You can also adjust the shape by moving the yellow dots.
+Click OK in the command dialog or right-click to confirm.
+The rectangular box is created.
+Your browser does not support video tags.
+See also
+Corner Box
+Three-Point Box
+Corner Box
+Three Point Box

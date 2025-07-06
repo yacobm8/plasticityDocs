@@ -1,0 +1,83 @@
+Sketch
+Offset Planar Curve
+Offset Planar Curve
+Command
+Offset Curve
+Shortcut
+O
+Button
+In Suggested Commands Menu
+Offset a planar Curve by specifying the distance to create new Curves. The option for symmetrical offsetting on both sides is available.
+Basic Usage
+Select the Curves you want to offset.
+Press
+O
+.
+Move the yellow arrow to specify the distance.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Distance:
+Specify the Distance.
+Gap fill:
+Round:
+Rounds convex corners.
+Linear:
+Connects convex corners with straight lines.
+Natural:
+Natural
+Keyboard Shortcuts
+Tab
+Lock distances:
+Offset with equal distance on both sides.
+F
+Freestyle:
+It functions similarly to the
+Freestyle Offset Planar Curve
+described below.
+V
+Gap fill:
+D
+Distance:
+Specify the distance with mouse movement.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+Freestyle Offset Planar Curve
+Offset a planar Curve by specifying the distance using cursor movement to create new Curves. The option for symmetrical offsetting on both sides is available.
+This command can be executed not only through the
+Freestyle
+option in the
+Offset Curve
+command but also by using the
+Freestyle Offset Planar Curve
+in the Command Palette.
+Select the Curves you want to offset.
+Press
+O
+.
+Press
+F
+to enter Freestyle mode.
+Move the cursor to the offset point and click.
+If Grid Snaps are enabled, the offset point snaps to the grid.
+If Object Snaps are enabled, the offset point snaps to the object.
+Command Dialog
+Distance:
+Specify the Distance.
+Gap fill:
+Round:
+Rounds convex corners.
+Linear:
+Connects convex corners with straight lines.
+Natural:
+Natural
+Keyboard Shortcuts
+Tab
+Lock distances:
+Offset with equal distance on both sides.
+Confirm with OK in the Command Dialog or right-click.
+See also
+Offset Curve
+Offset Vertex
+Offset Region
+Offset Curve
+Offset Region

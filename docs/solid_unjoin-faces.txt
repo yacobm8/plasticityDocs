@@ -1,0 +1,23 @@
+Solid
+Unjoin Faces
+Unjoin Faces
+Command
+Unjoin
+Shortcut
+Alt + J
+Button
+In Suggested Commands Menu
+Separate selected Faces from Solid or Sheet.
+Basic Usage
+Select the Faces you want to separate.
+Press
+Alt + J
+.
+The Faces are separated.
+See also
+Unjoin
+Unjoin Shells
+Join
+Bridge Surface
+Unjoin
+Unjoin Shells

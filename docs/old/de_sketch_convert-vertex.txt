@@ -1,0 +1,21 @@
+Skizze
+Convert Vertex
+Convert Vertex
+Befehl
+Convert Vertex
+Tastenkürzel
+-
+Schaltfläche
+-
+Konvertieren von Vertices zu Control-Vertices.
+Grundlegende Nutzung
+Wählen Sie die Vertices aus, die Sie konvertieren möchten.
+Verwenden Sie den
+Convert Vertex
+Befehl in der Befehlspalette.
+Die Vertices sind jetzt Control-Vertices.
+ℹ️
+Sie können einen Vertex auch durch Doppelklick darauf konvertieren.
+Your browser does not support video tags.
+Bridge Vertex
+Create Outline

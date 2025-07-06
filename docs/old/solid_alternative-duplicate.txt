@@ -1,0 +1,52 @@
+Solid
+Alternative Duplicate
+Alternative Duplicate
+Command
+Alternative Duplicate
+Shortcut
+Alt + D
+Button
+-
+Create a Solid from selected Faces and then manipulate its position.
+Basic Usage
+Select the Face of the base on which you want to create a Solid.
+Press
+Alt + D
+to excute the command.
+The Solid is created. Use the displayed Move Gizmo to move.
+Set the options in the Command Dialog and the Keyboard Shortcuts.
+Command Dialog
+XYZ:
+Specify the amount of movement of the X, Y, and Z axes.
+Keyboard Shortcuts
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrain to the X, Y, or Z-axis
+.
+Shift + X
+/
+Shift + Y
+/
+Shift + Z
+X, Y, Z plane:
+Constrain to the X, Y, or Z-plane.
+G
+Screen space:
+Limit to the visible plane.
+F
+Freestyle:
+Click to specify the starting point and endpoint, which will determine the direction and distance of movement.
+V
+Pivot:
+Click to specify the position of the Gizmo.
+W
+Worldspace:
+Change the Gizmo's coordinate axis to world coordinates.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+Solid
+Boolean

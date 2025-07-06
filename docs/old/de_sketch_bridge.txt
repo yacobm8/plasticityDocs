@@ -1,0 +1,29 @@
+Skizze
+Bridge
+Bridge
+Befehl
+Bridge
+Tastenkürzel
+-
+Schaltfläche
+-
+Der Bridge-Befehl wird basierend auf dem ausgewählten Objekt ausgeführt:
+Bridge-Kurve:
+Wenn zwei Kurven ausgewählt sind oder nichts ausgewählt ist, siehe
+Bridge-Kurve
+.
+Bridge-Scheitelpunkt:
+Wenn zwei Scheitelpunkte ausgewählt sind, siehe
+Bridge-Scheitelpunkt
+.
+Bridge-Kante:
+Wenn zwei Kanten ausgewählt sind, siehe
+Bridge-Kante
+.
+Siehe auch
+Bridge Curve
+Bridge Vertex
+Bridge Edge
+Join
+Alternative Duplicate
+Bridge Curve

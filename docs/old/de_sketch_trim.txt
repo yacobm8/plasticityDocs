@@ -1,0 +1,23 @@
+Skizze
+Trim
+Trim
+Befehl
+Trim
+Tastenkürzel
+T
+Schaltfläche
+Werkzeugleiste
+Entfernt spezifizierte Segmente von planaren oder 3D Curves.
+Grundlegende Nutzung
+Drücken Sie
+T
+.
+Klicken Sie auf das Segment, das Sie trimmen möchten.
+Das Segment wird entfernt.
+Your browser does not support video tags.
+See also
+Cut Curve
+Unjoin
+Split Segment
+Toggle Points
+Unjoin

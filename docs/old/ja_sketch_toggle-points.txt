@@ -1,0 +1,27 @@
+スケッチ
+Toggle Points
+ポイント切り替え
+コマンド
+Toggle Points
+ショートカット
+-
+ボタン
+-
+面、曲線、ボディのポイントを非表示または表示します。
+基本的な使い方
+CVポイントを非表示または表示したい面、曲線、またはボディを選択します。
+コマンドパレットに
+Toggle Points
+と入力し、それを左クリックします。
+Your browser does not support video tags.
+💡
+Tip
+簡単に使用およびアクセスするためのキーボードショートカットを作成します。コマンドパレットでコマンドを右クリックし、「ショートカットを割り当て」を左クリックして、キー割り当てを指定します。
+Your browser does not support video tags.
+関連項目
+Rebuild Curve
+Rebuild Face
+Raise Curve Degree
+Raise Surface Degree
+Text
+Trim

@@ -1,0 +1,36 @@
+Plasticity Essentials
+Grid and Units
+Grid and Units
+Grid
+Snap to grid:
+You can use grid snapping to snap your cursor to the grid while drawing or moving objects. To specify the grid size, change the value under
+Snap to grid
+.
+The grid is displayed on the active construction plane. You can specify the grid unit and size in the
+"Units"
+window.
+You can execute the grid snapping in the Command Palette;
+Grid: toggle grid snapping
+,
+Viewport: decrease grid size
+,
+Viewport: increase grid size
+.
+To temporarily turn off grid snapping, hold
+Ctrl
+while dragging.
+To cuztomize Grid color, go to
+Preferences
+.
+Units
+Units:
+Specifies the units (Millimeter, Centimeter, Meter, Inch, Foot) for the viewport.
+Grid size:
+Specifies the overall size of the grid.
+Line every:
+Specifies the spacing interval for the thick lines in the grid.
+Units are displayed while drawing curves, and you can press
+Tab
+to enter precise measurements.
+View Cube
+Snap

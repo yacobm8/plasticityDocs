@@ -1,0 +1,57 @@
+Solid
+Bridge Surface
+Bridge Surface
+Command
+Bridge Surface
+Shortcut
+-
+Button
+-
+Blend between two disconnected Surfaces with available shape options G2 or Chamfer. Redundant surfaces may be trimmed.
+Basic Usage
+Bridging Separated Surfaces
+Use
+Bridge Surface
+command in the Command Palette.
+Select two Sheets to be connected.
+Set the options in the Command Dialog.
+Command Dialog
+Width:
+Specify the width of the bridge.
+Tension:
+Adjust the curvature transition of a surface.
+Shape:
+G2:
+The bridge surface is G2 continuous.
+Chamfer:
+The bridge surface is chamfered.
+Trim walls:
+When enabled, trim the surfaces behaind the bridge.
+Trim blend:
+Both:
+Trim both sides of the bridge surface.
+Short:
+Trim the shorter side of the surface.
+Long:
+Trim the longer side of the bridge surface.
+None:
+Do not trim the bridge surface.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+Bridging Intersecting Surfaces
+Use
+Bridge Surface
+command in the Command Palette.
+Select the first surface and the second surface.
+Set the options in the Command Dialog.
+Sense:
+Sense 1/Sense 2:
+Reverse the direction of the bridge surface.
+Other options are the same as above.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+See also
+Join
+Unjoin
+Boolean
+Constrained Surface

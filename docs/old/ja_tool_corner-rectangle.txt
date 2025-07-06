@@ -1,0 +1,38 @@
+スケッチ & プリミティブ ツール
+Corner Rectangle
+Corner Rectangle
+コマンド
+Corner Rectangle
+ショートカット
+-
+ボタン
+ツールバー
+対角線を指定して長方形を作成できます。
+基本的な使い方
+ツールバーのボタン
+をクリックします。
+四角形の角をクリックします。
+カーソルを動かして大きさを調整し、クリックして確定します。
+キーボードショートカット
+Tab
+: 寸法値に直接入力できるようになります。詳細は
+こちら
+を参照してください。
+K
+Knife:
+ナイフモードを使う
+を参照してください。
+C
+Center / Corner:
+Center Rectangleに切り替えます。
+S
+Square:
+正方形に制限します。
+右クリックで確定します。
+四角形が作成されます。
+Your browser does not support video tags.
+関連項目
+Center Rectangle
+Three Point Rectangle
+Spiral
+Center Rectangle

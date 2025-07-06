@@ -1,0 +1,56 @@
+スケッチ
+Alternative Duplicate
+Alternative Duplicate
+コマンド
+Alternative Duplicate
+ショートカット
+Alt + D
+ボタン
+-
+カーブを現在の構築平面に法線の方向に投影し、カーブを生成します。
+基本的な使い方
+投影したい構築平面をセットします。
+投影するカーブを選択します。
+Alt + D
+を押してコマンドを実行します。
+投影された曲線が現在の構築平面に作成されます。
+移動ギズモを使用して曲線を移動することもできます。
+移動方向を限定することもできます。
+キーボードショートカット
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+X、Y、Z軸に拘束します
+。
+Shift + X
+/
+Shift + Y
+/
+Shift + Z
+X, Y, Z-plane:
+X, Y, Z平面に拘束します。
+G
+Screen space:
+見た目の平面に限定します。
+F
+Freestyle:
+最初のクリックで始点、次のクリックで終点を指定します。
+V
+Pivot:
+ギズモの位置をクリックして指定します。
+W
+Worldspace:
+ギズモの座標軸を元に戻します。
+コマンドダイアログのOKをクリックするか、右クリックで確定します。
+関連項目
+Project Outline
+Create Outline
+Project Curve Body
+Project Curve Curve
+Project Body Body
+Offset Curve
+スケッチ
+Bridge

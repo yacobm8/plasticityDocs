@@ -1,0 +1,27 @@
+Solid
+Raise Surface Degree
+Raise Surface Degree
+Command
+Raise Degree
+Shortcut
+Shift + S
+Button
+-
+Edit the surface of a Face or Solid by increasing surface Control Vertices(CV).
+Basic Usage
+Select a Face or Solid.
+Raise the degree of the Face or Solid by pressing
+Shift + S
+.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+💡
+Tip
+To hide the CVs of the surface, you can use the
+Toggle Points
+option in the command palette.
+Your browser does not support video tags.
+See also
+Raise Curve Degree
+Raise Degree
+Rebuild

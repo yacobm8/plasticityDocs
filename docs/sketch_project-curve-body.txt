@@ -1,0 +1,41 @@
+Sketch
+Project Curve Body
+Project Curve Body
+Command
+Project
+Shortcut
+I
+Button
+In Suggested Commands Menu
+Create a new Curve by projecting a Curve onto a Solid or Sheet. Choose projection method normal or direction vector. Bidirectional is also available.
+Basic Usage
+Select the Solid or Sheet to project onto.
+Press
+I
+or click the button.
+Select the  Curve to project.
+Set the options in the Command Dialog:
+Command Dialog
+Method:
+Normal:
+Projects in the positive Z-axis direction based on the construction plane.
+Vector:
+Projects in a linear direction.
+Bidirectional
+and
+Hide occlusion
+will be enabled.
+Bidirectional:
+When enabled, the projection will also occur in the negative direction of the specified axis.
+Hide occluded:
+When enabled, the projection will not occur on hidden Faces in the positive direction of the specified axis.
+Right-click or click OK in the Command Dialog to confirm.
+The projected Curve will be created.
+See also
+Alternative Duplicate
+Project Outline
+Create Outline
+Project Curve Curve
+Project Body Body
+Project Body Body
+Project Curve Curve

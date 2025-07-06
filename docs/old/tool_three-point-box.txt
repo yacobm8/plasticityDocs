@@ -1,0 +1,44 @@
+Sketching & Primitive Tools
+Three Point Box
+Three-Point Box
+Command
+Three-Point Box
+Shortcut
+-
+Button
+Toolbar
+You can create a rectangular box by specifying three points on its base and its height.
+Basic Usage
+Click the
+button on the toolbar.
+Click one corner of the base.
+Click another point on the base.
+Move the cursor to adjust the size of the base, and click to confirm.
+Command Dialog
+Select target bodies:
+Functions the same as the Boolean command. Refer to
+Boolean
+command for details.
+Width:
+Specify the width.
+Length:
+Specify the length.
+Height:
+Specify the height.
+Keyboard Shortcuts
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Constrains to X, Y, Z axis
+.
+Move the cursor to adjust the height, and click to confirm.
+The rectangular box is created.
+Your browser does not support video tags.
+See also
+Center Box
+Corner Box
+Center Box
+Cylinder

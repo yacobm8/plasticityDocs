@@ -1,0 +1,42 @@
+Fest
+Cut
+Cut
+Befehl
+Cut
+Tastenkürzel
+C
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Schneiden Sie das Ziel-Solid oder Sheet mit einer Cutter-Curve oder Face. Wenn eine Curve der Cutter ist, wird der Schnitt basierend auf einer von dieser Curve erzeugten Oberfläche durchgeführt.
+Grundlegende Nutzung
+Drücken Sie
+C
+, um den Befehl auszuführen.
+Spezifizieren Sie das Ziel und den Cutter.
+Befehlsdialog
+Select target bodies:
+Wählen Sie das Solid oder Sheet aus, das geschnitten werden soll.
+Um das Ziel zu ändern, klicken Sie auf
+Select target bodies
+und wenn es hervorgehoben ist, wählen Sie das Ziel.
+Select cutters:
+Wählen Sie die Curve oder Face aus, die als Cutter verwendet werden soll.
+Um die Cutter zu ändern, klicken Sie auf
+Select cutters
+und wenn es hervorgehoben ist, wählen Sie die Cutter.
+C
+Cut Curves:
+Wechseln Sie zum
+Cut Curve
+Befehl. Siehe
+Cut Curve
+S
+Screen space:
+Legt die Schnittrichtung fest, sodass sie mit der sichtbaren Richtung übereinstimmt.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Siehe auch
+Boolean
+Extrude
+Pipe
+Constrained Surface
+Deform

@@ -1,0 +1,71 @@
+Allgemein
+Mirror
+Mirror
+Befehl
+Mirror
+Tastenkürzel
+Alt + X
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Objekte mit dem Mirror Gizmo spiegeln. Entlang der Spiegelebene schneiden und Hälften zusammenführen.
+Freestyle Mirror
+möglich.
+Grundlegende Nutzung
+Wählen Sie die Objekte aus, die Sie spiegeln möchten.
+Drücken Sie
+Alt + X
+oder klicken Sie auf die Schaltfläche.
+Verwenden Sie den angezeigten Mirror Gizmo zum Spiegeln.
+Legen Sie die Spiegelrichtung und Optionen fest.
+Befehlsdialog
+Cut:
+Wenn aktiviert, wird das Spiegelziel vor dem Spiegeln durch die Spiegelebene geteilt.
+Union:
+Wenn aktiviert, werden die beiden gespiegelten Objekte kombiniert.
+Tastenkombinationen
+X
+/
+Y
+/
+Z
+Position X/Y/Z
+Spiegeln in der positiven Richtung der X/Y/Z-Achse.
+Umschalt + X
+/
+Umschalt + Y
+/
+Umschalt + Z
+Negative X/Y/Z
+Spiegeln in der negativen Richtung der X/Y/Z-Achse.
+F
+Freestyle:
+Geben Sie die Spiegelebene an, indem Sie auf den Start- und Endpunkt klicken.
+Q
+Union (merge):
+Kombiniert die beiden gespiegelten Objekte.
+Sie können die Spiegelebene auch durch Klicken auf eine flache oder gebogene Oberfläche festlegen.
+Wenn eine gebogene Oberfläche ausgewählt ist, ist die Spiegelebene die Ebene, die senkrecht zur Normale dieser Oberfläche steht und Kontakt mit der gebogenen Oberfläche hat.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Freestyle Mirror
+Dieser Befehl entspricht der
+F
+Option des
+Mirror
+Befehls.
+Wählen Sie die Objekte aus, die Sie spiegeln möchten.
+Verwenden Sie den
+Freestyle Mirror
+Befehl in der Befehlspalette.
+Geben Sie die Spiegelebene an, indem Sie auf den Start- und Endpunkt klicken.
+Legen Sie die Optionen im Befehlsdialog und den Tastaturkürzeln fest.
+Die Option ist dieselbe wie beim
+Mirror
+Befehl.
+Bestätigen Sie mit OK im Befehlsdialog oder mit einem Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Move
+Rotate
+Scale
+Measure
+Move

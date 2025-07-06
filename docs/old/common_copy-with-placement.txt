@@ -1,0 +1,74 @@
+Common
+Copy with Placement
+Copy with Placement
+Command
+Copy With Placement
+Shortcut
+Ctrl + Shift + C
+Button
+-
+Copy objects with a reference point. Use it alongside the
+Paste with Placement
+command for similar functionality to the
+Place
+command. This is particularly useful for placing objects in different
+windows
+.
+Basic Usage
+Copy with Placement
+Command
+Select the objects you wish to copy.
+Press
+Ctrl + Shift + C
+.
+Click the reference point on the object you're copying.
+To paste in a different window, switch to that target window.
+Paste with Placement
+Command
+Press
+Ctrl + Shift + V
+.
+Click the destination reference point in the target window.
+Keyboard Shortcuts
+F
+Flip:
+Allows flipping the duplication axis.
+X
+/
+Y
+/
+Z
+x/y/z-up:
+Sets the duplication axis to the X/Y/Z-axis.
+S
+Scale:
+Allows scaling.
+A
+Angle:
+Allows rotation.
+D
+Offset:
+Allows consecutive duplication.
+Shift + Q
+Slice:
+Creates a Solid at the intersections with the Boolean target and preserves the remaining Solids.
+Q
+Union:
+Joins the Boolean target and tool together.
+W
+Difference:
+Removes the tool from the Boolean target.
+Shift + E
+Intersect:
+Creates a Solid at the intersection of the Boolean target and tool.
+B
+New Body:
+Creates a new Solid without performing Boolean operations.
+Right-click to confirm.
+To copy additional objects, repeat steps 3-2 and 3-3.
+Press
+Esc
+to exit the command.
+Your browser does not support video tags.
+Complete Edge
+Curve Array

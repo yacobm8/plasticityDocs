@@ -1,0 +1,23 @@
+ソリッド
+Extend Edge
+Extend Edge（エッジを延長する）
+コマンド
+Extend Edge
+ショートカット
+-
+ボタン
+-
+他のエッジに接するまでエッジを延長することができます。
+基本的な使い方
+延長したいエッジを選択します。
+コマンドパレットで
+Extend Edge
+コマンドを実行します。
+エッジが延長されます。
+Your browser does not support video tags.
+関連項目
+isoparam
+Offset Curve
+Imprint
+Extend
+Extend Sheet

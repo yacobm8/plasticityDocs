@@ -1,0 +1,33 @@
+Solid
+Constrained Surface
+Constrained Surface
+Command
+Constrained Surface
+Shortcut
+-
+Button
+-
+Generate a surface that passes through a set of points by clicking on them.
+Basic Usage
+Use the
+Constrained Surface
+command in the Command Palette.
+Click on the points you want to pass through.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Tolerance:
+Specify the tolerance of the surface.
+Angular tolerance:
+Specify the angular tolerance of the surface.
+Optimize:
+Performance:
+The surface is generated quickly.
+Smoothness:
+The surface is generated smoothly.
+Keyboard Shortcuts
+Cmd-Z
+: Undo the last point.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+Bridge Surface
+Cut

@@ -1,0 +1,34 @@
+Solid
+Offset Curve
+Offset Curve
+Command
+Offset Curve
+Shortcut
+O
+Button
+In Suggested Commands Menu
+The Offset Curve command runs based on the selected object:
+Offset Planar Curve:
+If Curves are selected, see
+Offset Planar Curve
+in the Sketch Commands section.
+Offset Region:
+If Regions are selected, see
+Offset Region
+in the Sketch Commands section.
+Offset Face Loop:
+If Faces are selected, see
+Offset Face Loop
+.
+Offset Edge:
+If Edges are selected, see
+Offset Edge
+.
+See also
+Offset Edge
+Offset Face Loop
+isoparam
+Imprint
+Extend Edge
+Match Face
+Offset Edge

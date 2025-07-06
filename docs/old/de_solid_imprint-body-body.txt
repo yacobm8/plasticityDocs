@@ -1,0 +1,41 @@
+Fest
+Imprint Body Body
+Imprint Body Body
+Befehl
+Imprint
+Tastenkürzel
+Umschalt + I
+Schaltfläche
+Im vorgeschlagenen Befehlsmenü
+Erstellen Sie Kanten am Zielsolid oder Sheet, wo es mit einem Werkzeug-Solid oder Sheet schneidet. Optional können auch Kanten am Werkzeug erstellt werden.
+Grundlegende Nutzung
+Wählen Sie den ersten Solid oder Sheet, den Sie als Ziel für den Schnitt verwenden möchten.
+Wählen Sie den zweiten Solid oder Sheet, den Sie als Werkzeug für den Schnitt verwenden möchten.
+Legen Sie die Optionen im Befehlsdialog fest.
+Befehlsdialog
+Imprint tool:
+Schalten Sie
+Imprint
+ein, um die Option
+Complete tool
+anzugeben.
+Complete target:
+None:
+Erweitert die projizierten Kanten nicht am Zielkörper.
+Edge:
+Erweitert die projizierten Kanten, bis sie mit anderen Kanten am Zielkörper schneiden.
+Complete tool:
+None:
+Erweitert die projizierten Kanten nicht am Werkzeugkörper.
+Edge:
+Erweitert die projizierten Kanten, bis sie mit anderen Kanten am Werkzeugkörper schneiden.
+Bestätigen Sie mit OK im Befehlsdialog oder mit Rechtsklick.
+Your browser does not support video tags.
+Siehe auch
+Imprint
+Imprint Curve Body
+isoparam
+Offset Curve
+Extend Edge
+Imprint
+Imprint Curve Body

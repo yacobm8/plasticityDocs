@@ -1,0 +1,30 @@
+ソリッド
+Fillet
+Fillet（フィレットまたは面取りする）
+コマンド
+Fillet
+ショートカット
+B
+ボタン
+-
+Fillet コマンドは選択されたオブジェクトに基づいて実行されます：
+Fillet カーブ:
+カーブが選択されている場合は、
+Fillet カーブ
+を参照してください（スケッチコマンドのセクション）。
+Fillet 頂点:
+頂点が選択されている場合は、
+Fillet 頂点
+を参照してください（スケッチコマンドのセクション）。
+Fillet シェル:
+エッジが選択されている場合は、
+Fillet シェル
+を参照してください。
+関連項目
+Fillet Curve
+Fillet Vertex
+Fillet Shell
+Refillet Face
+Remove Fillets from Shell
+Extrude
+Fillet Shell

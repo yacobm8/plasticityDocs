@@ -1,0 +1,25 @@
+Fest
+Raise Surface Degree
+Raise Surface Degree
+Befehl
+Raise Degree
+Tastenkürzel
+Shift + S
+Schaltfläche
+-
+Bearbeiten Sie die Oberfläche einer Fläche oder eines Körpers, indem Sie die Kontrollpunkte (CV) der Oberfläche erhöhen.
+Grundlegende Nutzung
+Wählen Sie eine Fläche oder einen Körper aus.
+Erhöhen Sie den Grad der Fläche oder des Körpers, indem Sie
+Shift + S
+drücken.
+Bestätigen Sie mit OK im Befehlsdialog oder durch Rechtsklick.
+Your browser does not support video tags.
+💡
+Tip
+Um die CVs der Fläche auszublenden, können Sie die Option „Punkte umschalten“ in der Befehls-Palette verwenden.
+Your browser does not support video tags.
+Siehe auch
+Raise Curve Degree
+Raise Degree
+Rebuild

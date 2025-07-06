@@ -1,0 +1,34 @@
+Skizzieren & Primitive Werkzeuge
+Tangent Circle
+Tangent Circle
+Befehl
+Tangent Circle
+Tastenkürzel
+-
+Schaltfläche
+Toolbar
+Sie können einen Kreis erstellen, der tangential zu zwei Kurven verläuft.
+Grundlegende Nutzung
+Klicken Sie auf den
+Knopf in der Werkzeugleiste.
+Klicken Sie auf die erste und zweite Kurve, an denen der Kreis tangential verlaufen soll. Optional können Sie die Tangente zu Ihrer dritten Kante finden.
+Bewegen Sie den Cursor, um die Größe des Kreises anzupassen.
+Befehlsdialog
+Select first curve segment:
+Klicken Sie, um das erste Kurvensegment auszuwählen, wenn es hervorgehoben ist.
+Select second curve segment:
+Klicken Sie, um das zweite Kurvensegment auszuwählen, wenn es hervorgehoben ist.
+Radius:
+Durchmesser angeben.
+Klicken Sie im Befehlsdialog auf OK oder rechtsklick zur Bestätigung.
+Der Kreis wird erstellt.
+Your browser does not support video tags.
+Siehe auch
+Center Cirvle
+Two-Point Circle
+Three-Point Circle
+Center Point Arc
+Three-Point Arc
+Tangent Arc
+Three Point Circle
+Center Point Arc

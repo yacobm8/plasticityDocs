@@ -1,0 +1,19 @@
+ソリッド
+Unwrap Face
+Unwrap Face
+コマンド
+Unwrap
+ショートカット
+-
+ボタン
+-
+⚠️
+Unwrap Face
+と
+Wrap Face
+は、まだ実験的な機能です。まだ本番での使用には向いていません。
+関連項目
+ソリッドとシートの変形
+カーブの変形
+Untrim
+Xnurbs

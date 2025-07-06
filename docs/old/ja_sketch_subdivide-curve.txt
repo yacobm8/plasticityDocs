@@ -1,0 +1,25 @@
+スケッチ
+Subdivide Curve
+Subdivide Curve
+コマンド
+Subdivide
+ショートカット
+Alt + S
+ボタン
+-
+選択したカーブのコントロールポイント（CV）とカーブセグメントの数を増やします。
+基本的な使い方
+1つ以上のカーブを選択します。
+Alt + S
+を押すか、コマンドパレットで
+Subdivide
+と入力します。
+CVの数が増加し、それらが選択されます。
+💡
+ヒント
+単一スパンのカーブに Raise Degree コマンドを使用すると、実行ごとに 1 つの制御点 (CV) が追加されます。一方、Subdivide コマンドは適用するたびに CV の数を倍増させます。
+See also
+Raise Curve Degree
+Rebuild Curve
+Split Segment
+Text

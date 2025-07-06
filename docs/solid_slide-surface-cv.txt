@@ -1,0 +1,50 @@
+Solid
+Slide Surface Cv
+Slide Surface CVs
+Command
+Slide
+Shortcut
+Shift + G
+Button
+-
+Slide CVs along the tangential direction of the CV hull, preserving the surface flow while adjusting point positions.
+Basic Usage
+Select a CV or CVs you want to slide.
+Press
+Shift + G
+to activate the Slide command.
+Set the options in the Command Dialog and Keyboard Shortcuts.
+Command Dialog
+Distance:
+Specify the distance of moved CVs.
+Keyboard Shortcuts
+Ctrl + Z
+Undo:
+Revert the last command execution, restoring the previous state.
+U
+Positive U:
+Slide in a positive U direction.
+Shift + U
+Negative U:
+Slide in a negative U direction.
+N
+Normal:
+Slide in a normal direction.
+V
+Positive V:
+Slide in a positive V direction.
+Shift + V
+Negative V:
+Slide in a negative V direction.
+Gizmo handles appear with specific direction controls. Use them to move CVs and adjust their positions precisely.
+Confirm with OK in the Command Dialog or right-click.
+Your browser does not support video tags.
+💡
+Tip
+The Slide command includes a toggle feature that lets you switch between preview and active mode by holding down
+Ctrl
+. This allows you to compare the before-and-after results of the command.
+See also
+Move Control Point
+Slide
+Square

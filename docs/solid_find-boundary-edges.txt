@@ -1,0 +1,20 @@
+Solid
+Find Boundary Edges
+Find Boundary Edges
+Command
+Find Boundary Edges
+Shortcut
+-
+Button
+-
+Select the boundary Edges of an open area on a selected Sheet.
+Basic Usage
+Select a Sheet you want to find boundary Edges.
+Type in
+"Find Boundary Edges"
+in the Command Palette and click on it.
+Edges of the Sheet opening are selected.
+💡
+Unconnected Edges are one of the causes of not being Solid as expected. You can find unconnected Edges with this command.
+Fillet Shell
+Hollow

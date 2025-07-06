@@ -1,0 +1,27 @@
+Skizze
+Toggle Points
+Toggle Points
+Befehl
+Toggle Points
+Tastenkürzel
+-
+Schaltfläche
+-
+Punkte an Flächen, Kurven und Körpern ausblenden oder anzeigen.
+Grundlegende Nutzung
+Wählen Sie die Fläche, Kurve oder den Körper aus, bei dem Sie die CV-Punkte ausblenden oder anzeigen möchten.
+Geben Sie
+Toggle Points
+in der Befehls-Palette ein und klicken Sie darauf.
+Your browser does not support video tags.
+💡
+Tip
+Erstellen Sie eine Tastenkombination für eine einfache Nutzung und schnellen Zugriff. Klicken Sie mit der rechten Maustaste auf einen Befehl in der Befehls-Palette, dann mit der linken Maustaste auf „Tastenkürzel zuweisen“ und weisen Sie eine Tastenkombination zu.
+Your browser does not support video tags.
+Siehe auch
+Rebuild Curve
+Rebuild Face
+Raise Curve Degree
+Raise Surface Degree
+Text
+Trim

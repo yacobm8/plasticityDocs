@@ -1,0 +1,39 @@
+Skizzieren & Primitive Werkzeuge
+Corner Rectangle
+Corner Rectangle
+Befehl
+Corner Rectangle
+Tastenkürzel
+-
+Schaltfläche
+Werkzeugleiste
+Sie können ein Rechteck erstellen, indem Sie seine Diagonale angeben.
+Grundlegende Nutzung
+Klicken Sie auf den
+Knopf in der Werkzeugleiste.
+Klicken Sie auf eine Ecke des Rechtecks.
+Bewegen Sie den Cursor, um die Größe anzupassen, und klicken Sie zur Bestätigung.
+Tastenkombinationen
+Tab
+: Ermöglicht direkte Eingabe von Abmessungen. Weitere Informationen finden Sie
+hier
+.
+K
+Knife:
+Siehe
+Messermodus verwenden
+.
+C
+Center / Corner:
+Wechselt zu Mittelpunktrechteck.
+S
+Square:
+Beschränkt auf quadratische Form.
+Rechtsklick zur Bestätigung.
+Das Rechteck wird erstellt.
+Your browser does not support video tags.
+Siehe auch
+Center Rechteck
+Drei-Punkt-Rechteck
+Spiral
+Center Rectangle

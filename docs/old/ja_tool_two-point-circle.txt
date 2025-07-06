@@ -1,0 +1,47 @@
+スケッチ & プリミティブ ツール
+Two Point Circle
+Two-Point Circle（2点指定の円）
+コマンド
+Two-Point Circle
+ショートカット
+-
+ボタン
+ツールバー
+直径を指定して円を作成できます。
+基本的な使い方
+ツールバーのボタン
+をクリックします。
+直径の始点をクリックします。
+カーソルを動かして円の大きさを調整し、クリックして確定します。
+キーボードショートカット
+Tab
+寸法値に直接入力できるようになります。詳細は
+こちら
+を参照してください。
+V
+Vertical / Horizontal :
+構築平面に対する傾きを変えます。
+K
+Knife :
+ナイフモードを使う
+を参照してください。
+X
+/
+Y
+/
+Z
+X/Y/Z-axis :
+X、Y、Z軸に拘束します
+。
+右クリックで確定します。
+円が作成されます。
+Your browser does not support video tags.
+関連項目
+Center Circle
+Three-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Tangent Arc
+Center Circle
+Three Point Circle

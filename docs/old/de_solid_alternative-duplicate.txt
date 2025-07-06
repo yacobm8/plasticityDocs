@@ -1,0 +1,52 @@
+Fest
+Alternative Duplicate
+Alternative Duplicate
+Befehl
+Alternative Duplicate
+Tastenkürzel
+Alt + D
+Schaltfläche
+-
+Erstellen Sie einen Solid aus den ausgewählten Faces und manipulieren Sie dann seine Position.
+Grundlegende Nutzung
+Wählen Sie das Face der Basis aus, auf dem Sie einen Solid erstellen möchten.
+Drücken Sie
+Alt + D
+, um den Befehl auszuführen.
+Der Solid wird erstellt. Verwenden Sie das angezeigte Move Gizmo zum Verschieben.
+Legen Sie die Optionen im Befehlsdialog und die Tastaturkürzel fest.
+Befehlsdialog
+XYZ:
+Geben Sie die Bewegungsmenge der X-, Y- und Z-Achsen an.
+X
+/
+Y
+/
+Z
+X/Y/Z-axis:
+Auf X-, Y- oder Z-Achse beschränken
+.
+Tastenkombinationen
+Umschalt + X
+/
+Umschalt + Y
+/
+Umschalt + Z
+X, Y, Z plane:
+Auf die X-, Y- oder Z-Ebene beschränken.
+G
+Screen space:
+Beschränkung auf die sichtbare Ebene.
+F
+Freestyle:
+Klicken Sie, um den Start- und Endpunkt anzugeben, die die Richtung und Entfernung der Bewegung bestimmen.
+V
+Pivot:
+Klicken Sie, um die Position des Gizmo anzugeben.
+W
+Worldspace:
+Ändern Sie die Koordinatenachse des Gizmo zu Weltkoordinaten.
+Bestätigen Sie mit OK im Befehlsdialog oder Rechtsklick.
+Your browser does not support video tags.
+Fest
+Boolean

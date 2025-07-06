@@ -1,0 +1,23 @@
+Solid
+Extend Edge
+Extend Edge
+Command
+Extend Edge
+Shortcut
+-
+Button
+-
+Extend the selected Edge until it intersects with another Edge.
+Basic Usage
+Select Edges you want to extend.
+Use the
+Extend Edge
+command in the Command Palette.
+The Edge is extended.
+Your browser does not support video tags.
+See also
+isoparam
+Offset Curve
+Imprint
+Extend
+Extend Sheet

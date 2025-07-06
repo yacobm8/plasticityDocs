@@ -1,0 +1,51 @@
+Plasticityの基本
+選択モード
+選択モード
+選択したいオブジェクトに応じて選択モードを切り替えます。
+選択モードの切り替えは、キーボードショートカットか画面左上のボタンでできます。
+Command Name
+Shortcut
+Button
+Note
+Selection mode: set Control Point
+1
+(1)
+制御点選択モード（制御点が選択できる）
+Selection mode: set edge
+2
+(2)
+エッジ選択モード（エッジとカーブが選択できる）
+Selection mode: set face
+3
+(3)
+フェイス選択モード（フェイスとリージョンが選択できる）
+Selection mode: set solid
+4
+(4)
+ソリッド選択モード（ソリッドとシートが選択できる）
+Selection mode: set all
+Tab
+(5)
+オール選択モード（すべてのタイプのオブジェクトが選択できる）
+Selection: toggle Control Point
+Shift + 1
+Shift
++ click(1)
+制御点選択モードのみをオン・オフする
+Selection: toggle edge
+Shift + 2
+Shift
++ click(2)
+エッジ選択モードのみをオン・オフする
+Selection: toggle face
+Shift + 3
+Shift
++ click(3)
+フェイス選択モードのみをオン・オフする
+Slection: toggle solid
+Shift + 4
+Shift
++ click(4)
+ボディ選択モードのみをオン・オフする
+オブジェクトのフォーカスと分離
+オブジェクトの選択

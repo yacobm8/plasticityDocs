@@ -1,0 +1,20 @@
+Plasticity Essentials
+User Interface Overview
+User Interface Overview
+P-Menu
+Outliner
+Assets
+Selection mode
+Tools
+Command Palette
+View Mode
+View Cube
+Shader Mode
+Camera Settings
+Grid and Units
+Snap
+Planes
+Selection
+Command Bar
+Operating the 3D Viewport
+P-Menu
