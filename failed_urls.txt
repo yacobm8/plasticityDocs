@@ -23,3 +23,14 @@ https://doc.plasticity.xyz/sketch/deform-sketch
 https://doc.plasticity.xyz/tool/measure
 https://doc.plasticity.xyz/construction-plane
 https://doc.plasticity.xyz/plasticity-essentials/export-obg
+https://doc.plasticity.xyz/release-notes
+https://doc.plasticity.xyz/plasticity-essentials/export-obg
+https://doc.plasticity.xyz/release-notes/sketch/extend-curve
+https://doc.plasticity.xyz/release-notes/solid/offset-face
+https://doc.plasticity.xyz/plasticity-essentials/grid-and-snap
+https://doc.plasticity.xyz/plasticity-essential/construction-plane
+https://doc.plasticity.xyz/solid/refillet-face
+https://doc.plasticity.xyz/solid/rebuild-curve
+https://doc.plasticity.xyz/solid/extend-edge
+https://doc.plasticity.xyz/sketch/rebuild-face
+https://doc.plasticity.xyz/sketch/deform-sketch

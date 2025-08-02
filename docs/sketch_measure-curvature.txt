@@ -1,0 +1,22 @@
+Sketch
+Measure Curvature
+Measure Curvature
+Command
+Measure Curvature
+Shortcut
+-
+Button
+-
+The Measure Curvature command runs based on the selected object:
+Measure Curve Curvature:
+If Curves are selected, see
+Measure Curve Curvature
+.
+Measure Surface Curvature:
+If Surface Edges are selected, see
+Measure Surface Curvature
+in the Solid Commands section.
+See also
+Measure Continuity
+Join Curves
+Measure Curve Curvature

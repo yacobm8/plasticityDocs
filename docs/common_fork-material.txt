@@ -1,0 +1,24 @@
+Common
+Fork Material
+Fork Material
+Command
+Fork Material
+Shortcut
+Shift + M
+Button
+-
+Allows you to duplicate and edit the materials for the selected objects.
+Basic Usage
+Select the object you want to fork the material.
+Press
+Shift + M
+.
+The material will be duplicated and editable.
+Your browser does not support video tags.
+See also
+Remove Material
+Set Material
+Outliner/Material color
+View Mode/Toggle View Mode
+Duplicate
+Measure
