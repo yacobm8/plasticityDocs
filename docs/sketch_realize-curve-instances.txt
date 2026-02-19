@@ -1,0 +1,24 @@
+Sketch
+Realize Curve Instances
+Realize Curve Instances
+Command
+Realize Instances
+Shortcut
+-
+Button
+In Command Palette
+Convert selected Curve instances into editable sketch objects, turning them into a true Curve that can be modified as needed.
+Basic Usage
+Select the Curve instances you want to convert.
+Open the Command Palette, type
+Realize Instances
+, and execute the command.
+The instances have been converted into editable objects.
+Your browser does not support video tags.
+Realize Instanced Groups
+The workflow is identical to the basic usage described above.
+Your browser does not support video tags.
+See also
+Realize Solid and Sheet Instances
+Raise Degree
+Realize Instances

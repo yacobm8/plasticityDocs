@@ -1,0 +1,34 @@
+Sketching & Primitive Tools
+Measure Radius
+Measure Radius
+Command
+Measure Radius
+Shortcut
+-
+Button
+In Command Palette
+Measures the radius of a solid surface edge or a curve (sketch) and creates a radius annotation.
+Basic Usage
+Open the Command Palette, type
+Measure Radius
+, and run the command.
+Select the type of object to measure:
+Type
+Note
+Solid
+Click the surface edge you want to measure.
+Curve
+Click the sketch whose radius you want to measure.
+Move the mouse in the viewport to set the length of the annotation line, then click left or right mouse button to confirm.
+The measured value appears next to the
+R
+symbol, indicating a radius. The measurement is also added to the
+Outliner
+under
+Measurements
+.
+Your browser does not support video tags.
+See also
+Dimension
+Measure Continuity
+Toggle Curvature

@@ -1,0 +1,44 @@
+Sketching & Primitive Tools
+Ellipse
+Ellipse
+Command
+Ellipse
+Shortcut
+-
+Button
+Toolbar
+You can create an ellipse by specifying the center and radius of the major or minor axis.
+Basic Usage
+Click the
+button on the toolbar.
+Specify the centre to begin drafting the radius of the major or minor axis.
+Move the cursor to adjust the size of the ellipse and click to confirm.
+Keyboard Shortcuts
+Tab
+: Allows direct input of dimensions. For details, see
+here
+.
+K
+Knife:
+Please refer to
+Using Knife Mode
+.
+X
+/
+Y
+X/Y-axis:
+Constrain to X, Y axis
+.
+Click OK in the command dialog or right-click to confirm.
+The ellipse is created.
+Your browser does not support video tags.
+See also
+Center Circle
+Two-Point Circle
+Three-Point Circle
+Tangent Circle
+Center Point Arc
+Three-Point Arc
+Tangent Arc
+Cylinder
+Measure

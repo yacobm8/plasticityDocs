@@ -1,0 +1,20 @@
+Sketch
+Create Instance
+Create Instance
+Command
+Create Instance
+Shortcut
+-
+Button
+Command Palette
+The Instance command runs based on the selected object:
+Create Curve Instance:
+If Curves are selected, see
+Create Curve Instance
+.
+Create Solid and Sheet Instance:
+Solids or Sheets are selected, see
+Create Solid and Sheet Instance
+.
+Create Curve Instance
+Create Outline

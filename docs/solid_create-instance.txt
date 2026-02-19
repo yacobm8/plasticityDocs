@@ -1,0 +1,22 @@
+Solid
+Create Instance
+Create Instance
+Command
+Create Instance
+Shortcut
+-
+Button
+In Command Palette
+The
+Create Instance
+command runs based on the selected object:
+Create Solid and Sheet Instance:
+Solids or Sheets are selected, see
+Create Solid and Sheet instance
+.
+Create Curve Instance:
+If Curves are selected, see
+Create Curve Instance
+.
+Constrained Surface
+Create Solid and Sheet Instance
